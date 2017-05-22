@@ -42,6 +42,8 @@
 
 ## Modules
 
+* Python Module of the Week - Python Module of the Week - [https://pymotw.com/2/contents.html](https://pymotw.com/2/contents.html) - **Highly** recommended by many authors.
+
 **Itertools**
 * [9.7\. itertools — Functions creating iterators for efficient looping — Python 2.7.13 documentation](https://docs.python.org/2/library/itertools.html)
 
