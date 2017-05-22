@@ -34,3 +34,5 @@
 * [https://inventwithpython.com](https://inventwithpython.com/) - Book publisher - listing of great titles.
 
 * [What tutorial should I read? - sopython](http://sopython.com/wiki/What_tutorial_should_I_read%3F) - Especially if you didn't like "Learn Python the Hard Way."
+
+* [A curated list of online courses to learn Python](https://www.reddit.com/r/learnpython/comments/69590b/a_curated_list_of_online_courses_to_learn_python/)
