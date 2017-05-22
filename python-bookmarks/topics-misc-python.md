@@ -18,6 +18,8 @@
 * 27.3\. pdb — The Python Debugger — Python 3.6.0 documentation - [https://docs.python.org/3/library/pdb.html](https://docs.python.org/3/library/pdb.html) - 27.3\. pdb — The Python Debugger ¶ Source code: Lib/pdb.py The module pdb defines an interactive source code debugger for Python programs. It supports setting (conditional) breakpoints and single stepping at the source line level, inspection of stack frames, source code listing, and evaluation of arbitrary Python code in the context of any stack frame. It also supports post-mortem debugging and can be called under program control. The debugger is extensible – it is actually defined as the class ...
 * Become a pdb power-user – Instamojo Matters – Medium - [https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2#.duy9mvfdr](https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2#.duy9mvfdr) - This is an explanatory article related to my talk at MUPy — Become a pdb power-user.
 * how do you guys debug your code? • r/learnpython - [https://www.reddit.com/r/learnpython/comments/5hcvjq/how_do_you_guys_debug_your_code/](https://www.reddit.com/r/learnpython/comments/5hcvjq/how_do_you_guys_debug_your_code/) - i am debugging my code by printing the varibles etc or just letting it crash and see the error is this the only way to debug? or is there a better...
+* [Quick Tip on Better Python Debugging](https://www.reddit.com/r/Python/comments/6bhd78/quick_tip_on_better_python_debugging/) | [https://www.reddit.com/r/Python/comments/6bhd78/quick_tip_on_better_python_debugging/](https://www.reddit.com/r/Python/comments/6bhd78/quick_tip_on_better_python_debugging/)
+* [how do you debug functions?](https://www.reddit.com/r/learnpython/comments/6bck0b/how_do_you_debug_functions/) | [https://www.reddit.com/r/learnpython/comments/6bck0b/how_do_you_debug_functions/](https://www.reddit.com/r/learnpython/comments/6bck0b/how_do_you_debug_functions/)
 
 ## Make a standalone application with Python
 
@@ -59,6 +61,7 @@
 * [Python's Instance, Class, and Static Methods Demystified](https://www.reddit.com/r/learnpython/comments/64jhcx/pythons_instance_class_and_static_methods/)
 * [OOP Project - bank account transactions](https://www.reddit.com/r/learnpython/comments/64iogn/oop_project_bank_account_transactions/)
 * [Learnimg classes](https://www.reddit.com/r/learnpython/comments/67ogq6/learnimg_classes/)
+* [Better understanding of OOP](https://www.reddit.com/r/learnpython/comments/6auqn6/better_understanding_of_oop/) | [https://www.reddit.com/r/learnpython/comments/6auqn6/better_understanding_of_oop/](https://www.reddit.com/r/learnpython/comments/6auqn6/better_understanding_of_oop/)
 
 ### Lambda Functions
 * 4.7. Using lambda Functions - [http://www.diveintopython.net/power_of_introspection/lambda_functions.html](http://www.diveintopython.net/power_of_introspection/lambda_functions.html)
