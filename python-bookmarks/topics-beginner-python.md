@@ -1,8 +1,50 @@
 # Topics
 
-### Basics
+## Basics
 
-**Getting Started**
+### Getting Started
+
+**Reddit General**
+* Ask Anything Monday - Weekly Thread • /r/learnpython -   [https://www.reddit.com/r/learnpython/comments/5sfe6v/ask_anything_monday_weekly_thread/](https://www.reddit.com/r/learnpython/comments/5sfe6v/ask_anything_monday_weekly_thread/)
+* [CS Career Questions - Reddit](https://www.reddit.com/r/cscareerquestions/)
+* [faq - learnprogramming - reddit](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_which_programming_language_should_i_start_with.3F)
+
+
+**Learn With Others**
+
+* <https://www.reddit.com/r/learnpython/comments/5yszdh/python_study_group_on_slack/> 
+* Many devs here on Reddit and on Slack were asking about open source projects they can contribute to. So I made the form for people who want to get notified about OSS contribution opportunities. (beginners are welcome) • r/learnpython - [https://www.reddit.com/r/learnpython/comments/5vxo7z/many_devs_here_on_reddit_and_on_slack_were_asking/](https://www.reddit.com/r/learnpython/comments/5vxo7z/many_devs_here_on_reddit_and_on_slack_were_asking/) - tl;dr: signup to get open source contribution opportunities based on your skills/level. **Form link:...**
+
+**IDE's**
+
+* [Python IDE to Learn Programming Quickly & Efficiently](https://www.jetbrains.com/pycharm-edu/concepts/)
+* [PyDev](http://www.pydev.org/download.html)
+* [The Eric Python IDE - Download](http://eric-ide.python-projects.org/eric-download.html)
+* [EmacsWiki: Python Programming In Emacs](https://www.emacswiki.org/emacs/PythonProgrammingInEmacs)
+* [Wingware Python IDE](https://wingware.com/)
+* [GitHub - python-rope/rope: a python refactoring library](https://github.com/python-rope/rope) - what does this do?
+* [repl.it - Python3 Compiler](https://repl.it/languages/python3)
+* [repl.it - Python2 Compiler](https://repl.it/F91F)
+* [Python 3 Trinket](https://trinket.io/features/python3)
+* PyCharm - Python IDE to Learn Programming Quickly & Efficiently - [https://www.jetbrains.com/pycharm-edu/concepts/](https://www.jetbrains.com/pycharm-edu/concepts/) - Free, Easy & Professional Tool to Learn Programming with Python. [Download Latest Version of PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+* Python IDE: The10 Best IDEs for Python Programmers - [http://noeticforce.com/best-python-ide-for-programmers-windows-and-mac](http://noeticforce.com/best-python-ide-for-programmers-windows-and-mac) - PyCharm, Pydev, Emacs, Eric, etc.
+* Download Anaconda Now! - [https://www.continuum.io/downloads](https://www.continuum.io/downloads) - Rich and recommended distribution of Python.
+* SpyderOverview - Anaconda - [https://www.youtube.com/watch?v=_pIQEh2H11s](https://www.youtube.com/watch?v=_pIQEh2H11s) -[Laura Trouille](https://www.youtube.com/channel/UC0XWaO29-nHJ7gS0Wcxpy0g) - This video provides a relatively short overview of the features of the Spyder IDE for Python.
+* Ask Reddit: What text editor to make using Python easier • r/programming - [https://www.reddit.com/r/programming/comments/a6tqe/ask_reddit_what_text_editor_to_make_using_python/](https://www.reddit.com/r/programming/comments/a6tqe/ask_reddit_what_text_editor_to_make_using_python/) - Python fans: How do you deal with the whitespace issues and the indenting/reformatting of cut & pasted code? I've been frustrated when writing...
+* [Top Online Python Compiler | Best Online Python Compiler | Python Tutorial | STechies](https://www.stechies.com/top-online-python-compilers/)
+
+**Share Code**
+
+* [The Ultimate guide On Jupyter Notebook[Part-1]](https://www.reddit.com/r/Python/comments/64dbl7/the_ultimate_guide_on_jupyter_notebookpart1/)
+* Jupyter Notebook Tutorial: The Definitive Guide - [http://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook](http://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) - This tutorial explains how to install, run, and use Jupyter Notebooks for data science, including tips, best practices, and examples.
+* [share python code online - Google Search](https://www.google.com/search?rlz=1CDGOYI_enUS647US647&hl=en-US&ei=HhDsWN_WNKqA0wL_9RY&q=share+python+code+online&oq=share+python+&gs_l=mobile-gws-serp.1.1.0j0i20k1l2j0i10k1l2.445322.449152.0.450254.15.14.1.4.4.0.256.1611.5j6j2.13.0....0...1c.1.64.mobile-gws-serp..1.14.1154.3..35i39k1j0i131k1j0i67k1j0i131i10i67k1.lKf2Mfsm_28)
+
+
+## Articles and General Questions
+
+**Quora**
+* [Quora - What Python blogs do you recommend?](https://www.reddit.com/r/Python/comments/6500tz/what_python_blogs_do_you_recommend/)
+* [Quora - How do I learn advanced Python? by Bill Bergmann](https://www.quora.com/How-do-I-learn-advanced-Python-1/answer/Bill-Bergmann-1?share=6ab1154b&srid=4tK5)
 * Python2orPython3 - Python Wiki - [https://wiki.python.org/moin/Python2orPython3](https://wiki.python.org/moin/Python2orPython3) - Should I use Python 2 or Python 3 for my development activity?
 * [MIT recommended references 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
 
