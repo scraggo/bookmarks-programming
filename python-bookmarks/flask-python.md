@@ -16,3 +16,5 @@
 * How do you use Python to make websites? - Quora - [https://www.quora.com/How-do-you-use-Python-to-make-websites](https://www.quora.com/How-do-you-use-Python-to-make-websites)
 
 * Learn Python from Scratch - Learn to build a dynamic website with Python • r/programming - [https://www.reddit.com/r/programming/comments/mizdc/learn_python_from_scratch_learn_to_build_a/](https://www.reddit.com/r/programming/comments/mizdc/learn_python_from_scratch_learn_to_build_a/) - 777 points and 126 comments so far on reddit
+
+* [Free Web Development with Python and Flask Tutorials + Exercises](https://www.reddit.com/r/learnpython/comments/6biha1/free_web_development_with_python_and_flask/) | [https://www.reddit.com/r/learnpython/comments/6biha1/free_web_development_with_python_and_flask/](https://www.reddit.com/r/learnpython/comments/6biha1/free_web_development_with_python_and_flask/)
