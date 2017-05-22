@@ -1,4 +1,4 @@
-# Python Book Links
+# Python Book and Online Course Links
 
 *curated by [scraggo](https://github.com/scraggo)*
 
