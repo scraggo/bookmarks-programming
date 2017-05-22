@@ -30,7 +30,6 @@
 
 * Extending Automator: Running AppleScript, Shell, Python, or Ruby Scripts | Peachpit - [http://www.peachpit.com/blogs/blog.aspx?uk=Extending-Automator-Running-AppleScript-Shell-Python-or-Ruby-Scripts](http://www.peachpit.com/blogs/blog.aspx?uk=Extending-Automator-Running-AppleScript-Shell-Python-or-Ruby-Scripts)
   * [How can I run a python script in automator? : learnpython](https://www.reddit.com/r/learnpython/comments/2dmbmq/how_can_i_run_a_python_script_in_automator/)
-  * [Create Automator Service With a Python Script? - Ask Different](https://apple.stackexchange.com/questions/59532/create-automator-service-with-a-python-script)
   * [osx - Run Python script on csv-file with OS X automator - Stack Overflow](http://stackoverflow.com/questions/20082586/run-python-script-on-csv-file-with-os-x-automator)
   * Create Automator Service With a Python Script? - [http://apple.stackexchange.com/questions/59532/create-automator-service-with-a-python-script](http://apple.stackexchange.com/questions/59532/create-automator-service-with-a-python-script) - I'm trying to create an Automator Service that will act on selected text, converting dashes to spaces, and also making word caps for all the text. A friend gave me this python script (I know nothing
 
