@@ -16,9 +16,12 @@
 
 * <https://www.reddit.com/r/learnpython/comments/5yszdh/python_study_group_on_slack/> 
 * Many devs here on Reddit and on Slack were asking about open source projects they can contribute to. So I made the form for people who want to get notified about OSS contribution opportunities. (beginners are welcome) • r/learnpython - [https://www.reddit.com/r/learnpython/comments/5vxo7z/many_devs_here_on_reddit_and_on_slack_were_asking/](https://www.reddit.com/r/learnpython/comments/5vxo7z/many_devs_here_on_reddit_and_on_slack_were_asking/) - tl;dr: signup to get open source contribution opportunities based on your skills/level. **Form link:...**
+* [Hey guys, does anybody want to start doing the Automate The Boring Stuff With Python?](https://www.reddit.com/r/learnpython/comments/6b7w8z/hey_guys_does_anybody_want_to_start_doing_the/) | [https://www.reddit.com/r/learnpython/comments/6b7w8z/hey_guys_does_anybody_want_to_start_doing_the/](https://www.reddit.com/r/learnpython/comments/6b7w8z/hey_guys_does_anybody_want_to_start_doing_the/)
+* [/u/etoomuch made a Slack team channel for MIT's free Python course. Come join us redditors!](https://www.reddit.com/r/learnpython/comments/6aspa9/uetoomuch_made_a_slack_team_channel_for_mits_free/) | [https://www.reddit.com/r/learnpython/comments/6aspa9/uetoomuch_made_a_slack_team_channel_for_mits_free/](https://www.reddit.com/r/learnpython/comments/6aspa9/uetoomuch_made_a_slack_team_channel_for_mits_free/)
 
 **IDE's**
 
+* [Thonny, Python IDE for beginners](https://www.reddit.com/r/Python/comments/6ahnsb/thonny_python_ide_for_beginners/) - url: [https://www.reddit.com/r/Python/comments/6ahnsb/thonny_python_ide_for_beginners/](https://www.reddit.com/r/Python/comments/6ahnsb/thonny_python_ide_for_beginners/)
 * [Python IDE to Learn Programming Quickly & Efficiently](https://www.jetbrains.com/pycharm-edu/concepts/)
 * [PyDev](http://www.pydev.org/download.html)
 * [The Eric Python IDE - Download](http://eric-ide.python-projects.org/eric-download.html)
