@@ -78,3 +78,64 @@ This book is designed with beginners (like you) in mind. In other words, you wil
  * PythonLearn - Exploring Data - [http://www.py4inf.com/](http://www.py4inf.com/) - The goal of this site is to provide a set of materials in support of my Python for Informatics: Exploring Information book to allow you to learn Python on your own. This page serves as an outline of the materials to support the textbook. You can download the exercises, audio, and video lectures to your local computer so you can play them locally. This can be done with either a Right-Click or a Control-Click in most browsers. Welcome Lecture - ( YouTube , Audio podcast for all lectures ) Get you...
 
  * [Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation](http://pymbook.readthedocs.io/en/py3/) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python. Covers intermadiate/advanced topics including virtualenv, testing, project structure, and Flask.
+
+## Online Tutorials
+
+* [Python Shortcuts for the Python Beginner - Max Burstein's Blog](http://www.maxburstein.com/blog/python-shortcuts-for-the-python-beginner/) - Python Shortcuts for the Python Beginner (Posted on January 26 th , 2013) The following are just a collection of some useful shortcuts and tools I've found in Python over the years. Hopefully you find them helpful.
+  * Reddit response: r/programming - [https://www.reddit.com/r/programming/comments/17cw1h/python_shortcuts_for_the_python_beginner/](https://www.reddit.com/r/programming/comments/17cw1h/python_shortcuts_for_the_python_beginner/)
+
+
+* [Introduction to Programming with Python — Introduction to Programming with Python](https://opentechschool.github.io/python-beginners/en/index.html) - A fun online beginner tutorial that uses turtle. Great resources at the end.
+* [Let’s Program with Python: Statements, Variables, and Loops (Part 1) – dbader.org](https://dbader.org/blog/python-intro-statements-variables-and-loops#.) - Also uses turtle.
+
+* [Introduction to Python: An open resource for students and teachers](http://introtopython.org/) - An online course with cool project examples (see below.)
+  * [Basic Terminal Apps](http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app) - By this point, you have learned enough Python to start building interactive apps. If you are set on the larger projects such as building a video game, making a visualization, or making a web app, you can skip this section. But if you would like to start building some simpler apps that run directly in your terminal, check out this notebook. Terminal apps are a great way to build the core functionality of a program you are interested in, which can then be extended into a more accessible format.
+
+
+* [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/en/Welcome) - Basics, Data Science, and Advanced Tutorials.
+* [Python Overview Tutorial](http://www.afterhoursprogramming.com/tutorial/Python/Overview/) - Learn the fundamentals of Python (and web languages)
+* [PyCharm: PyCharm Edu: The Adaptive Python Course](http://feedproxy.google.com/~r/Pycharm/~3/YoYQM0ilN00/)
+* [Top Python Programming Language Online Courses](http://gainfromhere.com/python-programming-language/)
+* [Learn R, Python & Data Science Online | DataCamp](https://www.datacamp.com/)
+* [Python School](https://pythonschool.net/) - Python School provides a way for existing ICT teachers to gain the knowledge and skills necessary to teach Computing and Computer Science in schools. The materials are designed to enable you to gain the experience necessary to teach Computing at Key Stage 3, GCSE and A-Level.
+  * [Python School - Insertion Sort](https://pythonschool.net/data-structures-algorithms/insertion-sort/)
+
+
+**MIT OCW / EDX Courses**
+
+* [Introduction to Computer Science and Programming in Python | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+  * [6.0001 Introduction to Computer Science and Programming in Python. Fall 2016 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)  [http://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA](http://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+  * Introduction to Computer Science and Programming Using Python - [https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - A new and updated introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.
+
+
+
+* MIT - A Gentle Introduction to Programming Using Python, January IAP 2011 - [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) - This course will provide a gentle, yet intense, introduction to programming using Python for highly motivated students with little or no prior experience in programming. The course will focus on planning and organizing programs, as well as the grammar of the Python programming language. The course is designed to help prepare students for 6.01 Introduction to EECS I. 6.01 assumes some knowledge of Python upon entering; the course material for 6.189 has been specially designed to make sure that co...
+  * [6.00.1x Week 2 (Problem Set) – Shaun Ling](http://shaunlgs.com/2014/03/08/6-00-1x-week-2continuation/)
+
+
+* [Introduction to Computer Science and Programming | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm)
+
+* MIT - A Gentle Introduction to Programming Using Python, January IAP 2008 - [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/) - This course will provide a gentle introduction to programming using Python&trade; for highly motivated students with little or no prior experience in programming computers. The course will focus on planning and organizing programs, as well as the grammar of the Python programming language. Lectures will be interactive featuring in-class exercises with lots of support from the course staff. This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MI...
+
+* Introduction to Computational Thinking and Data Science - [https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5) - 6.00.2x is an introduction to using computation to understand real-world phenomena. Topics covered include:
+  *  Advanced programming in Python 3
+  *  Knapsack problem, Graphs and graph optimization
+  *  Dynamic programming
+  *  Plotting with the pylab package
+  *  Random walks
+  *  Probability, Distributions
+  *  Monte Carlo simulations
+  *  Curve fitting
+  *  Statistical fallacies
+
+
+## pythonprogramming.net / Sentdex
+Fantastic online tutorials.
+
+* [Python Programming Tutorials](https://pythonprogramming.net/) - Website with tons of tutorials on many different applications of Python.
+* Youtube: sentdex videos - [https://www.youtube.com/user/sentdex](https://www.youtube.com/user/sentdex) - Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game devel...
+* [List Comprehension and Generators - Python Programming Tutorials - sentdex](https://pythonprogramming.net/list-comprehension-generators-intermediate-python-tutorial/)
+* [sentdex iterators](https://www.youtube.com/watch?v=ZoWgzG_r2qo)
+* [sentdex intermediate](https://www.youtube.com/watch?v=0twL6MXCLdQ)
+* [sentdex - Python 3 Programming Tutorial: Math - YouTube](https://www.youtube.com/watch?v=BvgPM9-krOY&index=4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
