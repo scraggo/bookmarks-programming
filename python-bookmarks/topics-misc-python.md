@@ -26,9 +26,12 @@
 * py2app - Create standalone Mac OS X applications with Python — py2app 0.12 documentation - [https://pythonhosted.org/py2app/](https://pythonhosted.org/py2app/)
 * How to make my program executable on any computer? • r/learnpython - [https://www.reddit.com/r/learnpython/comments/5z9wrp/how_to_make_my_program_executable_on_any_computer/](https://www.reddit.com/r/learnpython/comments/5z9wrp/how_to_make_my_program_executable_on_any_computer/) - For my writing class, my professor gave creative freedom when it came to our final project so I created a text-based game using Python. I was... <span>There are methods of bundling up your program and the python environment into one executable object. I've used </span>[pyinstaller](https://www.pyinstaller.org/) - <span> a little and it seems to work. Another that I haven't tried is </span>[cx_freeze](https://pypi.python.org/pypi/cx_Freeze) - <span>.</span>
 
-## Run Python with Automator?
+## Run Python with Automator? Yes!
 
-* Extending Automator: Running AppleScript, Shell, Python, or Ruby Scripts | Peachpit - [http://www.peachpit.com/blogs/blog.aspx?uk=Extending-Automator-Running-AppleScript-Shell-Python-or-Ruby-Scripts](http://www.peachpit.com/blogs/blog.aspx?uk=Extending-Automator-Running-AppleScript-Shell-Python-or-Ruby-Scripts)
+* [Automatically run your scripts on your computer](http://naelshiab.com/tutorial-how-to-automatically-run-your-scripts-on-your-computer/) - This worked like a charm!
+
+Not sure about these:
+  * Extending Automator: Running AppleScript, Shell, Python, or Ruby Scripts | Peachpit - [http://www.peachpit.com/blogs/blog.aspx?uk=Extending-Automator-Running-AppleScript-Shell-Python-or-Ruby-Scripts](http://www.peachpit.com/blogs/blog.aspx?uk=Extending-Automator-Running-AppleScript-Shell-Python-or-Ruby-Scripts)
   * [How can I run a python script in automator? : learnpython](https://www.reddit.com/r/learnpython/comments/2dmbmq/how_can_i_run_a_python_script_in_automator/)
   * [osx - Run Python script on csv-file with OS X automator - Stack Overflow](http://stackoverflow.com/questions/20082586/run-python-script-on-csv-file-with-os-x-automator)
   * Create Automator Service With a Python Script? - [http://apple.stackexchange.com/questions/59532/create-automator-service-with-a-python-script](http://apple.stackexchange.com/questions/59532/create-automator-service-with-a-python-script) - I'm trying to create an Automator Service that will act on selected text, converting dashes to spaces, and also making word caps for all the text. A friend gave me this python script (I know nothing
