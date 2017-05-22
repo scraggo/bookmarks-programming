@@ -58,7 +58,7 @@ This book is designed with beginners (like you) in mind. In other words, you wil
  * [python - LPTHW ex43 OOP trying to figure out how to get game to run - Stack Overflow](http://stackoverflow.com/questions/20829173/lpthw-ex43-oop-trying-to-figure-out-how-to-get-game-to-run)
  * [LPTHW Complaints - sopython](http://sopython.com/wiki/LPTHW_Complaints)
 
- # Charles / Chuck Severance - Python Author
+ ### Charles / Chuck Severance - Python Author
 
  * Introducing the Python MOOC from online.dr-chuck.com - [https://www.youtube.com/watch?v=hRNFBhEykcY&list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ](https://www.youtube.com/watch?v=hRNFBhEykcY&list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) -[Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) - 26,453 views views Published on Dec 21, 2012.  
  Description:
