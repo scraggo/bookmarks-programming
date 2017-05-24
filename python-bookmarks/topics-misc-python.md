@@ -1,4 +1,6 @@
-# Topics
+# Topics - Miscellaneous Python
+
+*curated by [scraggo](https://github.com/scraggo)*
 
 ### Files
 
