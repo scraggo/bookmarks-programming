@@ -1,6 +1,6 @@
 # JAVASCRIPT RESOURCES
 
-*Curated by scraggo*
+*curated by [scraggo](https://github.com/scraggo)*
 
 ## Learn JavaScript
 
@@ -79,3 +79,23 @@ JavaScript
 * [Where can I find guides that *aren't* for beginners?](https://www.reddit.com/r/learnjavascript/comments/68o91a/where_can_i_find_guides_that_arent_for_beginners/)
 
 * [Answer - Quora - JavaScript learning](https://www.quora.com/Why-can%E2%80%99t-I-learn-JavaScript/answer/Paul-McCann-1?share=e228d4fb&srid=4tK5)
+
+To Organize
+
+* [Introduction to the JavaScript shell - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Introduction_to_the_JavaScript_shell#readline())
+
+* [Using the W3C DOM Level 1 Core - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)
+
+* [JavaScript Math Object](https://www.w3schools.com/js/js_math.asp)
+
+* [An overview to some useful terms used in JavaScript](https://www.reddit.com/r/javascript/comments/6ajq1s/an_overview_to_some_useful_terms_used_in/) - url: [https://www.reddit.com/r/javascript/comments/6ajq1s/an_overview_to_some_useful_terms_used_in/](https://www.reddit.com/r/javascript/comments/6ajq1s/an_overview_to_some_useful_terms_used_in/)
+* [25 Free Resources for New JavaScript Developers – freeCodeCamp](https://www.reddit.com/r/web_design/comments/6acqer/25_free_resources_for_new_javascript_developers/) - url: [https://www.reddit.com/r/web_design/comments/6acqer/25_free_resources_for_new_javascript_developers/](https://www.reddit.com/r/web_design/comments/6acqer/25_free_resources_for_new_javascript_developers/)
+
+* [I just did my first talk on: A gentle introduction to functional programming in javascript - feedback on content and presentation appreciated!](https://www.reddit.com/r/javascript/comments/6acw50/i_just_did_my_first_talk_on_a_gentle_introduction/) - url: [https://www.reddit.com/r/javascript/comments/6acw50/i_just_did_my_first_talk_on_a_gentle_introduction/](https://www.reddit.com/r/javascript/comments/6acw50/i_just_did_my_first_talk_on_a_gentle_introduction/)
+* [JavaScript Algorithms - contains JavaScript implementations of different famous Computer Science algorithms](https://www.reddit.com/r/javascript/comments/6aexoh/javascript_algorithms_contains_javascript/) - url: [https://www.reddit.com/r/javascript/comments/6aexoh/javascript_algorithms_contains_javascript/](https://www.reddit.com/r/javascript/comments/6aexoh/javascript_algorithms_contains_javascript/)
+* [How to Display Date and Time on Web Page using JavaScript](https://www.reddit.com/r/learnjavascript/comments/6a6p4r/how_to_display_date_and_time_on_web_page_using/) - url: [https://www.reddit.com/r/learnjavascript/comments/6a6p4r/how_to_display_date_and_time_on_web_page_using/](https://www.reddit.com/r/learnjavascript/comments/6a6p4r/how_to_display_date_and_time_on_web_page_using/)
+* [Hoisting 'Let' variables](https://www.reddit.com/r/learnjavascript/comments/6aaqmt/hoisting_let_variables/) - url: [https://www.reddit.com/r/learnjavascript/comments/6aaqmt/hoisting_let_variables/](https://www.reddit.com/r/learnjavascript/comments/6aaqmt/hoisting_let_variables/)
+* [Javascript for web. Good Tutorial?](https://www.reddit.com/r/learnjavascript/comments/6aasuz/javascript_for_web_good_tutorial/) - url: [https://www.reddit.com/r/learnjavascript/comments/6aasuz/javascript_for_web_good_tutorial/](https://www.reddit.com/r/learnjavascript/comments/6aasuz/javascript_for_web_good_tutorial/)
+* [Access numerous JavaScript tutorials](https://www.reddit.com/r/learnjavascript/comments/6afsc6/access_numerous_javascript_tutorials/) - url: [https://www.reddit.com/r/learnjavascript/comments/6afsc6/access_numerous_javascript_tutorials/](https://www.reddit.com/r/learnjavascript/comments/6afsc6/access_numerous_javascript_tutorials/)
+* [Why is console.log() made out to be so important in online courses and even books? What use does it have in applications?](https://www.reddit.com/r/learnjavascript/comments/6ag0k6/why_is_consolelog_made_out_to_be_so_important_in/) - url: [https://www.reddit.com/r/learnjavascript/comments/6ag0k6/why_is_consolelog_made_out_to_be_so_important_in/](https://www.reddit.com/r/learnjavascript/comments/6ag0k6/why_is_consolelog_made_out_to_be_so_important_in/)
+
