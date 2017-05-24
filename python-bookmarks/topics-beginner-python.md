@@ -1,4 +1,4 @@
-# Topics - Python
+# Topics - Python - Beginner
 
 *curated by [scraggo](https://github.com/scraggo)*
 
