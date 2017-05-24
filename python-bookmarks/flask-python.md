@@ -1,4 +1,6 @@
-## Flask
+# Flask Bookmarks
+
+*curated by [scraggo](https://github.com/scraggo)*
 
 * [PyBites – Beginning Flask](http://pybit.es/beginning-flask.html)
   * [PyBites: Code Challenge 15 - Create a Simple Flask App](http://pybit.es/codechallenge15.html)
