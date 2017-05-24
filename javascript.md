@@ -5,8 +5,7 @@
 ## Learn JavaScript
 
 * [JavaScript - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) - The OFFICIAL MDN resource.
-* The New Boston - [JavaScript Tutorial - Introduction to JavaScript](https://thenewboston.com/videos.php?cat=10) - This guy is a lot of fun. Source code below:
-  * [Source-Code-from-Tutorials/ at master · buckyroberts/Source-Code-from-Tutorials](https://github.com/buckyroberts/Source-Code-from-Tutorials?files=1)
+* The New Boston - [JavaScript Tutorial - Introduction to JavaScript](https://thenewboston.com/videos.php?cat=10) - WARNING - THIS STUFF IS VERY OUTDATED! LOOK ELSEWHERE!
 *   [Practical JavaScript | Watch and Code®](https://watchandcode.com/p/practical-javascript)
 *   [Learn JavaScript Online - A Guide | Codementor](https://www.codementor.io/learn-javascript-online)
 *   [JavaScript Math Object](https://www.w3schools.com/js/js_math.asp)
