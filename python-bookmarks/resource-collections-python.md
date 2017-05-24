@@ -1,5 +1,7 @@
 # Python Resource Collections
 
+*curated by [scraggo](https://github.com/scraggo)*
+
 * <https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python> - HUGE LIST OF FREE PROGRAMMING RESOURCES!  
 
 * [wiki/index - learnpython](https://www.reddit.com/r/learnpython/wiki/index) [https://www.reddit.com/r/learnpython/wiki/index/](https://www.reddit.com/r/learnpython/wiki/index/) - Wiki / huge list of resources
