@@ -1,6 +1,6 @@
-# Topics
+# Topics - Python
 
-
+*curated by [scraggo](https://github.com/scraggo)*
 
 ### Getting Started
 
