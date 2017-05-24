@@ -5,6 +5,7 @@
 ## Learn JavaScript
 
 * [JavaScript - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) - The OFFICIAL MDN resource.
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - Fantastic book - free - in HTML and e-reader formats. Learn general programming principles and best JS practices.
 * The New Boston - [JavaScript Tutorial - Introduction to JavaScript](https://thenewboston.com/videos.php?cat=10) - WARNING - THIS STUFF IS VERY OUTDATED! LOOK ELSEWHERE!
 *   [Practical JavaScript | Watch and Code®](https://watchandcode.com/p/practical-javascript)
 *   [Learn JavaScript Online - A Guide | Codementor](https://www.codementor.io/learn-javascript-online)
