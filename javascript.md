@@ -17,6 +17,10 @@
 * JavaScript Made Easy: Free JavaScripts Tutorials Example Code - [http://www.jsmadeeasy.com/](http://www.jsmadeeasy.com/) - Large Collection of JavaScript source code. Choose from thousands of free scripts. JavaScript tutorials with example code. Excellent reference material for JavaScript. If you need help with JavaScript. JavaScript Made Easy is the place to find it.
 * JavaScript Tutorial - [http://www.w3schools.com/js/](http://www.w3schools.com/js/) - Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.
 
+* [JavaScript Enlightenment | by Cody Lindley | 1st Edition | ECMA-262, Edition 3](http://javascriptenlightenment.com/) | [http://javascriptenlightenment.com/](http://javascriptenlightenment.com/)
+* [DOM Enlightenment - Exploring the relationship between JavaScript and the modern HTML DOM](http://domenlightenment.com/) | [http://domenlightenment.com/](http://domenlightenment.com/)
+
+
 ## Resource Lists
 * [Best JavaScript books in 2017 - ReactDOM](https://reactdom.com/blog/javascript-books)
 * [Best Free Resources To Learn JavaScript](http://www.lifehack.org/articles/technology/free-ebooks-resources-learn-javascript.html)
@@ -40,6 +44,8 @@
 * [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 * [about:blank](about:blank) - you can use this in conjunction with the console for developing javascript (access via developer tools) in Chrome.
 * [repl.it - JavaScript Compiler](https://repl.it/languages/javascript) - Great way to run JavaScript and save your code. Free to make an account.
+* [Inline JS evaluation inside your editor!](https://www.reddit.com/r/javascript/comments/6cm9br/inline_js_evaluation_inside_your_editor/) | [https://www.reddit.com/r/javascript/comments/6cm9br/inline_js_evaluation_inside_your_editor/](https://www.reddit.com/r/javascript/comments/6cm9br/inline_js_evaluation_inside_your_editor/)
+* [JSHint, a JavaScript Code Quality Tool](http://jshint.com/) - So far, my favorite way to check JS syntax, especially while refactoring from Python.
 
 ## CoffeeScript / Other Syntaxes
 * [The Little Book on CoffeeScript - Syntax](https://arcturo.github.io/library/coffeescript/02_syntax.html)
@@ -51,7 +57,8 @@
 * [convert python to javascript - Google Search](https://www.google.com/search?q=convert+python+to+javascript&rlz=1CDGOYI_enUS647US647&oq=convert+python+to+j&aqs=chrome.2.69i57j0l3.13350j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8)
 * [Can someone help me convert this python code to JavaScript??](https://www.reddit.com/r/learnpython/comments/66jus9/can_someone_help_me_convert_this_python_code_to/)
 
-### Unorg
+# Unorganized
+
 * [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 * [Started learning JS today itself. But don't know how to run code.](https://www.reddit.com/r/learnjavascript/comments/65xlyw/started_learning_js_today_itself_but_dont_know/)
 * [Should I write var in the for loop? "for (var i = 1; ; )" or "for (i=1; ; )"](https://www.reddit.com/r/learnjavascript/comments/65y8fz/should_i_write_var_in_the_for_loop_for_var_i_1_or/)
@@ -63,13 +70,7 @@
 
 * Javascript in Modern Web Design - Web Designer Wall - Design Trends and Tutorials - [http://webdesignerwall.com/general/javascript-in-modern-web-design](http://webdesignerwall.com/general/javascript-in-modern-web-design) - In today’s web design, Javascript is a must-have component. Aside from its functionality, Javascript can enhance user experience by creating transitional effects such as fading and sliding animation. Thanks to the open source Javascript frameworks, we don’t need to write custom Javascript from scratch anymore. Here are 47 Javascript plugins that you can use to …
 
----
-
-JavaScript
-
 * [Javascript game I made at work](https://www.reddit.com/r/webdev/comments/690o8j/javascript_game_i_made_at_work/)
-
-* [Best resources/tutorials for making a Chrome extension?](https://www.reddit.com/r/webdev/comments/691cxi/best_resourcestutorials_for_making_a_chrome/)
 
 * [Glossary of Modern JavaScript Concepts: Part 2](https://www.reddit.com/r/webdev/comments/68va3h/glossary_of_modern_javascript_concepts_part_2/)
 
@@ -77,9 +78,7 @@ JavaScript
 
 * [Where can I find guides that *aren't* for beginners?](https://www.reddit.com/r/learnjavascript/comments/68o91a/where_can_i_find_guides_that_arent_for_beginners/)
 
-* [Answer - Quora - JavaScript learning](https://www.quora.com/Why-can%E2%80%99t-I-learn-JavaScript/answer/Paul-McCann-1?share=e228d4fb&srid=4tK5)
-
-To Organize
+* [Answer - Quora - Why Can't I Learn JavaScript?](https://www.quora.com/Why-can%E2%80%99t-I-learn-JavaScript/answer/Paul-McCann-1?share=e228d4fb&srid=4tK5)
 
 * [Introduction to the JavaScript shell - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Introduction_to_the_JavaScript_shell#readline())
 
@@ -88,7 +87,6 @@ To Organize
 * [JavaScript Math Object](https://www.w3schools.com/js/js_math.asp)
 
 * [An overview to some useful terms used in JavaScript](https://www.reddit.com/r/javascript/comments/6ajq1s/an_overview_to_some_useful_terms_used_in/) - url: [https://www.reddit.com/r/javascript/comments/6ajq1s/an_overview_to_some_useful_terms_used_in/](https://www.reddit.com/r/javascript/comments/6ajq1s/an_overview_to_some_useful_terms_used_in/)
-* [25 Free Resources for New JavaScript Developers – freeCodeCamp](https://www.reddit.com/r/web_design/comments/6acqer/25_free_resources_for_new_javascript_developers/) - url: [https://www.reddit.com/r/web_design/comments/6acqer/25_free_resources_for_new_javascript_developers/](https://www.reddit.com/r/web_design/comments/6acqer/25_free_resources_for_new_javascript_developers/)
 
 * [I just did my first talk on: A gentle introduction to functional programming in javascript - feedback on content and presentation appreciated!](https://www.reddit.com/r/javascript/comments/6acw50/i_just_did_my_first_talk_on_a_gentle_introduction/) - url: [https://www.reddit.com/r/javascript/comments/6acw50/i_just_did_my_first_talk_on_a_gentle_introduction/](https://www.reddit.com/r/javascript/comments/6acw50/i_just_did_my_first_talk_on_a_gentle_introduction/)
 * [JavaScript Algorithms - contains JavaScript implementations of different famous Computer Science algorithms](https://www.reddit.com/r/javascript/comments/6aexoh/javascript_algorithms_contains_javascript/) - url: [https://www.reddit.com/r/javascript/comments/6aexoh/javascript_algorithms_contains_javascript/](https://www.reddit.com/r/javascript/comments/6aexoh/javascript_algorithms_contains_javascript/)
@@ -130,7 +128,6 @@ To Organize
 * [JavaScript For Beginners: the ‘new’ operator](https://www.reddit.com/r/learnjavascript/comments/6bvlbj/javascript_for_beginners_the_new_operator/) | [https://www.reddit.com/r/learnjavascript/comments/6bvlbj/javascript_for_beginners_the_new_operator/](https://www.reddit.com/r/learnjavascript/comments/6bvlbj/javascript_for_beginners_the_new_operator/)
 * [How would you turn a loop into a function in JS?](https://www.reddit.com/r/learnjavascript/comments/6c2yrm/how_would_you_turn_a_loop_into_a_function_in_js/) | [https://www.reddit.com/r/learnjavascript/comments/6c2yrm/how_would_you_turn_a_loop_into_a_function_in_js/](https://www.reddit.com/r/learnjavascript/comments/6c2yrm/how_would_you_turn_a_loop_into_a_function_in_js/)
 
-
 * [Writing modern JavaScript code](https://www.reddit.com/r/javascript/comments/6brhpn/writing_modern_javascript_code/) | [https://www.reddit.com/r/javascript/comments/6brhpn/writing_modern_javascript_code/](https://www.reddit.com/r/javascript/comments/6brhpn/writing_modern_javascript_code/)
 * [Hands on practice with closures and other exotic parts of javascript](https://www.reddit.com/r/learnjavascript/comments/6bqre3/hands_on_practice_with_closures_and_other_exotic/) | [https://www.reddit.com/r/learnjavascript/comments/6bqre3/hands_on_practice_with_closures_and_other_exotic/](https://www.reddit.com/r/learnjavascript/comments/6bqre3/hands_on_practice_with_closures_and_other_exotic/)
 
@@ -138,12 +135,9 @@ To Organize
 
 * [for...of - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) | [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 
-
 * [JavaScript Hoisting - Creation and Execution Phases](https://www.reddit.com/r/javascript/comments/6ao4f9/javascript_hoisting_creation_and_execution_phases/) | [https://www.reddit.com/r/javascript/comments/6ao4f9/javascript_hoisting_creation_and_execution_phases/](https://www.reddit.com/r/javascript/comments/6ao4f9/javascript_hoisting_creation_and_execution_phases/)
 * [12 YouTube videos new developers mention the most (free code camp)](https://www.reddit.com/r/javascript/comments/6as1oh/12_youtube_videos_new_developers_mention_the_most/) | [https://www.reddit.com/r/javascript/comments/6as1oh/12_youtube_videos_new_developers_mention_the_most/](https://www.reddit.com/r/javascript/comments/6as1oh/12_youtube_videos_new_developers_mention_the_most/)
 
-* [JavaScript Enlightenment | by Cody Lindley | 1st Edition | ECMA-262, Edition 3](http://javascriptenlightenment.com/) | [http://javascriptenlightenment.com/](http://javascriptenlightenment.com/)
-* [DOM Enlightenment - Exploring the relationship between JavaScript and the modern HTML DOM](http://domenlightenment.com/) | [http://domenlightenment.com/](http://domenlightenment.com/)
 
 * [Javascript, have links all auto open in new tabs](https://www.reddit.com/r/learnjavascript/comments/6cygpq/javascript_have_links_all_auto_open_in_new_tabs/) | [https://www.reddit.com/r/learnjavascript/comments/6cygpq/javascript_have_links_all_auto_open_in_new_tabs/](https://www.reddit.com/r/learnjavascript/comments/6cygpq/javascript_have_links_all_auto_open_in_new_tabs/)
 
@@ -154,12 +148,10 @@ To Organize
 * [Hi there, i'm new with JS (&This subReddit) and i don't understand why the answer is 2 instead of 0. I hope i can ask here(this sub) more questions if possible! Thank you so much have a nice day ya'all !!](https://www.reddit.com/r/learnjavascript/comments/6ccawp/hi_there_im_new_with_js_this_subreddit_and_i_dont/) | [https://www.reddit.com/r/learnjavascript/comments/6ccawp/hi_there_im_new_with_js_this_subreddit_and_i_dont/](https://www.reddit.com/r/learnjavascript/comments/6ccawp/hi_there_im_new_with_js_this_subreddit_and_i_dont/)
 * [How can I, as a self taught programmer, develop a deep knowledge and understanding of Javascript?](https://www.reddit.com/r/learnjavascript/comments/6chjp7/how_can_i_as_a_self_taught_programmer_develop_a/) | [https://www.reddit.com/r/learnjavascript/comments/6chjp7/how_can_i_as_a_self_taught_programmer_develop_a/](https://www.reddit.com/r/learnjavascript/comments/6chjp7/how_can_i_as_a_self_taught_programmer_develop_a/)
 
-* [Open Source Note Taking App For Programmers](https://www.reddit.com/r/javascript/comments/6clpv6/open_source_note_taking_app_for_programmers/) | [https://www.reddit.com/r/javascript/comments/6clpv6/open_source_note_taking_app_for_programmers/](https://www.reddit.com/r/javascript/comments/6clpv6/open_source_note_taking_app_for_programmers/)
-* [Inline JS evaluation inside your editor!](https://www.reddit.com/r/javascript/comments/6cm9br/inline_js_evaluation_inside_your_editor/) | [https://www.reddit.com/r/javascript/comments/6cm9br/inline_js_evaluation_inside_your_editor/](https://www.reddit.com/r/javascript/comments/6cm9br/inline_js_evaluation_inside_your_editor/)
 * [Best Resources to Teach Javascript](https://www.reddit.com/r/webdev/comments/6chsji/best_resources_to_teach_javascript/) | [https://www.reddit.com/r/webdev/comments/6chsji/best_resources_to_teach_javascript/](https://www.reddit.com/r/webdev/comments/6chsji/best_resources_to_teach_javascript/)
 
 
 * [Weekly JS & WebDev tips newsletter](https://www.reddit.com/r/webdev/comments/6c4kof/weekly_js_webdev_tips_newsletter/) | [https://www.reddit.com/r/webdev/comments/6c4kof/weekly_js_webdev_tips_newsletter/](https://www.reddit.com/r/webdev/comments/6c4kof/weekly_js_webdev_tips_newsletter/)
 
-* [https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday](https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday) | [https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday](https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday)
+* [Showoff Saturday! r/JavaScript](https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday) | [https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday](https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday)
 * [Javascript - read local text file - Stack Overflow](https://stackoverflow.com/questions/14446447/javascript-read-local-text-file) | [https://stackoverflow.com/questions/14446447/javascript-read-local-text-file](https://stackoverflow.com/questions/14446447/javascript-read-local-text-file)
