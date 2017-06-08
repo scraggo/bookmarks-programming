@@ -156,3 +156,15 @@
 
 * [Showoff Saturday! r/JavaScript](https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday) | [https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday](https://www.reddit.com/r/javascript/search?sort=new&restrict_sr=on&q=flair%3AShowoff%2BSaturday)
 * [Javascript - read local text file - Stack Overflow](https://stackoverflow.com/questions/14446447/javascript-read-local-text-file) | [https://stackoverflow.com/questions/14446447/javascript-read-local-text-file](https://stackoverflow.com/questions/14446447/javascript-read-local-text-file)
+
+* [https://www.reddit.com/r/learnjavascript/comments/6251bg/what_would_be_a_good_book_to_pick_up_that/](https://www.reddit.com/r/learnjavascript/comments/6251bg/what_would_be_a_good_book_to_pick_up_that/)
+* [https://teamtreehouse.com/library/javascript-basics](https://teamtreehouse.com/library/javascript-basics)
+* [https://javascript30.com/](https://javascript30.com/)
+* [freeCodeCamp](freecodecamp.com) - highly recommended
+* [https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [https://www.reddit.com/r/learnjavascript/comments/2cjt2a/week_one_of_learn_javascript_august_2014_session/](https://www.reddit.com/r/learnjavascript/comments/2cjt2a/week_one_of_learn_javascript_august_2014_session/)
+* [http://courses.angularclass.com/p/modern-javascript](http://courses.angularclass.com/p/modern-javascript)
+* [https://www.quora.com/What-is-the-best-way-to-learn-JavaScript](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
+* [Google search: Python compared to Javascript](https://www.google.com/search?q=python+compared+to+javascript&ie=UTF-8&oe=UTF-8&hl=en&client=safari)
+)
