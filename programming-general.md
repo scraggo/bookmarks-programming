@@ -192,3 +192,15 @@ Code Notes / Productivity
 
 Mac Shortcuts
 * [Dan Rodney's List of Mac Keyboard Shortcuts & Keystrokes](https://www.danrodney.com/mac/)
+
+# Unorganized
+* [https://www.reddit.com/r/learnprogramming/wiki/online#wiki_web](https://www.reddit.com/r/learnprogramming/wiki/online#wiki_web) - A MUST-READ!
+* [Code.org](https://studio.code.org/courses) - strong mission to bring coding education to youth.
+* [http://www.tutorialspoint.com/](http://www.tutorialspoint.com/) - Tutorials on a huge number of languages (and many other non-programming topics). Their lessons pop up on google searches often.
+* [https://edurev.in/461089?public=true](https://edurev.in/461089?public=true) - Tutorials (free, not organized well)
+* [http://www.e-booksdirectory.com/programming.php](http://www.e-booksdirectory.com/programming.php) - Lots of free books!
+* [http://www.freeprogrammingresources.com/](http://www.freeprogrammingresources.com/) - Books, tutorials, etc. Lots, interestingly organized.
+* [http://www.oreilly.com/programming/free/](http://www.oreilly.com/programming/free/) - Lots of free books - Oreilly is quality.
+* [http://www.onlinecollegecourses.com/2012/08/06/50-places-you-can-learn-to-code-for-free-online/](http://www.onlinecollegecourses.com/2012/08/06/50-places-you-can-learn-to-code-for-free-online/) - A very impressive list of free 'learn to code' resources! Online college courses, more.
+* [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - THE HUGE LIST!
+* [http://www.techaltair.com/free-online-courses-to-grow-your-tech-skills/](http://www.techaltair.com/free-online-courses-to-grow-your-tech-skills/) - 10 Courses, listicle.
