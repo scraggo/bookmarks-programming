@@ -168,3 +168,82 @@
 * [https://www.quora.com/What-is-the-best-way-to-learn-JavaScript](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
 * [Google search: Python compared to Javascript](https://www.google.com/search?q=python+compared+to+javascript&ie=UTF-8&oe=UTF-8&hl=en&client=safari)
 )
+
+
+# Unorganized
+
+* [How to create a ToDo app with a database in 2 minutes (screencast)](https://www.reddit.com/r/learnjavascript/comments/6e7ri5/how_to_create_a_todo_app_with_a_database_in_2/) | [https://www.reddit.com/r/learnjavascript/comments/6e7ri5/how_to_create_a_todo_app_with_a_database_in_2/](https://www.reddit.com/r/learnjavascript/comments/6e7ri5/how_to_create_a_todo_app_with_a_database_in_2/) - JS and the Gun interface
+* [Object and Array Destructuring in JavaScript (ES2015)](https://www.reddit.com/r/learnjavascript/comments/6e94ky/object_and_array_destructuring_in_javascript/) | [https://www.reddit.com/r/learnjavascript/comments/6e94ky/object_and_array_destructuring_in_javascript/](https://www.reddit.com/r/learnjavascript/comments/6e94ky/object_and_array_destructuring_in_javascript/)
+
+* [Closure](https://www.reddit.com/r/learnjavascript/comments/6djtra/closure/) | [https://www.reddit.com/r/learnjavascript/comments/6djtra/closure/](https://www.reddit.com/r/learnjavascript/comments/6djtra/closure/)
+
+* [Mostly Adequate Guide to Functional Programming in Javascript](https://www.reddit.com/r/javascript/comments/6dejd8/mostly_adequate_guide_to_functional_programming/) | [https://www.reddit.com/r/javascript/comments/6dejd8/mostly_adequate_guide_to_functional_programming/](https://www.reddit.com/r/javascript/comments/6dejd8/mostly_adequate_guide_to_functional_programming/)
+
+* [The Many Faces of Functions in JavaScript](https://www.reddit.com/r/learnjavascript/comments/6d3egm/the_many_faces_of_functions_in_javascript/) | [https://www.reddit.com/r/learnjavascript/comments/6d3egm/the_many_faces_of_functions_in_javascript/](https://www.reddit.com/r/learnjavascript/comments/6d3egm/the_many_faces_of_functions_in_javascript/)
+
+* [What's the difference between using an event listener for a click event VS using the onclick attribute?](https://www.reddit.com/r/learnjavascript/comments/6erpv2/whats_the_difference_between_using_an_event/) | [https://www.reddit.com/r/learnjavascript/comments/6erpv2/whats_the_difference_between_using_an_event/](https://www.reddit.com/r/learnjavascript/comments/6erpv2/whats_the_difference_between_using_an_event/) - good to know!
+
+* [SweetAlert - A Beautiful Replacement for Javascript \"Alert\"](https://www.reddit.com/r/webdev/comments/6e8h0d/sweetalert_a_beautiful_replacement_for_javascript/) | [https://www.reddit.com/r/webdev/comments/6e8h0d/sweetalert_a_beautiful_replacement_for_javascript/](https://www.reddit.com/r/webdev/comments/6e8h0d/sweetalert_a_beautiful_replacement_for_javascript/)
+* [JavaScript Drum Kit](https://www.reddit.com/r/javascript/comments/6egoie/javascript_drum_kit/) | [https://www.reddit.com/r/javascript/comments/6egoie/javascript_drum_kit/](https://www.reddit.com/r/javascript/comments/6egoie/javascript_drum_kit/) - fun, good study
+
+* [[JavaScript] Named vs Anonymous Functions](https://www.reddit.com/r/learnprogramming/comments/6e8wbx/javascript_named_vs_anonymous_functions/) | [https://www.reddit.com/r/learnprogramming/comments/6e8wbx/javascript_named_vs_anonymous_functions/](https://www.reddit.com/r/learnprogramming/comments/6e8wbx/javascript_named_vs_anonymous_functions/) - good info.
+
+* [The JavaScript Engineer Skill Tree](https://www.reddit.com/r/javascript/comments/6fmb12/the_javascript_engineer_skill_tree/) | [https://www.reddit.com/r/javascript/comments/6fmb12/the_javascript_engineer_skill_tree/](https://www.reddit.com/r/javascript/comments/6fmb12/the_javascript_engineer_skill_tree/)
+* [An introduction to web components for absolute beginners](https://www.reddit.com/r/javascript/comments/6fn9xx/an_introduction_to_web_components_for_absolute/) | [https://www.reddit.com/r/javascript/comments/6fn9xx/an_introduction_to_web_components_for_absolute/](https://www.reddit.com/r/javascript/comments/6fn9xx/an_introduction_to_web_components_for_absolute/) - seems good
+
+* [Goal: Become a full stack junior developer. Please critique/add onto my book list](https://www.reddit.com/r/learnjavascript/comments/6b3m16/goal_become_a_full_stack_junior_developer_please/) | [https://www.reddit.com/r/learnjavascript/comments/6b3m16/goal_become_a_full_stack_junior_developer_please/](https://www.reddit.com/r/learnjavascript/comments/6b3m16/goal_become_a_full_stack_junior_developer_please/)
+
+* [setInterval stopped after one tick](https://www.reddit.com/r/learnjavascript/comments/6b2yty/setinterval_stopped_after_one_tick/) | [https://www.reddit.com/r/learnjavascript/comments/6b2yty/setinterval_stopped_after_one_tick/](https://www.reddit.com/r/learnjavascript/comments/6b2yty/setinterval_stopped_after_one_tick/)
+
+* [Having a strange issue, likely with the scope.](https://www.reddit.com/r/learnjavascript/comments/6fgm72/having_a_strange_issue_likely_with_the_scope/) | [https://www.reddit.com/r/learnjavascript/comments/6fgm72/having_a_strange_issue_likely_with_the_scope/](https://www.reddit.com/r/learnjavascript/comments/6fgm72/having_a_strange_issue_likely_with_the_scope/) - (deleted) "This is what I would assume is a classic asynchronous problem."
+
+Music
+* [Best resources for learning MIDI in Javascript?](https://www.reddit.com/r/javascript/comments/6feot3/best_resources_for_learning_midi_in_javascript/) | [https://www.reddit.com/r/javascript/comments/6feot3/best_resources_for_learning_midi_in_javascript/](https://www.reddit.com/r/javascript/comments/6feot3/best_resources_for_learning_midi_in_javascript/)
+
+Study
+* [Thorough walk through of .reduce() in JavaScript (screencast)](https://www.reddit.com/r/learnjavascript/comments/6etoc9/thorough_walk_through_of_reduce_in_javascript/) | [https://www.reddit.com/r/learnjavascript/comments/6etoc9/thorough_walk_through_of_reduce_in_javascript/](https://www.reddit.com/r/learnjavascript/comments/6etoc9/thorough_walk_through_of_reduce_in_javascript/)
+* [An article I wrote walking through Map & Filter by writing them from scratch](https://www.reddit.com/r/learnjavascript/comments/6ew9k2/an_article_i_wrote_walking_through_map_filter_by/) | [https://www.reddit.com/r/learnjavascript/comments/6ew9k2/an_article_i_wrote_walking_through_map_filter_by/](https://www.reddit.com/r/learnjavascript/comments/6ew9k2/an_article_i_wrote_walking_through_map_filter_by/)
+
+[lukehoban/es6features: Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+* [Classes - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes) - ES2015/ES6
+* [What is TypeScript and why would I use it in place of JavaScript? - Stack Overflow](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript)
+
+JAVASCRIPT HTML BOOK - LOOKS GOOD
+[Introduction | Human JavaScript](http://read.humanjavascript.com/) - By: @HenrikJoreteg
+Build powerfully simple browser apps.
+* [Human JavaScript Videos](http://learn.humanjavascript.com/react-ampersand/introduction)
+
+JAVASCRIPT HTML BOOK - LOOKS GOOD
+[Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+
+* [5 array methods all JavaScript beginners should know](https://www.reddit.com/r/learnjavascript/comments/6gf6fc/5_array_methods_all_javascript_beginners_should/) | [https://www.reddit.com/r/learnjavascript/comments/6gf6fc/5_array_methods_all_javascript_beginners_should/](https://www.reddit.com/r/learnjavascript/comments/6gf6fc/5_array_methods_all_javascript_beginners_should/)
+
+* [Geolocation 101: How To Get A User’s Location](https://www.reddit.com/r/javascript/comments/6g8uvc/geolocation_101_how_to_get_a_users_location/) | [https://www.reddit.com/r/javascript/comments/6g8uvc/geolocation_101_how_to_get_a_users_location/](https://www.reddit.com/r/javascript/comments/6g8uvc/geolocation_101_how_to_get_a_users_location/)
+* [How JavaScript’s Reduce method works, when to use it, and some of the cool things it can do](https://www.reddit.com/r/javascript/comments/6gaurq/how_javascripts_reduce_method_works_when_to_use/) | [https://www.reddit.com/r/javascript/comments/6gaurq/how_javascripts_reduce_method_works_when_to_use/](https://www.reddit.com/r/javascript/comments/6gaurq/how_javascripts_reduce_method_works_when_to_use/)
+* [Introduction to commonly used ES6 features | Zell Liew](https://www.reddit.com/r/javascript/comments/6g8gdx/introduction_to_commonly_used_es6_features_zell/) | [https://www.reddit.com/r/javascript/comments/6g8gdx/introduction_to_commonly_used_es6_features_zell/](https://www.reddit.com/r/javascript/comments/6g8gdx/introduction_to_commonly_used_es6_features_zell/)
+
+* [Learn JavaScript By Building A Bookmarker Application - Youtube](https://www.youtube.com/watch?v=DIVfDZZeGxM) | [https://www.youtube.com/watch?v=DIVfDZZeGxM](https://www.youtube.com/watch?v=DIVfDZZeGxM)
+* [The Definitive Guide to Object-Oriented JavaScript - Youtube](https://www.youtube.com/watch?v=PMfcsYzj-9M) | [https://www.youtube.com/watch?v=PMfcsYzj-9M](https://www.youtube.com/watch?v=PMfcsYzj-9M)
+
+* [Complete JavaScript tutorial (2:43:25)](https://www.reddit.com/r/webdev/comments/6g7bfb/complete_javascript_tutorial_24325/) | [https://www.reddit.com/r/webdev/comments/6g7bfb/complete_javascript_tutorial_24325/](https://www.reddit.com/r/webdev/comments/6g7bfb/complete_javascript_tutorial_24325/)
+* [What is a good beginner OOP program to create?](https://www.reddit.com/r/learnjavascript/comments/6fu2kr/what_is_a_good_beginner_oop_program_to_create/) | [https://www.reddit.com/r/learnjavascript/comments/6fu2kr/what_is_a_good_beginner_oop_program_to_create/](https://www.reddit.com/r/learnjavascript/comments/6fu2kr/what_is_a_good_beginner_oop_program_to_create/) - good ideas.
+
+* [Awesome video about the 'class' keyword in ES6.](https://www.reddit.com/r/learnjavascript/comments/6fqwpx/awesome_video_about_the_class_keyword_in_es6/) | [https://www.reddit.com/r/learnjavascript/comments/6fqwpx/awesome_video_about_the_class_keyword_in_es6/](https://www.reddit.com/r/learnjavascript/comments/6fqwpx/awesome_video_about_the_class_keyword_in_es6/)
+* [Use this JS code editor to understand how scope works in JS](https://www.reddit.com/r/learnjavascript/comments/6fs7vz/use_this_js_code_editor_to_understand_how_scope/) | [https://www.reddit.com/r/learnjavascript/comments/6fs7vz/use_this_js_code_editor_to_understand_how_scope/](https://www.reddit.com/r/learnjavascript/comments/6fs7vz/use_this_js_code_editor_to_understand_how_scope/)
+
+* [The JavaScript Engineer Skill Tree](https://www.reddit.com/r/javascript/comments/6fmb12/the_javascript_engineer_skill_tree/) | [https://www.reddit.com/r/javascript/comments/6fmb12/the_javascript_engineer_skill_tree/](https://www.reddit.com/r/javascript/comments/6fmb12/the_javascript_engineer_skill_tree/)
+* [An introduction to web components for absolute beginners](https://www.reddit.com/r/javascript/comments/6fn9xx/an_introduction_to_web_components_for_absolute/) | [https://www.reddit.com/r/javascript/comments/6fn9xx/an_introduction_to_web_components_for_absolute/](https://www.reddit.com/r/javascript/comments/6fn9xx/an_introduction_to_web_components_for_absolute/)
+
+* [Having a strange issue, likely with the scope.](https://www.reddit.com/r/learnjavascript/comments/6fgm72/having_a_strange_issue_likely_with_the_scope/) | [https://www.reddit.com/r/learnjavascript/comments/6fgm72/having_a_strange_issue_likely_with_the_scope/](https://www.reddit.com/r/learnjavascript/comments/6fgm72/having_a_strange_issue_likely_with_the_scope/)
+
+* [Learn JQuery Tutorial Step by Step for Beginners #4](https://www.reddit.com/r/webdev/comments/6f6gfz/learn_jquery_tutorial_step_by_step_for_beginners_4/) | [https://www.reddit.com/r/webdev/comments/6f6gfz/learn_jquery_tutorial_step_by_step_for_beginners_4/](https://www.reddit.com/r/webdev/comments/6f6gfz/learn_jquery_tutorial_step_by_step_for_beginners_4/)
+
+* [JavaScript Function call()](https://www.w3schools.com/js/js_function_call.asp) | [https://www.w3schools.com/js/js_function_call.asp](https://www.w3schools.com/js/js_function_call.asp)
+* [OOP In JavaScript: What You NEED to Know | JavaScript is Sexy](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/) | [http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+* [Object-Oriented JavaScript Programming Course | Udacity](https://www.udacity.com/course/object-oriented-javascript--ud015) | [https://www.udacity.com/course/object-oriented-javascript--ud015](https://www.udacity.com/course/object-oriented-javascript--ud015)
+* [Prototypal Object-Oriented Programming using JavaScript · An A List Apart Article](https://alistapart.com/article/prototypal-object-oriented-programming-using-javascript) | [https://alistapart.com/article/prototypal-object-oriented-programming-using-javascript](https://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
+* [http://exploringjs.com - 15. Classes](http://exploringjs.com/es6/ch_classes.html#sec_overview-classes) | [http://exploringjs.com/es6/ch_classes.html#sec_overview-classes](http://exploringjs.com/es6/ch_classes.html#sec_overview-classes)
+* [Chrome: Classes (ES6) Sample](https://googlechrome.github.io/samples/classes-es6/) | [https://googlechrome.github.io/samples/classes-es6/](https://googlechrome.github.io/samples/classes-es6/)
+
+* [learning-area/oojs-class-inheritance-finished.html at master · mdn/learning-area](https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html) | [https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html](https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html)
+* [learning-area/javascript at master · mdn/learning-area](https://github.com/mdn/learning-area/tree/master/javascript) | [https://github.com/mdn/learning-area/tree/master/javascript](https://github.com/mdn/learning-area/tree/master/javascript)©
