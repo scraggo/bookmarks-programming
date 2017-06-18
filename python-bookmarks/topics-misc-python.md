@@ -77,3 +77,10 @@ Not sure about these:
 
 * Decorators make magic easy / Python - [http://www.ibm.com/developerworks/library/l-cpdecor/index.html](http://www.ibm.com/developerworks/library/l-cpdecor/index.html) -
 * Python - ProgrammingBits | Function Decorators - [http://programmingbits.pythonblogs.com/27_programmingbits/archive/50_function_decorators.html](http://programmingbits.pythonblogs.com/27_programmingbits/archive/50_function_decorators.html) - The Python programming language has an interesting syntactic feature called a decorator . Let's use an example in order to explain how and why you would want to use a Python decorator.
+
+### PYTHON - EMAIL
+* [email python - Google Search](https://www.google.com/search?q=email+python&rlz=1CDGOYI_enUS647US647&oq=email+python&aqs=chrome..69i57j0l3.8486j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8) | [https://www.google.com/search?q=email+python&rlz=1CDGOYI_enUS647US647&oq=email+python&aqs=chrome..69i57j0l3.8486j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8](https://www.google.com/search?q=email+python&rlz=1CDGOYI_enUS647US647&oq=email+python&aqs=chrome..69i57j0l3.8486j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8)
+* [Python Sending Email using SMTP](https://www.tutorialspoint.com/python/python_sending_email.htm) - includes attachments.
+* [How to send an email with Python? - Stack Overflow](https://stackoverflow.com/questions/6270782/how-to-send-an-email-with-python) - Nice answer.
+* [Tutorial: How to send an email with Python - Nael Shiab](http://naelshiab.com/tutorial-send-email-python/) - Python 2 (imports)
+* [Send Emails Using Python – freeCodeCamp](https://medium.freecodecamp.com/send-emails-using-code-4fcea9df63f) - Python 3 - more complex
