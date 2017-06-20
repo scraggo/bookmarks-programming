@@ -7,7 +7,7 @@
 - Markdown
 - Hosting
 - Design
-- Unorg
+- Unorg / General Topics
 
 ## HTML5/CSS
 
@@ -72,6 +72,9 @@
 * [Make a Static Website with Jekyll – Tania Rascia](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
 * [Surge - Web Hosting - Free?](https://surge.sh/)
 * [basic cms - Google Search](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C5CHFA_enUS579US579&ion=1&espv=2&ie=UTF-8#newwindow=1&q=basic+cms)
+Blog / Wordpress
+* [Tips for creating a minimalist blog WITHOUT using Wordpress?](https://www.reddit.com/r/web_design/comments/6hxaw8/tips_for_creating_a_minimalist_blog_without_using/) | [https://www.reddit.com/r/web_design/comments/6hxaw8/tips_for_creating_a_minimalist_blog_without_using/](https://www.reddit.com/r/web_design/comments/6hxaw8/tips_for_creating_a_minimalist_blog_without_using/)
+* [Alternative to WP for basic sites?](https://www.reddit.com/r/webdev/comments/6hqazh/alternative_to_wp_for_basic_sites/) | [https://www.reddit.com/r/webdev/comments/6hqazh/alternative_to_wp_for_basic_sites/](https://www.reddit.com/r/webdev/comments/6hqazh/alternative_to_wp_for_basic_sites/)
 
 ## Web Design / Development Misc
 
@@ -117,12 +120,18 @@
 * [Freecodecamp:computer: Guide: Get Job ready with 1 FCC cert, 3 projects, 2 courses, and 10 books - General - The freeCodeCamp Forum](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027)
 * [Your Nonprofit Can Get Pro Bono Code | Free Code Camp](https://www.freecodecamp.com/nonprofits)
 
+## Extensions
+* [What are WebExtensions? - Mozilla | MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/What_are_WebExtensions) | [https://developer.mozilla.org/en-US/Add-ons/WebExtensions/What_are_WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/What_are_WebExtensions) - these include Chrome, Firefox, etc extensions.
+
+Build Chrome Extensions
+* [Best resources/tutorials for making a Chrome extension?](https://www.reddit.com/r/webdev/comments/691cxi/best_resourcestutorials_for_making_a_chrome/)
+* [Getting Started: Building a Chrome Extension - Google Chrome](https://developer.chrome.com/extensions/getstarted) | [https://developer.chrome.com/extensions/getstarted](https://developer.chrome.com/extensions/getstarted)
+* [File I/O - Google Chrome](https://developer.chrome.com/native-client/devguide/coding/file-io) | [https://developer.chrome.com/native-client/devguide/coding/file-io](https://developer.chrome.com/native-client/devguide/coding/file-io)
+
 **4/29/17**
-web design
+Design
 *   [How do you guys come up with designs?](https://www.reddit.com/r/web_design/comments/68106g/how_do_you_guys_come_up_with_designs/)
 
-web dev
-*   [Progressive web app course by the Google Chrome Developers](https://www.reddit.com/r/webdev/comments/67q3gi/progressive_web_app_course_by_the_google_chrome/)
 *   [A good cheap (or free) host?](https://www.reddit.com/r/webdev/comments/67pdf7/a_good_cheap_or_free_host/)
 
 css organizing
@@ -140,154 +149,79 @@ css frameworks
 
 [https://www.reddit.com/r/css/comments/5nnr49/4_things_i_wish_i_knew_when_i_started_writing/](https://www.reddit.com/r/css/comments/5nnr49/4_things_i_wish_i_knew_when_i_started_writing/) - Shortcuts: [Emmet](https://docs.emmet.io/), Local Dev: [XAMPP Installers and Downloads for Apache Friends](https://www.apachefriends.org/index.html), Foundation Framework: [Foundation | The most advanced responsive front-end framework in the world.](http://foundation.zurb.com/)
 
-5 reasons NOT to use Twitter Bootstrap | Zing Design
+Design
+* 5 reasons NOT to use Twitter Bootstrap | Zing Design - [http://www.zingdesign.com/5-reasons-not-to-use-twitter-bootstrap/](http://www.zingdesign.com/5-reasons-not-to-use-twitter-bootstrap/) - Twitter Bootstrap is all the rage at the moment, but let's stop for a moment and have a look at the ways in which Twitter Bootstrap can fail[X-POST from /r/learnjavascript] CSS Reference - A free visual guide to the most popular CSS properties • r/learnprogramming[https://www.reddit.com/r/learnprogramming/comments/5fbtk3/xpost_from_rlearnjavascript_css_reference_a_free/](https://www.reddit.com/r/learnprogramming/comments/5fbtk3/xpost_from_rlearnjavascript_css_reference_a_free/) - http://cssreference.io/ Just stumbled across this on /r/learnjavascript and it's a a really good visual guide. Thought you guys might enjoy this...
 
-[http://www.zingdesign.com/5-reasons-not-to-use-twitter-bootstrap/](http://www.zingdesign.com/5-reasons-not-to-use-twitter-bootstrap/) - Twitter Bootstrap is all the rage at the moment, but let's stop for a moment and have a look at the ways in which Twitter Bootstrap can fail
+* A free tutorial to learn HTML and CSS - [http://marksheet.io](http://marksheet.io) - MarkSheet is a free tutorial to learn HTML and CSS. It's short (just as long as a 50 page book), simple (for everyone: beginners, designers, developers), and free (as in 'free beer' and 'free speech'). It consists of 50 lessons across 4 chapters, covering the Web, HTML5, CSS3, and Sass.
 
-[X-POST from /r/learnjavascript] CSS Reference - A free visual guide to the most popular CSS properties • r/learnprogramming
+* A small list of publicly available CSS best practices. It helped me understand what other companies are doing. • r/learnprogramming - [https://www.reddit.com/r/learnprogramming/comments/3ywzzg/a_small_list_of_publicly_available_css_best/](https://www.reddit.com/r/learnprogramming/comments/3ywzzg/a_small_list_of_publicly_available_css_best/) - [Google’s Style Guide](https://google.github.io/styleguide/htmlcssguide.xml) [Code Guide by @mdo](http://codeguide.co/) This person is one of...
 
-[https://www.reddit.com/r/learnprogramming/comments/5fbtk3/xpost_from_rlearnjavascript_css_reference_a_free/](https://www.reddit.com/r/learnprogramming/comments/5fbtk3/xpost_from_rlearnjavascript_css_reference_a_free/) - http://cssreference.io/ Just stumbled across this on /r/learnjavascript and it's a a really good visual guide. Thought you guys might enjoy this...
+HTML Template
+* HTML5 UP - [http://html5up.net/](http://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.
+* Arcana by HTML5 UP - [http://html5up.net/arcana](http://html5up.net/arcana) - A business/corporate style responsive site template. It's pretty barebones but should go over pretty well for folks wanting to get their serious business on.
+* Corlate Free Website Template | Free CSS Templates | Free CSS - [http://www.free-css.com/free-css-templates/page204/corlate](http://www.free-css.com/free-css-templates/page204/corlate) - Preview of the Corlate Free CSS Template from ShapeBootstrap
+* Zerofour by HTML5 UP - [http://html5up.net/zerofour](http://html5up.net/zerofour) - A responsive blog/magazine site template design named as such because it's the fourth design up here (very creative I know). Has plenty of room for all sorts of content and even multilevel drop down menus.
 
-A free tutorial to learn HTML and CSS
+* bmorelli25/Become-A-Full-Stack-Web-Developer - [https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Become-A-Full-Stack-Web-Developer - Free resources for learning Full Stack Web Development
 
-[http://marksheet.io](http://marksheet.io) - MarkSheet is a free tutorial to learn HTML and CSS. It's short (just as long as a 50 page book), simple (for everyone: beginners, designers, developers), and free (as in 'free beer' and 'free speech'). It consists of 50 lessons across 4 chapters, covering the Web, HTML5, CSS3, and Sass.
+* Become a Web Developer | Viking Code School - [https://www.vikingcodeschool.com/web-development-basics](https://www.vikingcodeschool.com/web-development-basics) - Viking Code School is the premier program for learning professional web development online
 
-A small list of publicly available CSS best practices. It helped me understand what other companies are doing. • r/learnprogramming
+* CSS Beginner Tutorial | HTML Dog - [http://www.htmldog.com/guides/css/beginner/](http://www.htmldog.com/guides/css/beginner/) - CSS Beginner Tutorial Like the HTML Beginner Tutorial , the CSS Beginner Tutorial assumes that you know as much about CSS as you do about the cumulative effects of sea squirt discharge on the brain chemistry of Germanic ammonites. The purpose of this guide is to teach the bare essentials - just enough to get started. The CSS Intermediate Tutorial and CSS Advanced Tutorial go into more depth about CSS. CSS , or Cascading Styles Sheets , is a way to style and present HTML. Whereas the HTML is the...
 
-[https://www.reddit.com/r/learnprogramming/comments/3ywzzg/a_small_list_of_publicly_available_css_best/](https://www.reddit.com/r/learnprogramming/comments/3ywzzg/a_small_list_of_publicly_available_css_best/) - [Google’s Style Guide](https://google.github.io/styleguide/htmlcssguide.xml) [Code Guide by @mdo](http://codeguide.co/) This person is one of...
+* CSS Reference - [http://cssreference.io](http://cssreference.io) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 
-Arcana by HTML5 UP
+* CSS-Tricks - [https://css-tricks.com/](https://css-tricks.com/) - CSS-Tricks is a website about websites.
 
-[http://html5up.net/arcana](http://html5up.net/arcana) - A business/corporate style responsive site template. It's pretty barebones but should go over pretty well for folks wanting to get their serious business on.
+* Download 2487 Free Website Templates - CSS & HTML | Free CSS - [http://www.free-css.com/free-css-templates](http://www.free-css.com/free-css-templates) - The free website templates that are showcased here are open source, creative commons or totally free. These free CSS HTML templates can be freely downloaded.
 
-bmorelli25/Become-A-Full-Stack-Web-Developer
+* faq - webdev - [https://www.reddit.com/r/webdev/wiki/faq/](https://www.reddit.com/r/webdev/wiki/faq/) - reddit: the front page of the internet
 
-[https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Become-A-Full-Stack-Web-Developer - Free resources for learning Full Stack Web Development
+* Feel stuck after learning HTML&CSS? Here's how to create websites on your own — Rumendimitrov.com - [https://www.rumendimitrov.com/2015/02/stuck-after-html-and-css/](https://www.rumendimitrov.com/2015/02/stuck-after-html-and-css/) - [https://www.reddit.com/r/web_design/comments/2x815r/feel_stuck_after_learning_htmlcss_heres_how_to/](https://www.reddit.com/r/web_design/comments/2x815r/feel_stuck_after_learning_htmlcss_heres_how_to/) - You have read a few books on HTML & CSS and know how to create websites yourself. You know how to find the resources you need (when you don't...
 
-Become a Web Developer | Viking Code School
+* Intro to HTML & CSS Online Course | Udacity - [https://www.udacity.com/course/intro-to-html-and-css--ud304](https://www.udacity.com/course/intro-to-html-and-css--ud304) - Intro to HTML & CSS covers the founding blocks of building a website by getting hands on with HTML & CSS. Learn more about web development from Udacity.
 
-[https://www.vikingcodeschool.com/web-development-basics](https://www.vikingcodeschool.com/web-development-basics) - Viking Code School is the premier program for learning professional web development online
+* HTML & CSS - [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web) - Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends. Michael0x2a/curated-programming-resources[https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) - curated-programming-resources - A curated list of resources for learning programming.
 
-Corlate Free Website Template | Free CSS Templates | Free CSS
 
-[http://www.free-css.com/free-css-templates/page204/corlate](http://www.free-css.com/free-css-templates/page204/corlate) - Preview of the Corlate Free CSS Template from ShapeBootstrap
+* Huge list of CSS3 Resources,Tutorials and Libraries to Help You Become a Novice to Expert ... • r/learnprogramming - [https://www.reddit.com/r/learnprogramming/comments/2zd0rv/huge_list_of_css3_resourcestutorials_and/](https://www.reddit.com/r/learnprogramming/comments/2zd0rv/huge_list_of_css3_resourcestutorials_and/) - All the web designers(beginners or intermediates) around the world are excited about the power of CSS3 and the flexibility it offers. With that in...
 
-CSS Beginner Tutorial | HTML Dog
+* Help for reddit's CSS - [https://www.reddit.com/r/csshelp/](https://www.reddit.com/r/csshelp/)
 
-[http://www.htmldog.com/guides/css/beginner/](http://www.htmldog.com/guides/css/beginner/) - CSS Beginner Tutorial Like the HTML Beginner Tutorial , the CSS Beginner Tutorial assumes that you know as much about CSS as you do about the cumulative effects of sea squirt discharge on the brain chemistry of Germanic ammonites. The purpose of this guide is to teach the bare essentials - just enough to get started. The CSS Intermediate Tutorial and CSS Advanced Tutorial go into more depth about CSS. CSS , or Cascading Styles Sheets , is a way to style and present HTML. Whereas the HTML is the...
+* Opening the Box Model - Learn to Code HTML & CSS - [http://learn.shayhowe.com/html-css/opening-the-box-model/](http://learn.shayhowe.com/html-css/opening-the-box-model/) - Learn the HTML and CSS box model concept, outlining that every element on a page is a rectangular box, of which may include margins, padding, and borders.
 
-CSS Reference
+* Learn to code and help nonprofits - [http://www.freecodecamp.com](http://www.freecodecamp.com) - Learn to code and build projects for nonprofits. Build your full stack web development portfolio today.
 
-[http://cssreference.io](http://cssreference.io) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
+* Learn How to Code in HTML5 and CSS3 - [http://howtocodeinhtml.com/](http://howtocodeinhtml.com/) - An open e-book about HTML5 and CSS3 for absolute beginners
 
-CSS-Tricks
+* Seven Practical Steps for Planning a Website | Fast Company - [https://www.fastcompany.com/1703962/seven-practical-steps-planning-website](https://www.fastcompany.com/1703962/seven-practical-steps-planning-website) - Your website is your storefront window to the world, so its critical that it work for you. Consider these seven steps before you start building your site.
 
-[https://css-tricks.com/](https://css-tricks.com/) - CSS-Tricks is a website about websites.
+Design
+* Web Design 101 | A free Webflow ebook - [https://ebooks.webflow.com/ebook/web-design-101](https://ebooks.webflow.com/ebook/web-design-101) - The future of the web is in your hands. Learn how to build it right.
 
-Download 2487 Free Website Templates - CSS & HTML | Free CSS
+* Webdev Resources • /r/webdev - [https://www.reddit.com/r/webdev/comments/1v7en8/webdev_resources/](https://www.reddit.com/r/webdev/comments/1v7en8/webdev_resources/) - What are some lesser known or more well known resources, on reddit or otherwise, that helps you build web apps? Thanks for posting! Please add...
 
-[http://www.free-css.com/free-css-templates](http://www.free-css.com/free-css-templates) - The free website templates that are showcased here are open source, creative commons or totally free. These free CSS HTML templates can be freely downloaded.
+Design
+* Website Color Schemes: The Palettes of 50 Visually Impactful Websites to Inspire You – Design School - [https://designschool.canva.com/blog/website-color-schemes/](https://designschool.canva.com/blog/website-color-schemes/) - Find inspiration with these unique web color palettes.
 
-faq - webdev
+* Website Templates • Free Download • Open Designs - [http://www.opendesigns.org/website-templates/](http://www.opendesigns.org/website-templates/) - With over 2,000 website templates to choose from, you'll definitely find yourself a great new look for your website - and it's completely free too!
 
-[https://www.reddit.com/r/webdev/wiki/faq/](https://www.reddit.com/r/webdev/wiki/faq/) - reddit: the front page of the internet
+* What did you do after learning HTML and CSS? • /r/web_design - [https://www.reddit.com/r/web_design/comments/1h5bxm/what_did_you_do_after_learning_html_and_css/](https://www.reddit.com/r/web_design/comments/1h5bxm/what_did_you_do_after_learning_html_and_css/) - First, maybe there should be a FAQ on the sidebar that addresses stuff like this...I'm afraid I might be asking a common question. I apologize in...
 
-Feel stuck after learning HTML&CSS? Here's how to create websites on your own — Rumendimitrov.com
+Design
+* 50 Totally Free Lessons in Graphic Design Theory - [https://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916](https://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916) - While many of us can create something that looks good in Photoshop or attractive when spliced into CSS, but do we actually understand the design theory behind what we create? Theory is the missing...
+* 55 Hand-Picked Resources to Help You Learn Graphic Design Quickly - [http://www.designforfounders.com/learn-design/](http://www.designforfounders.com/learn-design/) - Want to learn graphic design? Here's a list of the best links on the internet to get you started right away. Get our exclusive design learning checklist too!
+* Learning the Basic Elements and Principles of Graphic Design - [http://1stwebdesigner.com/graphic-design-basics-elements/](http://1stwebdesigner.com/graphic-design-basics-elements/) - We take an in-depth look at the basics of graphic design, covering the elements, principles, and composition.
+* Teach Yourself Graphic Design: A Self-Study Course Outline - [https://design.tutsplus.com/articles/teach-yourself-graphic-design-a-self-study-course-outline--psd-3520](https://design.tutsplus.com/articles/teach-yourself-graphic-design-a-self-study-course-outline--psd-3520) - Fortunately, it isn't required to go to design school in order to be a graphic designer. A good foundation in graphic design history, theory, and practical application will help you hit the ground...
 
-[https://www.rumendimitrov.com/2015/02/stuck-after-html-and-css/](https://www.rumendimitrov.com/2015/02/stuck-after-html-and-css/) - [https://www.reddit.com/r/web_design/comments/2x815r/feel_stuck_after_learning_htmlcss_heres_how_to/](https://www.reddit.com/r/web_design/comments/2x815r/feel_stuck_after_learning_htmlcss_heres_how_to/) - You have read a few books on HTML & CSS and know how to create websites yourself. You know how to find the resources you need (when you don't...
+* How to Check Traffic from WordPress Dashboard - [https://www.sourcewp.com/how-to-check-traffic-from-wordpress-dashboard/](https://www.sourcewp.com/how-to-check-traffic-from-wordpress-dashboard/) - This article tells you how to check your traffic from your WordPress Dashboard. It gives you a list of plugins that will make checking traffic much easier.
 
-Intro to HTML & CSS Online Course | Udacity
+* Web Development Immersive - [https://generalassemb.ly/education/web-development-immersive?where=chicago](https://generalassemb.ly/education/web-development-immersive?where=chicago) - Founder, The Good Company
 
-[https://www.udacity.com/course/intro-to-html-and-css--ud304](https://www.udacity.com/course/intro-to-html-and-css--ud304) - Intro to HTML & CSS covers the founding blocks of building a website by getting hands on with HTML & CSS. Learn more about web development from Udacity.
-
-HTML & CSS
-
-[https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web) - Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends. Michael0x2a/curated-programming-resources[https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) - curated-programming-resources - A curated list of resources for learning programming.
-
-HTML5 UP
-
-[http://html5up.net/](http://html5up.net/) - Responsive HTML5 and CSS3 site templates designed by @ajlkn and released under the Creative Commons license.
-
-Huge list of CSS3 Resources,Tutorials and Libraries to Help You Become a Novice to Expert ... • r/learnprogramming
-
-[https://www.reddit.com/r/learnprogramming/comments/2zd0rv/huge_list_of_css3_resourcestutorials_and/](https://www.reddit.com/r/learnprogramming/comments/2zd0rv/huge_list_of_css3_resourcestutorials_and/) - All the web designers(beginners or intermediates) around the world are excited about the power of CSS3 and the flexibility it offers. With that in...
-
-Help for reddit's CSS
-
-[https://www.reddit.com/r/csshelp/](https://www.reddit.com/r/csshelp/)
-
-Opening the Box Model - Learn to Code HTML & CSS
-
-[http://learn.shayhowe.com/html-css/opening-the-box-model/](http://learn.shayhowe.com/html-css/opening-the-box-model/) - Learn the HTML and CSS box model concept, outlining that every element on a page is a rectangular box, of which may include margins, padding, and borders.
-
-Learn to code and help nonprofits
-
-[http://www.freecodecamp.com](http://www.freecodecamp.com) - Learn to code and build projects for nonprofits. Build your full stack web development portfolio today.
-
-Learn How to Code in HTML5 and CSS3
-
-[http://howtocodeinhtml.com/](http://howtocodeinhtml.com/) - An open e-book about HTML5 and CSS3 for absolute beginners
-
-Seven Practical Steps for Planning a Website | Fast Company
-
-[https://www.fastcompany.com/1703962/seven-practical-steps-planning-website](https://www.fastcompany.com/1703962/seven-practical-steps-planning-website) - Your website is your storefront window to the world, so its critical that it work for you. Consider these seven steps before you start building your site.
-
-Web Design 101 | A free Webflow ebook
-
-[https://ebooks.webflow.com/ebook/web-design-101](https://ebooks.webflow.com/ebook/web-design-101) - The future of the web is in your hands. Learn how to build it right.
-
-Webdev Resources • /r/webdev
-
-[https://www.reddit.com/r/webdev/comments/1v7en8/webdev_resources/](https://www.reddit.com/r/webdev/comments/1v7en8/webdev_resources/) - What are some lesser known or more well known resources, on reddit or otherwise, that helps you build web apps? Thanks for posting! Please add...
-
-Website Color Schemes: The Palettes of 50 Visually Impactful Websites to Inspire You – Design School
-
-[https://designschool.canva.com/blog/website-color-schemes/](https://designschool.canva.com/blog/website-color-schemes/) - Find inspiration with these unique web color palettes.
-
-Website Templates • Free Download • Open Designs
-
-[http://www.opendesigns.org/website-templates/](http://www.opendesigns.org/website-templates/) - With over 2,000 website templates to choose from, you'll definitely find yourself a great new look for your website - and it's completely free too!
-
-What did you do after learning HTML and CSS? • /r/web_design
-
-[https://www.reddit.com/r/web_design/comments/1h5bxm/what_did_you_do_after_learning_html_and_css/](https://www.reddit.com/r/web_design/comments/1h5bxm/what_did_you_do_after_learning_html_and_css/) - First, maybe there should be a FAQ on the sidebar that addresses stuff like this...I'm afraid I might be asking a common question. I apologize in...
-
-Zerofour by HTML5 UP
-
-[http://html5up.net/zerofour](http://html5up.net/zerofour) - A responsive blog/magazine site template design named as such because it's the fourth design up here (very creative I know). Has plenty of room for all sorts of content and even multilevel drop down menus.
-
-50 Totally Free Lessons in Graphic Design Theory
-
-[https://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916](https://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916) - While many of us can create something that looks good in Photoshop or attractive when spliced into CSS, but do we actually understand the design theory behind what we create? Theory is the missing...
-
-55 Hand-Picked Resources to Help You Learn Graphic Design Quickly
-
-[http://www.designforfounders.com/learn-design/](http://www.designforfounders.com/learn-design/) - Want to learn graphic design? Here's a list of the best links on the internet to get you started right away. Get our exclusive design learning checklist too!
-
-How to Check Traffic from WordPress Dashboard
-
-[https://www.sourcewp.com/how-to-check-traffic-from-wordpress-dashboard/](https://www.sourcewp.com/how-to-check-traffic-from-wordpress-dashboard/) - This article tells you how to check your traffic from your WordPress Dashboard. It gives you a list of plugins that will make checking traffic much easier.
-
-Learning the Basic Elements and Principles of Graphic Design
-
-[http://1stwebdesigner.com/graphic-design-basics-elements/](http://1stwebdesigner.com/graphic-design-basics-elements/) - We take an in-depth look at the basics of graphic design, covering the elements, principles, and composition.
-
-
-Teach Yourself Graphic Design: A Self-Study Course Outline
-
-[https://design.tutsplus.com/articles/teach-yourself-graphic-design-a-self-study-course-outline--psd-3520](https://design.tutsplus.com/articles/teach-yourself-graphic-design-a-self-study-course-outline--psd-3520) - Fortunately, it isn't required to go to design school in order to be a graphic designer. A good foundation in graphic design history, theory, and practical application will help you hit the ground...
-
-Web Development Immersive
-
-[https://generalassemb.ly/education/web-development-immersive?where=chicago](https://generalassemb.ly/education/web-development-immersive?where=chicago) - Founder, The Good Company
-
-Top 10 free web hosting providers for August 2016
-
-[http://www.techradar.com/news/internet/web/top-free-hosting-for-uk-businesses-1214296](http://www.techradar.com/news/internet/web/top-free-hosting-for-uk-businesses-1214296) - Free hosting packages for business websites
-
+* Top 10 free web hosting providers for August 2016 - [http://www.techradar.com/news/internet/web/top-free-hosting-for-uk-businesses-1214296](http://www.techradar.com/news/internet/web/top-free-hosting-for-uk-businesses-1214296) - Free hosting packages for business websites
 
 * [full stack academy - Google Search](https://www.google.com/search?q=full+stack+academy&rlz=1CDGOYI_enUS647US647&oq=full+stacj+&aqs=chrome.2.69i57j0l3.5145j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1)
 
+Design
 * [How to not suck at design, a 5 minute guide for the non-designer.](https://www.reddit.com/r/web_design/comments/68ymck/how_to_not_suck_at_design_a_5_minute_guide_for/)
 
 * [Sakura: a minimal classless css framework / theme. Just drop it in and watch the websites blossom!](https://www.reddit.com/r/web_design/comments/68yzba/sakura_a_minimal_classless_css_framework_theme/)
@@ -302,6 +236,7 @@ Top 10 free web hosting providers for August 2016
 
 * [Where to find people to mentor?](https://www.reddit.com/r/web_design/comments/6agab9/where_to_find_people_to_mentor/) - url: [https://www.reddit.com/r/web_design/comments/6agab9/where_to_find_people_to_mentor/](https://www.reddit.com/r/web_design/comments/6agab9/where_to_find_people_to_mentor/)
 
+CMS
 * [Best CMS for converting a static HTML and CSS site?](https://www.reddit.com/r/web_design/comments/69s9xm/best_cms_for_converting_a_static_html_and_css_site/) - url: [https://www.reddit.com/r/web_design/comments/69s9xm/best_cms_for_converting_a_static_html_and_css_site/](https://www.reddit.com/r/web_design/comments/69s9xm/best_cms_for_converting_a_static_html_and_css_site/)
 
 * [A list of things that are now possible? r/web_design](https://www.reddit.com/r/web_design/comments/69cq0y/a_list_of_things_that_are_now_possible/) - url: [https://www.reddit.com/r/web_design/comments/69cq0y/a_list_of_things_that_are_now_possible/](https://www.reddit.com/r/web_design/comments/69cq0y/a_list_of_things_that_are_now_possible/)
@@ -309,6 +244,7 @@ Top 10 free web hosting providers for August 2016
 * [Methods for Contrasting Text Against Backgrounds](https://css-tricks.com/methods-contrasting-text-backgrounds/) | [https://css-tricks.com/methods-contrasting-text-backgrounds/](https://css-tricks.com/methods-contrasting-text-backgrounds/)
 * [Enforcing CSS Syntax Style (and more!)](https://css-tricks.com/enforcing-css-syntax-style/) | [https://css-tricks.com/enforcing-css-syntax-style/](https://css-tricks.com/enforcing-css-syntax-style/)
 
+Design
 * [Web Design for Developers: The Ultimate Guide](https://www.reddit.com/r/webdev/comments/6cql0o/web_design_for_developers_the_ultimate_guide/) | [https://www.reddit.com/r/webdev/comments/6cql0o/web_design_for_developers_the_ultimate_guide/](https://www.reddit.com/r/webdev/comments/6cql0o/web_design_for_developers_the_ultimate_guide/)
 
 * [Book - Scalable and Modular Architecture for CSS](https://smacss.com/book/type-module) | [https://smacss.com/book/type-module](https://smacss.com/book/type-module)
@@ -317,6 +253,7 @@ Top 10 free web hosting providers for August 2016
 
 # Unorganized
 
+CSS
 * [https://line25.com/articles/10-css-rules-every-web-designer-should-know](https://line25.com/articles/10-css-rules-every-web-designer-should-know)
 
 BRACKETS:
@@ -384,3 +321,38 @@ Site: don't worry about CMS for now? I can hard code it in a simple way. Down th
 * [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
 
 * [http://www.snoopcode.com/](http://www.snoopcode.com/) - HTML / CSS / JS / JQuery courses
+
+---
+
+Which Web Course?
+* [Getting Started Coding: freeCodeCamp vs The Odin Project](https://www.reddit.com/r/webdev/comments/69saqd/getting_started_coding_freecodecamp_vs_the_odin/) | [https://www.reddit.com/r/webdev/comments/69saqd/getting_started_coding_freecodecamp_vs_the_odin/](https://www.reddit.com/r/webdev/comments/69saqd/getting_started_coding_freecodecamp_vs_the_odin/)
+
+* [Reference Sheet Community help needed to create a general Programming \"Cheat\" Spreadsheet for everyone!](https://www.reddit.com/r/webdev/comments/6cbpel/reference_sheet_community_help_needed_to_create_a/) | [https://www.reddit.com/r/webdev/comments/6cbpel/reference_sheet_community_help_needed_to_create_a/](https://www.reddit.com/r/webdev/comments/6cbpel/reference_sheet_community_help_needed_to_create_a/) - google doc comparing languages (saved)
+
+* [Why would anyone want to learn functional programming or non object oriented programming at all?](https://www.reddit.com/r/learnprogramming/comments/6b5nf7/why_would_anyone_want_to_learn_functional/) | [https://www.reddit.com/r/learnprogramming/comments/6b5nf7/why_would_anyone_want_to_learn_functional/](https://www.reddit.com/r/learnprogramming/comments/6b5nf7/why_would_anyone_want_to_learn_functional/)
+
+* [A new comprehensive reference of performance analysis features in Chrome DevTools](https://www.reddit.com/r/webdev/comments/6bxhef/a_new_comprehensive_reference_of_performance/) | [https://www.reddit.com/r/webdev/comments/6bxhef/a_new_comprehensive_reference_of_performance/](https://www.reddit.com/r/webdev/comments/6bxhef/a_new_comprehensive_reference_of_performance/)
+
+
+Cool browser
+* [Brave Software | Building a Better Web](https://brave.com/) | [https://brave.com/](https://brave.com/)
+
+* [Free Programming Ebooks](https://www.reddit.com/r/webdev/comments/6dzjjl/free_programming_ebooks/) | [https://www.reddit.com/r/webdev/comments/6dzjjl/free_programming_ebooks/](https://www.reddit.com/r/webdev/comments/6dzjjl/free_programming_ebooks/) - Not just web dev.
+* [I want to teach. How do you like to learn?](https://www.reddit.com/r/webdev/comments/6e2eji/i_want_to_teach_how_do_you_like_to_learn/) | [https://www.reddit.com/r/webdev/comments/6e2eji/i_want_to_teach_how_do_you_like_to_learn/](https://www.reddit.com/r/webdev/comments/6e2eji/i_want_to_teach_how_do_you_like_to_learn/)
+
+* [What is considered best practice/ most popular method of making mobile apps with JS/HTML5/CSS3?](https://www.reddit.com/r/webdev/comments/69by4a/what_is_considered_best_practice_most_popular/) | [https://www.reddit.com/r/webdev/comments/69by4a/what_is_considered_best_practice_most_popular/](https://www.reddit.com/r/webdev/comments/69by4a/what_is_considered_best_practice_most_popular/)
+
+* [Veteran web devs (8-10+ years in the field), what's your advice on staying employed and relevant?](https://www.reddit.com/r/webdev/comments/6fbcfv/veteran_web_devs_810_years_in_the_field_whats/) | [https://www.reddit.com/r/webdev/comments/6fbcfv/veteran_web_devs_810_years_in_the_field_whats/](https://www.reddit.com/r/webdev/comments/6fbcfv/veteran_web_devs_810_years_in_the_field_whats/)
+* [Is Node.js currently more marketable than ROR? - Quora](https://www.quora.com/Is-Node-js-currently-more-marketable-than-ROR) | [https://www.quora.com/Is-Node-js-currently-more-marketable-than-ROR](https://www.quora.com/Is-Node-js-currently-more-marketable-than-ROR)
+* [Should I learn React.js or Vue.js? - Quora](https://www.quora.com/Should-I-learn-React-js-or-Vue-js) | [https://www.quora.com/Should-I-learn-React-js-or-Vue-js](https://www.quora.com/Should-I-learn-React-js-or-Vue-js)
+
+* [What are some of your favorite coding-related Mac apps?](https://www.reddit.com/r/webdev/comments/6fqycl/what_are_some_of_your_favorite_codingrelated_mac/) | [https://www.reddit.com/r/webdev/comments/6fqycl/what_are_some_of_your_favorite_codingrelated_mac/](https://www.reddit.com/r/webdev/comments/6fqycl/what_are_some_of_your_favorite_codingrelated_mac/)
+* [Question on @Quora: Do we need another client-side language?](https://www.quora.com/Do-we-need-another-client-side-language?share=e41c0daf&srid=4tK5) | [https://www.quora.com/Do-we-need-another-client-side-language?share=e41c0daf&srid=4tK5](https://www.quora.com/Do-we-need-another-client-side-language?share=e41c0daf&srid=4tK5)
+* [30 of Our Favorite CSS Resources from This Year](https://speckyboy.com/favorite-css-resources/) | [https://speckyboy.com/favorite-css-resources/](https://speckyboy.com/favorite-css-resources/)
+
+* [Just released my first ever PWA, ECMASyntax.io - would love any feedback you guys could give on it!](https://www.reddit.com/r/webdev/comments/6gri0b/just_released_my_first_ever_pwa_ecmasyntaxio/) | [https://www.reddit.com/r/webdev/comments/6gri0b/just_released_my_first_ever_pwa_ecmasyntaxio/](https://www.reddit.com/r/webdev/comments/6gri0b/just_released_my_first_ever_pwa_ecmasyntaxio/) - cool
+* [WebAssembly 101: a developer's first steps](https://www.reddit.com/r/webdev/comments/6grtjx/webassembly_101_a_developers_first_steps/) | [https://www.reddit.com/r/webdev/comments/6grtjx/webassembly_101_a_developers_first_steps/](https://www.reddit.com/r/webdev/comments/6grtjx/webassembly_101_a_developers_first_steps/)
+
+* [We made a search engine to show the best paths for learning anything including webdev](https://www.reddit.com/r/webdev/comments/6gl3ts/we_made_a_search_engine_to_show_the_best_paths/) | [https://www.reddit.com/r/webdev/comments/6gl3ts/we_made_a_search_engine_to_show_the_best_paths/](https://www.reddit.com/r/webdev/comments/6gl3ts/we_made_a_search_engine_to_show_the_best_paths/)
+
+*   [Progressive web app course by the Google Chrome Developers](https://www.reddit.com/r/webdev/comments/67q3gi/progressive_web_app_course_by_the_google_chrome/)
