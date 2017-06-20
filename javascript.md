@@ -247,3 +247,62 @@ JAVASCRIPT HTML BOOK - LOOKS GOOD
 
 * [learning-area/oojs-class-inheritance-finished.html at master · mdn/learning-area](https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html) | [https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html](https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html)
 * [learning-area/javascript at master · mdn/learning-area](https://github.com/mdn/learning-area/tree/master/javascript) | [https://github.com/mdn/learning-area/tree/master/javascript](https://github.com/mdn/learning-area/tree/master/javascript)©
+
+---
+
+* [HTML DOM Event Object](https://www.w3schools.com/jsref/dom_obj_event.asp) | [https://www.w3schools.com/jsref/dom_obj_event.asp](https://www.w3schools.com/jsref/dom_obj_event.asp)
+* [Tryit Editor v3.4](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_event_key_keycode3) | [https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_event_key_keycode3](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_event_key_keycode3)
+
+[Understanding JavaScript Closures in For Loops](https://decembersoft.com/posts/understanding-javascript-closures-in-for-loops/)
+
+[(5) Javascript the Hard Parts - Object Oriented Programming (05/09) - YouTube](https://www.youtube.com/watch?v=wREu44nEJgE)
+
+[(5) JavaScript Tutorial For Beginners #42 - JavaScript Timers - YouTube](https://www.youtube.com/watch?v=Az5J_EkhYCY&index=42&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
+[JavaScript: Understanding the Weird Parts | Udemy](https://www.udemy.com/understand-javascript/) - $10
+
+[Welcome | Scoped](https://js-scope-vis.aerobatic.io/#/welcome) - this is fantastic.
+
+* [Question on @Quora: What are some projects I can start with while learning JavaScript to improve my skills?](https://www.quora.com/What-are-some-projects-I-can-start-with-while-learning-JavaScript-to-improve-my-skills?share=4959c333&srid=4tK5) | [https://www.quora.com/What-are-some-projects-I-can-start-with-while-learning-JavaScript-to-improve-my-skills?share=4959c333&srid=4tK5](https://www.quora.com/What-are-some-projects-I-can-start-with-while-learning-JavaScript-to-improve-my-skills?share=4959c333&srid=4tK5)
+
+
+* [getlibs - Modern javascript. All front-end libraries. No server/build. An in-browser module loader configured to get external dependencies directly from CDN. Includes babel/typescript](https://www.reddit.com/r/web_design/comments/6fu1pm/getlibs_modern_javascript_all_frontend_libraries/) | [https://www.reddit.com/r/web_design/comments/6fu1pm/getlibs_modern_javascript_all_frontend_libraries/](https://www.reddit.com/r/web_design/comments/6fu1pm/getlibs_modern_javascript_all_frontend_libraries/)
+
+* [A Beautiful Example To Master ES6 Scope Resolution](https://www.reddit.com/r/javascript/comments/6gqbfg/a_beautiful_example_to_master_es6_scope_resolution/) | [https://www.reddit.com/r/javascript/comments/6gqbfg/a_beautiful_example_to_master_es6_scope_resolution/](https://www.reddit.com/r/javascript/comments/6gqbfg/a_beautiful_example_to_master_es6_scope_resolution/)
+* [Spellbook of Modern Web Dev - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://www.reddit.com/r/javascript/comments/6gq1ic/spellbook_of_modern_web_dev_a_big_picture/) | [https://www.reddit.com/r/javascript/comments/6gq1ic/spellbook_of_modern_web_dev_a_big_picture/](https://www.reddit.com/r/javascript/comments/6gq1ic/spellbook_of_modern_web_dev_a_big_picture/) - seems like a good resource
+  * [dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev#next-generation-js)
+* [ESLint v4.0.0 released](https://www.reddit.com/r/javascript/comments/6gpbkz/eslint_v400_released/) | [https://www.reddit.com/r/javascript/comments/6gpbkz/eslint_v400_released/](https://www.reddit.com/r/javascript/comments/6gpbkz/eslint_v400_released/)
+  * [ESLint v4.0.0 released - ESLint - Pluggable JavaScript linter](http://eslint.org/blog/2017/06/eslint-v4.0.0-released) - cool?
+
+* [JavaScript Programs](https://www.reddit.com/r/javascript/comments/6gkqtq/javascript_programs/) | [https://www.reddit.com/r/javascript/comments/6gkqtq/javascript_programs/](https://www.reddit.com/r/javascript/comments/6gkqtq/javascript_programs/) - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) Highly recommended.
+
+* [Help with jQuery and getting data from an API](https://www.reddit.com/r/CodingHelp/comments/6e5s16/help_with_jquery_and_getting_data_from_an_api/) | [https://www.reddit.com/r/CodingHelp/comments/6e5s16/help_with_jquery_and_getting_data_from_an_api/](https://www.reddit.com/r/CodingHelp/comments/6e5s16/help_with_jquery_and_getting_data_from_an_api/)
+* [Map and Reduce JavaScript Arrays](https://www.reddit.com/r/javascript/comments/6gft21/map_and_reduce_javascript_arrays/) | [https://www.reddit.com/r/javascript/comments/6gft21/map_and_reduce_javascript_arrays/](https://www.reddit.com/r/javascript/comments/6gft21/map_and_reduce_javascript_arrays/)
+
+JavaScript
+* [Debugging JavaScript in chrome - YouTube](https://www.youtube.com/watch?v=KbEx0s06VLs) | [https://www.youtube.com/watch?v=KbEx0s06VLs](https://www.youtube.com/watch?v=KbEx0s06VLs)
+* [[HELP] How do I make it so clicking 'enter' when this text input has focus runs the same script as when a button is clicked?](https://www.reddit.com/r/javascript/comments/6h15td/help_how_do_i_make_it_so_clicking_enter_when_this/) | [https://www.reddit.com/r/javascript/comments/6h15td/help_how_do_i_make_it_so_clicking_enter_when_this/](https://www.reddit.com/r/javascript/comments/6h15td/help_how_do_i_make_it_so_clicking_enter_when_this/)
+* [I've run out of website project ideas to improve my JS. Any suggestions?](https://www.reddit.com/r/webdev/comments/6gx1we/ive_run_out_of_website_project_ideas_to_improve/) | [https://www.reddit.com/r/webdev/comments/6gx1we/ive_run_out_of_website_project_ideas_to_improve/](https://www.reddit.com/r/webdev/comments/6gx1we/ive_run_out_of_website_project_ideas_to_improve/)
+* [Is Parsing Always Necessary?](https://www.reddit.com/r/learnjavascript/comments/6gxhj8/is_parsing_always_necessary/) | [https://www.reddit.com/r/learnjavascript/comments/6gxhj8/is_parsing_always_necessary/](https://www.reddit.com/r/learnjavascript/comments/6gxhj8/is_parsing_always_necessary/)
+* [What are the best web crawling/web scraping libraries for JavaScript?](https://www.reddit.com/r/javascript/comments/6h644s/what_are_the_best_web_crawlingweb_scraping/) | [https://www.reddit.com/r/javascript/comments/6h644s/what_are_the_best_web_crawlingweb_scraping/](https://www.reddit.com/r/javascript/comments/6h644s/what_are_the_best_web_crawlingweb_scraping/)
+* [Writing JavaScript Using Chrome Developer Tools](https://www.reddit.com/r/javascript/comments/6h74i6/writing_javascript_using_chrome_developer_tools/) | [https://www.reddit.com/r/javascript/comments/6h74i6/writing_javascript_using_chrome_developer_tools/](https://www.reddit.com/r/javascript/comments/6h74i6/writing_javascript_using_chrome_developer_tools/)
+
+* [infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg 2,018×4,697 pixels](https://fossbytes.com/wp-content/uploads/2015/09/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg) | [https://fossbytes.com/wp-content/uploads/2015/09/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg](https://fossbytes.com/wp-content/uploads/2015/09/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg)
+
+
+* [Amplitude.js - a modern HTML5 audio player, no dependencies required](https://www.reddit.com/r/javascript/comments/6hfaex/amplitudejs_a_modern_html5_audio_player_no/) | [https://www.reddit.com/r/javascript/comments/6hfaex/amplitudejs_a_modern_html5_audio_player_no/](https://www.reddit.com/r/javascript/comments/6hfaex/amplitudejs_a_modern_html5_audio_player_no/)
+* [Functional Programming in JavaScript - Map() Function Demystified - Detailed Guide](https://www.reddit.com/r/javascript/comments/6hewmj/functional_programming_in_javascript_map_function/) | [https://www.reddit.com/r/javascript/comments/6hewmj/functional_programming_in_javascript_map_function/](https://www.reddit.com/r/javascript/comments/6hewmj/functional_programming_in_javascript_map_function/)
+* [Useful tips, learning materials and libraries: Our 500+ engineers all use this front end development guide](https://www.reddit.com/r/javascript/comments/6hdg8u/useful_tips_learning_materials_and_libraries_our/) | [https://www.reddit.com/r/javascript/comments/6hdg8u/useful_tips_learning_materials_and_libraries_our/](https://www.reddit.com/r/javascript/comments/6hdg8u/useful_tips_learning_materials_and_libraries_our/)
+
+JavaScript
+* [Spected - A JavaScript library for validating deeply nested data structures](https://www.reddit.com/r/javascript/comments/6hvnlr/spected_a_javascript_library_for_validating/) | [https://www.reddit.com/r/javascript/comments/6hvnlr/spected_a_javascript_library_for_validating/](https://www.reddit.com/r/javascript/comments/6hvnlr/spected_a_javascript_library_for_validating/)
+* [Stuck on Javascript (Khan Academy)](https://www.reddit.com/r/learnprogramming/comments/6hrxwf/stuck_on_javascript_khan_academy/) | [https://www.reddit.com/r/learnprogramming/comments/6hrxwf/stuck_on_javascript_khan_academy/](https://www.reddit.com/r/learnprogramming/comments/6hrxwf/stuck_on_javascript_khan_academy/)
+* [Any resources for people who aren't complete beginners?](https://www.reddit.com/r/learnjavascript/comments/6hs68q/any_resources_for_people_who_arent_complete/) | [https://www.reddit.com/r/learnjavascript/comments/6hs68q/any_resources_for_people_who_arent_complete/](https://www.reddit.com/r/learnjavascript/comments/6hs68q/any_resources_for_people_who_arent_complete/)
+* [Advice about Chrome extensions. -reddit-](https://www.reddit.com/r/learnjavascript/comments/6hsog6/advice_about_chrome_extensions/) | [https://www.reddit.com/r/learnjavascript/comments/6hsog6/advice_about_chrome_extensions/](https://www.reddit.com/r/learnjavascript/comments/6hsog6/advice_about_chrome_extensions/)
+* [100+ Emulators Written in JavaScript](https://www.reddit.com/r/javascript/comments/6hniwk/100_emulators_written_in_javascript/) | [https://www.reddit.com/r/javascript/comments/6hniwk/100_emulators_written_in_javascript/](https://www.reddit.com/r/javascript/comments/6hniwk/100_emulators_written_in_javascript/)
+* [Learn ECMAScript6 by doing it](http://es6katas.org/) | [http://es6katas.org/](http://es6katas.org/)
+
+JavaScript Boolean method
+* [The Difference Between Boolean Objects and Boolean Primitives in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/the-difference-between-boolean-objects-and-boolean-primitives-in-javascript.html) | [http://adripofjavascript.com/blog/drips/the-difference-between-boolean-objects-and-boolean-primitives-in-javascript.html](http://adripofjavascript.com/blog/drips/the-difference-between-boolean-objects-and-boolean-primitives-in-javascript.html)
+
+* [19+ JavaScript Shorthand Coding Techniques | Learn Coding](https://dev.codetrick.net/2017/06/19/19-javascript-shorthand-coding-techniques/) | [https://dev.codetrick.net/2017/06/19/19-javascript-shorthand-coding-techniques/](https://dev.codetrick.net/2017/06/19/19-javascript-shorthand-coding-techniques/)
