@@ -260,6 +260,8 @@ BRACKETS:
 * [https://github.com/adobe/brackets/wiki/User-Key-Bindings](https://github.com/adobe/brackets/wiki/User-Key-Bindings)
 * [https://github.com/adobe/brackets/blob/master/src/command/Commands.js](https://github.com/adobe/brackets/blob/master/src/command/Commands.js)
 * [https://github.com/adobe/brackets/wiki/How-to-Use-Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
+* [Large Projects · adobe/brackets Wiki](https://github.com/adobe/brackets/wiki/Large-Projects) - Error: This project contains more than 30,000 files. Features that operate across multiple files may be disabled or behave as if the project is empty.
+* * [Brackets Exclude Indexing FileTree - Brackets Extensions](http://brackets.dnbard.com/extension/dimitrk.exclude-indexing-filetree)
 ---
 Validate:
 HTML:
