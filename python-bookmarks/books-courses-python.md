@@ -19,10 +19,11 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
 * Hands-on Python Tutorial — Hands-on Python Tutorial for Python 3.1 - [http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html) - *HTML only* book on the basics and using Python for web.
 
-[DOCS.PYTHON.ORG](https://docs.python.org/3/): <-- *start here, then:*
-* [The Python Tutorial — Python 3.6.2rc1 documentation](https://docs.python.org/3/tutorial/index.html) - Great reference!
-* [The Python Language Reference — Python 3.6.2rc1 documentation](https://docs.python.org/3/reference/index.html)
-* The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html] (https://docs.python.org/3/library/index.html)
+* [DOCS.PYTHON.ORG](https://docs.python.org/3/): <-- *start here, then:*
+  * [The Python Tutorial — Python 3.6.2rc1 documentation](https://docs.python.org/3/tutorial/index.html) - Great reference!
+  * [The Python Language Reference — Python 3.6.2rc1 documentation](https://docs.python.org/3/reference/index.html)
+  * The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html] (https://docs.python.org/3/library/index.html)
+
 
 * Python Programming - [https://en.wikibooks.org/wiki/Python_Programming](https://en.wikibooks.org/wiki/Python_Programming) - Python Programming From Wikibooks, open books for an open world.
 
@@ -39,26 +40,26 @@ This book is designed with beginners (like you) in mind. In other words, you wil
  Index](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - This book is aimed at more experienced Python programmers who are looking to deepen their understanding of the language and modern programming idioms. Much of the material focuses on some of the more advanced techniques used by libraries, frameworks, and applications. Throughout the book, the recipes generally assume that the reader already has the necessary background to understand the topic at hand (e.g., general knowledge of computer science, data structures, complexity, systems programming, concurrency, C programming, etc.). Moreover, the recipes are often just skeletons that aim to provide essential information for getting started, but which require the reader to do more research to fill in the details. As such, it is assumed that the reader knows how to use search engines and Python’s excellent online documentation.
   * [Chapter 1. Data Structures and Algorithms](http://chimera.labs.oreilly.com/books/1230000000393/ch01.html)
 
- * Invent Your Own Computer Games with Python - [http://inventwithpython.com/chapters/](http://inventwithpython.com/chapters/) - Chapters PDF of Invent Your Own Computer Games with Python PDF and All Source Code Chapter 1 - Installing Python [related content] Chapter 2 - The Interactive Shell [related content] Chapter 3 - Strings [related content] Chapter 4 - Guess the Number [related content] Chapter 5 - Jokes [related content] Chapter 6 - Dragon Realm [related content] Chapter 7 - Using the Debugger [related content] Chapter 8 - Flow Charts [related content] Chapter 9 - Hangman [related content] Chapter 9.5 - Extending...
 
- * GitHub - thewhitetulip/build-app-with-python-antitextbook: Aims to teach Python3 by example - [https://github.com/thewhitetulip/build-app-with-python-antitextbook](https://github.com/thewhitetulip/build-app-with-python-antitextbook) -
+* Invent Your Own Computer Games with Python - [http://inventwithpython.com/chapters/](http://inventwithpython.com/chapters/) - Chapters PDF of Invent Your Own Computer Games with Python PDF and All Source Code Chapter 1 - Installing Python [related content] Chapter 2 - The Interactive Shell [related content] Chapter 3 - Strings [related content] Chapter 4 - Guess the Number [related content] Chapter 5 - Jokes [related content] Chapter 6 - Dragon Realm [related content] Chapter 7 - Using the Debugger [related content] Chapter 8 - Flow Charts [related content] Chapter 9 - Hangman [related content] Chapter 9.5 - Extending...
 
- * Lean Python - Learn Just Enough Python to Build Useful Tools - 1st Edition (2016) | Python (Programming Language) | Variable (Computer Science) - [https://www.scribd.com/document/337445179/Lean-Python-Learn-Just-Enough-Python-to-Build-Useful-Tools-1st-Edition-2016](https://www.scribd.com/document/337445179/Lean-Python-Learn-Just-Enough-Python-to-Build-Useful-Tools-1st-Edition-2016) - Python for beginners
+* GitHub - thewhitetulip/build-app-with-python-antitextbook: Aims to teach Python3 by example - [https://github.com/thewhitetulip/build-app-with-python-antitextbook](https://github.com/thewhitetulip/build-app-with-python-antitextbook) -
 
- * Code Like a Pythonista: Idiomatic Python - [http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - Code Like a Pythonista: Idiomatic Python Contents The Zen of Python - In this interactive tutorial, we'll cover many essential Python idioms and techniques in depth, adding immediately useful tools to your belt. (Free to save as text or HTML)
+* Lean Python - Learn Just Enough Python to Build Useful Tools - 1st Edition (2016) | Python (Programming Language) | Variable (Computer Science) - [https://www.scribd.com/document/337445179/Lean-Python-Learn-Just-Enough-Python-to-Build-Useful-Tools-1st-Edition-2016](https://www.scribd.com/document/337445179/Lean-Python-Learn-Just-Enough-Python-to-Build-Useful-Tools-1st-Edition-2016) - Python for beginners
 
- * Dive Into Python 3 - [http://www.diveintopython3.net/](http://www.diveintopython3.net/) - A great intermediate resource in HTML and PDF.
+* Code Like a Pythonista: Idiomatic Python - [http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - Code Like a Pythonista: Idiomatic Python Contents The Zen of Python - In this interactive tutorial, we'll cover many essential Python idioms and techniques in depth, adding immediately useful tools to your belt. (Free to save as text or HTML)
 
- * [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/mobile/MattHarrison4/learn-90)
+* Dive Into Python 3 - [http://www.diveintopython3.net/](http://www.diveintopython3.net/) - A great intermediate resource in HTML and PDF.
 
- **Learn Python the Hard Way**
+* [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/mobile/MattHarrison4/learn-90)
 
- * [Learn Python the Hard Way - Read for Free](https://learnpythonthehardway.org/python3/ex40.html)
- * [Learn Python the Hard Way ex. 43 critique : learnpython](https://www.reddit.com/r/learnpython/comments/2c004t/learn_python_the_hard_way_ex_43_critique/)
- * [class - Confused about classes in Learn Python the Hard Way ex43? - Stack Overflow](http://stackoverflow.com/questions/18199031/confused-about-classes-in-learn-python-the-hard-way-ex43)
- * [Learn Python the hard way ex43 - Stack Overflow](http://stackoverflow.com/questions/39021484/learn-python-the-hard-way-ex43)
- * [python - LPTHW ex43 OOP trying to figure out how to get game to run - Stack Overflow](http://stackoverflow.com/questions/20829173/lpthw-ex43-oop-trying-to-figure-out-how-to-get-game-to-run)
- * [LPTHW Complaints - sopython](http://sopython.com/wiki/LPTHW_Complaints)
+* **Learn Python the Hard Way**
+  * [Learn Python the Hard Way - Read for Free](https://learnpythonthehardway.org/python3/ex40.html)
+  * [Learn Python the Hard Way ex. 43 critique : learnpython](https://www.reddit.com/r/learnpython/comments/2c004t/learn_python_the_hard_way_ex_43_critique/)
+  * [class - Confused about classes in Learn Python the Hard Way ex43? - Stack Overflow](http://stackoverflow.com/questions/18199031/confused-about-classes-in-learn-python-the-hard-way-ex43)
+  * [Learn Python the hard way ex43 - Stack Overflow](http://stackoverflow.com/questions/39021484/learn-python-the-hard-way-ex43)
+  * [python - LPTHW ex43 OOP trying to figure out how to get game to run - Stack Overflow](http://stackoverflow.com/questions/20829173/lpthw-ex43-oop-trying-to-figure-out-how-to-get-game-to-run)
+  * [LPTHW Complaints - sopython](http://sopython.com/wiki/LPTHW_Complaints)
 
  ### Charles / Chuck Severance - Python Author
 
