@@ -19,7 +19,10 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
 * Hands-on Python Tutorial — Hands-on Python Tutorial for Python 3.1 - [http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html) - *HTML only* book on the basics and using Python for web.
 
-* The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html) - Navigation index modules | next | previous | Python » dev (3.7) 3.6.0 3.5 3.4 3.3 2.7 Documentation » | The Python Standard Library ¶ While The Python Language Reference describes the exact syntax and semantics of the Python language, this library reference manual describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions. Python’s standard library is very extensive, offering a wide range o...
+[DOCS.PYTHON.ORG](https://docs.python.org/3/): <-- *start here, then:*
+* [The Python Tutorial — Python 3.6.2rc1 documentation](https://docs.python.org/3/tutorial/index.html) - Great reference!
+* [The Python Language Reference — Python 3.6.2rc1 documentation](https://docs.python.org/3/reference/index.html)
+* The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html] (https://docs.python.org/3/library/index.html)
 
 * Python Programming - [https://en.wikibooks.org/wiki/Python_Programming](https://en.wikibooks.org/wiki/Python_Programming) - Python Programming From Wikibooks, open books for an open world.
 
