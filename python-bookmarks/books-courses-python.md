@@ -2,15 +2,12 @@
 
 *curated by [scraggo](https://github.com/scraggo)*
 
-## Online Books
-* <https://learnxinyminutes.com/docs/python3/>  - For those who are familiar with programming.
+## Online Books - Beginner
 
-* The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation - [http://docs.quantifiedcode.com/python-anti-patterns/](http://docs.quantifiedcode.com/python-anti-patterns/) - The Little Book of Python Anti-Patterns is a small book of Python anti-patterns and worst practices . Learning about these anti-patterns will help you to avoid them in your own code and make you a better programmer (hopefully). Each pattern comes with a small description, examples and possible solutions. You can check many of them for fre...
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - The most recommended resource for beginners (PDF/HTML). Projects are useful and Al Sweigart is an excellent teacher.
+  * Book Review – Automate the Boring Stuff with Python by Al Sweigart - [https://www.alexkras.com/review-automate-the-boring-stuff-with-python-by-al-sweigart/](https://www.alexkras.com/review-automate-the-boring-stuff-with-python-by-al-sweigart/)
 
-* [Python Cookbook - *HTML ONLY*  
- Index](http://chimera.labs.oreilly.com/books/1230000000393/index.html) |
- [Chapter 1](http://chimera.labs.oreilly.com/books/1230000000393/ch01.html) - Chapter 1\. Data Structures and Algorithms Python provides a variety of useful built-in data structures, such as lists, sets, and dictionaries. For the most part, the use of these structures is straightforward. However, common questions concerning searching, sorting, ordering, and filtering often arise. Thus, the goal of this chapter is to discuss common data structures and algorithms involving data. In addition, treatment is given to the various data structures contained in the collections modu…
-
+* The Coder's Apprentice - [http://www.spronck.net/pythonbook/](http://www.spronck.net/pythonbook/) - My favorite resource (PDF/HTML) The Coder's Apprentice is a Python 3 course book, written by Pieter Spronck, aimed at students and teenagers who are completely new to programming. This book presumes no previous programming experience and contains numerous exercises.
 
 * [How to Think Like a Computer Scientist — How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/) - "How to Think Like a Computer Scientist: Learning with Python" is one of the best computer programming books out there that beginners can start with! I have been enjoying this book for the past two months and I HIGHLY recommend it for the following reasons:
 This book is designed with beginners (like you) in mind. In other words, you will not have to hire a tutor to be able to understand this book! It is very easy and clear to understand -- unlike many of the previous programming books...
@@ -18,19 +15,26 @@ This book is designed with beginners (like you) in mind. In other words, you wil
    * Think Python (Python 2 edition) - [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
    * Think Python/Answers - Wikibooks, open books for an open world - [https://en.wikibooks.org/wiki/Think_Python/Answers](https://en.wikibooks.org/wiki/Think_Python/Answers)
 
+* Non-Programmer's Tutorial for Python 3 - Wikibooks, open books for an open world - [https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) -
 
- * Hands-on Python Tutorial — Hands-on Python Tutorial for Python 3.1 - [http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html) - *HTML only* book on the basics and using Python for web.
+* Hands-on Python Tutorial — Hands-on Python Tutorial for Python 3.1 - [http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html) - *HTML only* book on the basics and using Python for web.
 
- * The Coder's Apprentice - home - [http://www.spronck.net/pythonbook/](http://www.spronck.net/pythonbook/) - The Coder's Apprentice is a Python 3 course book, written by Pieter Spronck, aimed at students and teenagers who are completely new to programming. This book presumes no previous programming experience and contains numerous exercises.
+* The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html) - Navigation index modules | next | previous | Python » dev (3.7) 3.6.0 3.5 3.4 3.3 2.7 Documentation » | The Python Standard Library ¶ While The Python Language Reference describes the exact syntax and semantics of the Python language, this library reference manual describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions. Python’s standard library is very extensive, offering a wide range o...
 
- * The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html) - Navigation index modules | next | previous | Python » dev (3.7) 3.6.0 3.5 3.4 3.3 2.7 Documentation » | The Python Standard Library ¶ While The Python Language Reference describes the exact syntax and semantics of the Python language, this library reference manual describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions. Python’s standard library is very extensive, offering a wide range o...
+* Python Programming - [https://en.wikibooks.org/wiki/Python_Programming](https://en.wikibooks.org/wiki/Python_Programming) - Python Programming From Wikibooks, open books for an open world.
 
+* Python 101 by Michael Driscoll [Leanpub PDF/iPad/Kindle] - [https://leanpub.com/python_101](https://leanpub.com/python_101) - **(Free / pay what you want)** This book will help you learn how to program with Python 3  from beginning to end. Python 101 starts off with the fundamentals of Python and then moves on to Python&#39;s standard library. Once you&#39;re finished with those sections, you will learn about decorators, properties, debugging, profiling and much more!
 
- * Python Programming - [https://en.wikibooks.org/wiki/Python_Programming](https://en.wikibooks.org/wiki/Python_Programming) - Python Programming From Wikibooks, open books for an open world.
+* A Byte of Python - [https://python.swaroopch.com/](https://python.swaroopch.com/) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you. + For Python version 3 This book will teach you to use Python version 3\. There will also be guidance for you to adapt to the older and more common Python version 2 in the book. + Who reads A Byte of Python? Here are what people are say...
 
- * Python 101 by Michael Driscoll [Leanpub PDF/iPad/Kindle] - [https://leanpub.com/python_101](https://leanpub.com/python_101) - **(Free / pay what you want)** This book will help you learn how to program with Python 3  from beginning to end. Python 101 starts off with the fundamentals of Python and then moves on to Python&#39;s standard library. Once you&#39;re finished with those sections, you will learn about decorators, properties, debugging, profiling and much more!
+## Online Books - Non-beginner
+* <https://learnxinyminutes.com/docs/python3/>  - For those who are familiar with programming.
 
- * A Byte of Python - [https://python.swaroopch.com/](https://python.swaroopch.com/) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you. + For Python version 3 This book will teach you to use Python version 3\. There will also be guidance for you to adapt to the older and more common Python version 2 in the book. + Who reads A Byte of Python? Here are what people are say...
+* The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation - [http://docs.quantifiedcode.com/python-anti-patterns/](http://docs.quantifiedcode.com/python-anti-patterns/) - The Little Book of Python Anti-Patterns is a small book of Python anti-patterns and worst practices . Learning about these anti-patterns will help you to avoid them in your own code and make you a better programmer (hopefully). Each pattern comes with a small description, examples and possible solutions. You can check many of them for fre...
+
+* [Python Cookbook - *HTML ONLY*  
+ Index](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - This book is aimed at more experienced Python programmers who are looking to deepen their understanding of the language and modern programming idioms. Much of the material focuses on some of the more advanced techniques used by libraries, frameworks, and applications. Throughout the book, the recipes generally assume that the reader already has the necessary background to understand the topic at hand (e.g., general knowledge of computer science, data structures, complexity, systems programming, concurrency, C programming, etc.). Moreover, the recipes are often just skeletons that aim to provide essential information for getting started, but which require the reader to do more research to fill in the details. As such, it is assumed that the reader knows how to use search engines and Python’s excellent online documentation.
+  * [Chapter 1. Data Structures and Algorithms](http://chimera.labs.oreilly.com/books/1230000000393/ch01.html)
 
  * Invent Your Own Computer Games with Python - [http://inventwithpython.com/chapters/](http://inventwithpython.com/chapters/) - Chapters PDF of Invent Your Own Computer Games with Python PDF and All Source Code Chapter 1 - Installing Python [related content] Chapter 2 - The Interactive Shell [related content] Chapter 3 - Strings [related content] Chapter 4 - Guess the Number [related content] Chapter 5 - Jokes [related content] Chapter 6 - Dragon Realm [related content] Chapter 7 - Using the Debugger [related content] Chapter 8 - Flow Charts [related content] Chapter 9 - Hangman [related content] Chapter 9.5 - Extending...
 
@@ -38,14 +42,9 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
  * Lean Python - Learn Just Enough Python to Build Useful Tools - 1st Edition (2016) | Python (Programming Language) | Variable (Computer Science) - [https://www.scribd.com/document/337445179/Lean-Python-Learn-Just-Enough-Python-to-Build-Useful-Tools-1st-Edition-2016](https://www.scribd.com/document/337445179/Lean-Python-Learn-Just-Enough-Python-to-Build-Useful-Tools-1st-Edition-2016) - Python for beginners
 
- * Book Review – Automate the Boring Stuff with Python by Al Sweigart - [https://www.alexkras.com/review-automate-the-boring-stuff-with-python-by-al-sweigart/](https://www.alexkras.com/review-automate-the-boring-stuff-with-python-by-al-sweigart/) - I am new to Python, and I wanted to read an easy book, that would give me a hight level overview of the language and what I can do with it. Automate the Boring Stuff with Python by Al Sweigart was …
-
  * Code Like a Pythonista: Idiomatic Python - [http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - Code Like a Pythonista: Idiomatic Python Contents The Zen of Python - In this interactive tutorial, we'll cover many essential Python idioms and techniques in depth, adding immediately useful tools to your belt. (Free to save as text or HTML)
 
  * Dive Into Python 3 - [http://www.diveintopython3.net/](http://www.diveintopython3.net/) - A great intermediate resource in HTML and PDF.
-
-
- * Non-Programmer's Tutorial for Python 3 - Wikibooks, open books for an open world - [https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) -
 
  * [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/mobile/MattHarrison4/learn-90)
 
