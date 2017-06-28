@@ -84,3 +84,10 @@ Not sure about these:
 * [How to send an email with Python? - Stack Overflow](https://stackoverflow.com/questions/6270782/how-to-send-an-email-with-python) - Nice answer.
 * [Tutorial: How to send an email with Python - Nael Shiab](http://naelshiab.com/tutorial-send-email-python/) - Python 2 (imports)
 * [Send Emails Using Python – freeCodeCamp](https://medium.freecodecamp.com/send-emails-using-code-4fcea9df63f) - Python 3 - more complex
+
+LEARN PYTHON THE HARD WAY
+  * [Learn Python the Hard Way ex. 43 critique : learnpython](https://www.reddit.com/r/learnpython/comments/2c004t/learn_python_the_hard_way_ex_43_critique/)
+  * [class - Confused about classes in Learn Python the Hard Way ex43? - Stack Overflow](http://stackoverflow.com/questions/18199031/confused-about-classes-in-learn-python-the-hard-way-ex43)
+  * [Learn Python the hard way ex43 - Stack Overflow](http://stackoverflow.com/questions/39021484/learn-python-the-hard-way-ex43)
+  * [python - LPTHW ex43 OOP trying to figure out how to get game to run - Stack Overflow](http://stackoverflow.com/questions/20829173/lpthw-ex43-oop-trying-to-figure-out-how-to-get-game-to-run)
+

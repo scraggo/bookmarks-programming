@@ -22,7 +22,7 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 * [DOCS.PYTHON.ORG](https://docs.python.org/3/): <-- *start here, then:*
   * [The Python Tutorial — Python 3.6.2rc1 documentation](https://docs.python.org/3/tutorial/index.html) - Great reference!
   * [The Python Language Reference — Python 3.6.2rc1 documentation](https://docs.python.org/3/reference/index.html)
-  * The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html] (https://docs.python.org/3/library/index.html)
+  * The Python Standard Library — Python 3.6.0 documentation - [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html)
 
 
 * Python Programming - [https://en.wikibooks.org/wiki/Python_Programming](https://en.wikibooks.org/wiki/Python_Programming) - Python Programming From Wikibooks, open books for an open world.
@@ -33,6 +33,8 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
 ## Online Books - Non-beginner
 * <https://learnxinyminutes.com/docs/python3/>  - For those who are familiar with programming.
+
+* [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/mobile/MattHarrison4/learn-90)
 
 * The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation - [http://docs.quantifiedcode.com/python-anti-patterns/](http://docs.quantifiedcode.com/python-anti-patterns/) - The Little Book of Python Anti-Patterns is a small book of Python anti-patterns and worst practices . Learning about these anti-patterns will help you to avoid them in your own code and make you a better programmer (hopefully). Each pattern comes with a small description, examples and possible solutions. You can check many of them for fre...
 
@@ -51,9 +53,7 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
 * Dive Into Python 3 - [http://www.diveintopython3.net/](http://www.diveintopython3.net/) - A great intermediate resource in HTML and PDF.
 
-* [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/mobile/MattHarrison4/learn-90)
-
-* **Learn Python the Hard Way**
+* **Learn Python the Hard Way** - an infamous book with very mixed reviews.
   * [Learn Python the Hard Way - Read for Free](https://learnpythonthehardway.org/python3/ex40.html)
   * [Learn Python the Hard Way ex. 43 critique : learnpython](https://www.reddit.com/r/learnpython/comments/2c004t/learn_python_the_hard_way_ex_43_critique/)
   * [class - Confused about classes in Learn Python the Hard Way ex43? - Stack Overflow](http://stackoverflow.com/questions/18199031/confused-about-classes-in-learn-python-the-hard-way-ex43)
