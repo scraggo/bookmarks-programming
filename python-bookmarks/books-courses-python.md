@@ -31,6 +31,13 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
 * A Byte of Python - [https://python.swaroopch.com/](https://python.swaroopch.com/) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you. + For Python version 3 This book will teach you to use Python version 3\. There will also be guidance for you to adapt to the older and more common Python version 2 in the book. + Who reads A Byte of Python? Here are what people are say...
 
+* [Python for Everybody - by Charles Severance](https://books.trinket.io/pfe/index.html) - I very much enjoyed this book. See more below about the author.
+
+* Learn Python the Hard Way - an infamous book with very mixed reviews.
+  * [Learn Python the Hard Way - Read for Free](https://learnpythonthehardway.org/python3/ex40.html)
+  * [LPTHW Complaints - sopython](http://sopython.com/wiki/LPTHW_Complaints)
+
+
 ## Online Books - Non-beginner
 * <https://learnxinyminutes.com/docs/python3/>  - For those who are familiar with programming.
 
@@ -53,34 +60,27 @@ This book is designed with beginners (like you) in mind. In other words, you wil
 
 * Dive Into Python 3 - [http://www.diveintopython3.net/](http://www.diveintopython3.net/) - A great intermediate resource in HTML and PDF.
 
-* **Learn Python the Hard Way** - an infamous book with very mixed reviews.
-  * [Learn Python the Hard Way - Read for Free](https://learnpythonthehardway.org/python3/ex40.html)
-  * [Learn Python the Hard Way ex. 43 critique : learnpython](https://www.reddit.com/r/learnpython/comments/2c004t/learn_python_the_hard_way_ex_43_critique/)
-  * [class - Confused about classes in Learn Python the Hard Way ex43? - Stack Overflow](http://stackoverflow.com/questions/18199031/confused-about-classes-in-learn-python-the-hard-way-ex43)
-  * [Learn Python the hard way ex43 - Stack Overflow](http://stackoverflow.com/questions/39021484/learn-python-the-hard-way-ex43)
-  * [python - LPTHW ex43 OOP trying to figure out how to get game to run - Stack Overflow](http://stackoverflow.com/questions/20829173/lpthw-ex43-oop-trying-to-figure-out-how-to-get-game-to-run)
-  * [LPTHW Complaints - sopython](http://sopython.com/wiki/LPTHW_Complaints)
 
- ### Charles / Chuck Severance - Python Author
+### Charles / Chuck Severance - Python Author
 
- * Introducing the Python MOOC from online.dr-chuck.com - [https://www.youtube.com/watch?v=hRNFBhEykcY&list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ](https://www.youtube.com/watch?v=hRNFBhEykcY&list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) -[Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) - 26,453 views views Published on Dec 21, 2012.  
- Description:
- This is a welcome video for my new MOOC system - it is based on open content, open source, and open enrollment. I will be teaching a course called "Python for Informatics: Exploring Information".  
- Free Online Course: [http://online.dr-chuck.com/](http://online.dr-chuck.com/) -  
- All Lectures: [http://www.youtube.com/playlist?list=...](http://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) -  
+* Introducing the Python MOOC from online.dr-chuck.com - [https://www.youtube.com/watch?v=hRNFBhEykcY&list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ](https://www.youtube.com/watch?v=hRNFBhEykcY&list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) -[Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) - 26,453 views views Published on Dec 21, 2012.  
+Description:
+This is a welcome video for my new MOOC system - it is based on open content, open source, and open enrollment. I will be teaching a course called "Python for Informatics: Exploring Information".  
+Free Online Course: [http://online.dr-chuck.com/](http://online.dr-chuck.com/) -  
+All Lectures: [http://www.youtube.com/playlist?list=...](http://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) -  
 
- * Dr. Chuck Online - [https://online.dr-chuck.com/](https://online.dr-chuck.com/) - Dr. Chuck Online Dr.C.O MOOCs, Open Standards, Open Source and OERs Courses About Login PY4E - Python for Everybody
+* Dr. Chuck Online - [https://online.dr-chuck.com/](https://online.dr-chuck.com/) - Dr. Chuck Online Dr.C.O MOOCs, Open Standards, Open Source and OERs Courses About Login PY4E - Python for Everybody
 
- * PY4E - Introduction (Chapter 1 Part 1) - [https://www.youtube.com/watch?v=fvhNadKjE8g&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p](https://www.youtube.com/watch?v=fvhNadKjE8g&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p) -[Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) - 2,402 views views Published on Nov 14, 2016  
- Description  
- [http://www.py4e.com](http://www.py4e.com/) - - Python for Everybody: Exploring Data  
- Please visit the web site to access a free textbook, free supporting materials, as well as interactive exercises.  
+* PY4E - Introduction (Chapter 1 Part 1) - [https://www.youtube.com/watch?v=fvhNadKjE8g&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p](https://www.youtube.com/watch?v=fvhNadKjE8g&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p) -[Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) - 2,402 views views Published on Nov 14, 2016  
+Description  
+[http://www.py4e.com](http://www.py4e.com/) - - Python for Everybody: Exploring Data  
+Please visit the web site to access a free textbook, free supporting materials, as well as interactive exercises.  
 
- * Python for Informatics / Everyone, Exploring Data with Python 3 by Charles Severance</span> - [https://books.trinket.io/pfe/index.html](https://books.trinket.io/pfe/index.html) - Python for Everyone Exploring Data with Python 3 by Charles Severance Python for Everyone is an introduction to the basics of coding in Python 3 with an emphasis on practical usage. It is intended as a foundation for students who are looking to apply Python within other academic subjects as well as in preparation for the serious study of computer science. Chapter 1: Introduction Chapter 2: Variables Chapter 3: Conditionals Chapter 4: Functions Chapter 5: Iterations Chapter 6: Strings Chapter 7:...
+* Python for Informatics / Everyone, Exploring Data with Python 3 by Charles Severance</span> - [https://books.trinket.io/pfe/index.html](https://books.trinket.io/pfe/index.html) - Python for Everyone Exploring Data with Python 3 by Charles Severance Python for Everyone is an introduction to the basics of coding in Python 3 with an emphasis on practical usage. It is intended as a foundation for students who are looking to apply Python within other academic subjects as well as in preparation for the serious study of computer science. Chapter 1: Introduction Chapter 2: Variables Chapter 3: Conditionals Chapter 4: Functions Chapter 5: Iterations Chapter 6: Strings Chapter 7:...
 
- * PythonLearn - Exploring Data - [http://www.py4inf.com/](http://www.py4inf.com/) - The goal of this site is to provide a set of materials in support of my Python for Informatics: Exploring Information book to allow you to learn Python on your own. This page serves as an outline of the materials to support the textbook. You can download the exercises, audio, and video lectures to your local computer so you can play them locally. This can be done with either a Right-Click or a Control-Click in most browsers. Welcome Lecture - ( YouTube , Audio podcast for all lectures ) Get you...
+* PythonLearn - Exploring Data - [http://www.py4inf.com/](http://www.py4inf.com/) - The goal of this site is to provide a set of materials in support of my Python for Informatics: Exploring Information book to allow you to learn Python on your own. This page serves as an outline of the materials to support the textbook. You can download the exercises, audio, and video lectures to your local computer so you can play them locally. This can be done with either a Right-Click or a Control-Click in most browsers. Welcome Lecture - ( YouTube , Audio podcast for all lectures ) Get you...
 
- * [Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation](http://pymbook.readthedocs.io/en/py3/) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python. Covers intermadiate/advanced topics including virtualenv, testing, project structure, and Flask.
+* [Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation](http://pymbook.readthedocs.io/en/py3/) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python. Covers intermadiate/advanced topics including virtualenv, testing, project structure, and Flask.
 
 ## Online Tutorials
 
