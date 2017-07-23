@@ -82,4 +82,6 @@ W3schools, ANGULAR!
 
 * [Get Started with Angular - Course by @johnlindquist @eggheadio](https://egghead.io/courses/get-started-with-angular) | [https://egghead.io/courses/get-started-with-angular](https://egghead.io/courses/get-started-with-angular)
 
-* [AureliaJS - Reddit](https://www.reddit.com/r/aureliajs/?st=J3PVCIR5&sh=eebc42af) | [https://www.reddit.com/r/aureliajs/?st=J3PVCIR5&sh=eebc42af](https://www.reddit.com/r/aureliajs/?st=J3PVCIR5&sh=eebc42af)
+EDX
+* [AngularJS: Framework Fundamentals | edX](https://www.edx.org/course/angularjs-framework-fundamentals-microsoft-dev220x-0)
+* [AngularJS: Advanced Framework Techniques | edX](https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-0)
