@@ -142,28 +142,6 @@ Music and Tech Courses
 * MIT - Music and Technology: Sound Design - [https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-sound-design-spring-2016/](https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-sound-design-spring-2016/) - In this course, we will rebuild the everyday sounds of nature, machines, and animals from scratch and encapsulate them in dynamic sound objects which can be embedded into computer games, animations, movies, virtual environments, sound installations, and theatre productions. You will learn how to analyze and model sounds and resynthesize them with the open-source graphical programming environment Pure Data (Pd). Our work will be guided by Andy Farnell's book Designing Sound (MIT Press, 2010...
 
 
-# Git / Github
-* free-programming-booksgit - the simple guide - no deep shit! - [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/)
-
-* Learn Git in 30 Minutes | Tutorialzine - [http://tutorialzine.com/2016/06/learn-git-in-30-minutes/](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/) - Half-hour tutorial that covers everything a developer needs to know in order to use git. Includes all the basics as well as some helpful advanced techniques.
-
-* [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/) | [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/)
-* [New Coder – five life jackets to throw to the new coder](http://newcoder.io/) | [http://newcoder.io/](http://newcoder.io/)
-* [Save your progress - soft intro to git – New Coder](http://newcoder.io/begin/save-your-progress/) | [http://newcoder.io/begin/save-your-progress/](http://newcoder.io/begin/save-your-progress/)
-* [trying to add commit message...getting ^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y) at bottom of screen...help! | Treehouse Community](https://teamtreehouse.com/community/trying-to-add-commit-messagegetting-x-mode-defiklnopsuvy-at-bottom-of-screenhelp) | [https://teamtreehouse.com/community/trying-to-add-commit-messagegetting-x-mode-defiklnopsuvy-at-bottom-of-screenhelp](https://teamtreehouse.com/community/trying-to-add-commit-messagegetting-x-mode-defiklnopsuvy-at-bottom-of-screenhelp)
-* [my git commands break down to only a few essential ones](https://www.reddit.com/r/webdev/comments/6cidrd/my_git_commands_break_down_to_only_a_few/) | [https://www.reddit.com/r/webdev/comments/6cidrd/my_git_commands_break_down_to_only_a_few/](https://www.reddit.com/r/webdev/comments/6cidrd/my_git_commands_break_down_to_only_a_few/)
-
-* [Bookmarking for github: Save and organize your favorite repositories with custom tags](https://www.reddit.com/r/webdev/comments/6ccgth/bookmarking_for_github_save_and_organize_your/) | [https://www.reddit.com/r/webdev/comments/6ccgth/bookmarking_for_github_save_and_organize_your/](https://www.reddit.com/r/webdev/comments/6ccgth/bookmarking_for_github_save_and_organize_your/)
-
-* [Git for Dummies?](https://www.reddit.com/r/learnprogramming/comments/6dkl97/git_for_dummies/) | [https://www.reddit.com/r/learnprogramming/comments/6dkl97/git_for_dummies/](https://www.reddit.com/r/learnprogramming/comments/6dkl97/git_for_dummies/)
-
-* [Getting Started with Git – Tania Rascia](https://www.taniarascia.com/getting-started-with-git/)
-
-* [[Github] Beginners Guide to Github (xpost from /r/programming) - learnprogramming](https://www.reddit.com/r/learnprogramming/comments/40nedm/github_beginners_guide_to_github_xpost_from/)
-
-* [GitHub: The beginner's guide](https://www.pluralsight.com/blog/software-development/github-tutorial)
-
-
 # Coding Software
 TextWrangler Text Editor
 * [Using Text Wrangler - Advanced part 1 - YouTube](https://www.youtube.com/watch?v=1kSsqic-aKo&app=desktop)
