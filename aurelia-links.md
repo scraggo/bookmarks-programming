@@ -21,3 +21,5 @@ Tutorials etc.
 * [Hello World Tutorial With Aurelia.js 2016](http://www.programwitherik.com/hello-world-tutorial-aurelia-2016/)
 
 * [AureliaJS - Reddit](https://www.reddit.com/r/aureliajs/?st=J3PVCIR5&sh=eebc42af) | [https://www.reddit.com/r/aureliajs/?st=J3PVCIR5&sh=eebc42af](https://www.reddit.com/r/aureliajs/?st=J3PVCIR5&sh=eebc42af)
+
+* [Build a Mini Instagram App with Aurelia ― Scotch](https://scotch.io/tutorials/build-a-mini-instagram-app-with-aurelia)
