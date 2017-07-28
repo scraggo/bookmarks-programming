@@ -9,8 +9,8 @@
 
 !
 * [4. Built-in Types — Python 3.4.5 documentation](https://docs.python.org/3.4/library/stdtypes.html#str.format)
-* [python - How does subprocess.Popen differ between Windows and Mac OS? - Stack Overflow](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://stackoverflow.com/questions/13753001/how-does-subprocess-popen-differ-between-windows-and-mac-os/13753041#13753041)
-* [Comprehensions - Dive Into Python 3](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://www.diveintopython3.net/comprehensions.html)
+* [python - How does subprocess.Popen differ between Windows and Mac OS? - Stack Overflow](http://stackoverflow.com/questions/13753001/how-does-subprocess-popen-differ-between-windows-and-mac-os/13753041#13753041)
+* [Comprehensions - Dive Into Python 3](http://www.diveintopython3.net/comprehensions.html)
 
 !
 * [PyBites: How to Parse Common Data Formats in Python](http://pybit.es/parsing-data.html) | [http://pybit.es/parsing-data.html](http://pybit.es/parsing-data.html)
