@@ -43,9 +43,6 @@ Not sure about these:
 * Structuring Your Project — The Hitchhiker's Guide to Python - [http://docs.python-guide.org/en/latest/writing/structure/](http://docs.python-guide.org/en/latest/writing/structure/) - Structuring Your Project ¶ By “structure” we mean the decisions you make concerning how your project best meets its objective. We need to consider how to best leverage Python’s features to create clean, effective code. In practical terms, “structure” means making clean code whose logic and dependencies are clear as well as how the files and folders are organized in the filesystem. Which functions should go into which modules? How does data flow through the project? What features and functions c...
 * How and when should you organize a project into multiple .py files? • r/learnpython - [https://www.reddit.com/r/learnpython/comments/5vrnta/how_and_when_should_you_organize_a_project_into/](https://www.reddit.com/r/learnpython/comments/5vrnta/how_and_when_should_you_organize_a_project_into/) - I am still a beginner. My first project has been a discord "stat" bot that uses pandas. I am just wondering, as my code gets longer and longer,...
 
-### Web scraping
-* Python Web Scraping Tutorial using BeautifulSoup - [https://www.dataquest.io/blog/web-scraping-tutorial-python/](https://www.dataquest.io/blog/web-scraping-tutorial-python/) - Web scraping allows us to extract information from web pages. In this tutorial, you’ll learn how to perform web scraping with Python.
-
 ## Modules
 
 * Python Module of the Week - Python Module of the Week - [https://pymotw.com/2/contents.html](https://pymotw.com/2/contents.html) - **Highly** recommended by many authors.
