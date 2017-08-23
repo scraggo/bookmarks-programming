@@ -2,22 +2,41 @@
 
 # UNORGANIZED
 
+Data Science with Python
+* [Python for Data Analysis - for Beginners](https://www.reddit.com/r/learnpython/comments/6em2o5/python_for_data_analysis_for_beginners/) | [https://www.reddit.com/r/learnpython/comments/6em2o5/python_for_data_analysis_for_beginners/](https://www.reddit.com/r/learnpython/comments/6em2o5/python_for_data_analysis_for_beginners/)
+* [List of free books on Data Science](https://www.reddit.com/r/learnpython/comments/6f9xmx/list_of_free_books_on_data_science/) | [https://www.reddit.com/r/learnpython/comments/6f9xmx/list_of_free_books_on_data_science/](https://www.reddit.com/r/learnpython/comments/6f9xmx/list_of_free_books_on_data_science/)
+* [[HELP] What every aspiring data analysts should be learning first, based from your experience? - datascience](https://www.reddit.com/r/datascience/comments/6g1ydv/help_what_every_aspiring_data_analysts_should_be/) | [https://www.reddit.com/r/datascience/comments/6g1ydv/help_what_every_aspiring_data_analysts_should_be/](https://www.reddit.com/r/datascience/comments/6g1ydv/help_what_every_aspiring_data_analysts_should_be/)
+* [Comprehensive Guide to Learning Python for Data Analysis and Data Science](http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html) | [http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html](http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html)
+* [NumFOCUS: Anyone Can Do Astronomy with Python and Open Data](https://www.numfocus.org/blog/anyone-can-do-astronomy-with-python-and-open-data/) - "Python is a great language for science, and specifically for astronomy. The various packages such as NumPy, SciPy, Scikit-Image and AstroPy (to name but a few) are all a great testament to the suitability of Python for astronomy..."
+
+Answers my question about where Python is installed:
+* [***PythonPath for Modules & Packages – Import Error: No module named “…” | KnowPapa](http://knowpapa.com/import/) | [http://knowpapa.com/import/](http://knowpapa.com/import/)
+
+!
+* [Python 3 Tutorial | SoloLearn: Learn to code for FREE!](https://www.sololearn.com/Course/Python/) | [https://www.sololearn.com/Course/Python/](https://www.sololearn.com/Course/Python/)
+
+! Python / Useful
+* [Configuration files in Python · Martin Thoma](https://martin-thoma.com/configuration-files-in-python/) | [https://martin-thoma.com/configuration-files-in-python/](https://martin-thoma.com/configuration-files-in-python/)
+
+! python issue - anaconda
+* [conda-installed scipy isn't found -- unless I start from an Anaconda prompt](https://www.reddit.com/r/learnpython/comments/6injkv/condainstalled_scipy_isnt_found_unless_i_start/) | [https://www.reddit.com/r/learnpython/comments/6injkv/condainstalled_scipy_isnt_found_unless_i_start/](https://www.reddit.com/r/learnpython/comments/6injkv/condainstalled_scipy_isnt_found_unless_i_start/)
+
 !
 * [Common Gotchas — The Hitchhiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/writing/gotchas/)
 * [Can Anyone Recommend Any Good Books About Software Design Principles/Methodologies And best Practise, Ideally using Python?](https://www.reddit.com/r/Python/comments/6ar6vy/can_anyone_recommend_any_good_books_about/) | [https://www.reddit.com/r/Python/comments/6ar6vy/can_anyone_recommend_any_good_books_about/](https://www.reddit.com/r/Python/comments/6ar6vy/can_anyone_recommend_any_good_books_about/)
 * ["So You Want to be a Functional Programmer" examples, transcribed to Python](https://www.reddit.com/r/Python/comments/63spib/so_you_want_to_be_a_functional_programmer/)
 
-!
+String formatting
 * [4. Built-in Types — Python 3.4.5 documentation](https://docs.python.org/3.4/library/stdtypes.html#str.format)
+
 * [python - How does subprocess.Popen differ between Windows and Mac OS? - Stack Overflow](http://stackoverflow.com/questions/13753001/how-does-subprocess-popen-differ-between-windows-and-mac-os/13753041#13753041)
+
+!
 * [Comprehensions - Dive Into Python 3](http://www.diveintopython3.net/comprehensions.html)
 
-!
+Parsing Data
 * [PyBites: How to Parse Common Data Formats in Python](http://pybit.es/parsing-data.html) | [http://pybit.es/parsing-data.html](http://pybit.es/parsing-data.html)
 * [Access json nested data with python function?](https://www.reddit.com/r/Python/comments/6k3drh/access_json_nested_data_with_python_function/) | [https://www.reddit.com/r/Python/comments/6k3drh/access_json_nested_data_with_python_function/](https://www.reddit.com/r/Python/comments/6k3drh/access_json_nested_data_with_python_function/)
-
-! data
-* [Comprehensive Guide to Learning Python for Data Analysis and Data Science](http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html) | [http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html](http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html)
 
 ! SENTDEX
 * [Python Programming Tutorials - sentdex](https://pythonprogramming.net/list-comprehension-generators-intermediate-python-tutorial/) - url: [https://pythonprogramming.net/list-comprehension-generators-intermediate-python-tutorial/](https://pythonprogramming.net/list-comprehension-generators-intermediate-python-tutorial/)
@@ -45,8 +64,6 @@ Beginner
 * [Python as a tool for teaching, learning, exploring, and thinking](https://www.reddit.com/r/Python/comments/67rhth/python_as_a_tool_for_teaching_learning_exploring/)
 * Best way to go about learning as much as I can about Python in 2 weeks? • r/learnpython - [https://www.reddit.com/r/learnpython/comments/60ejto/best_way_to_go_about_learning_as_much_as_i_can/](https://www.reddit.com/r/learnpython/comments/60ejto/best_way_to_go_about_learning_as_much_as_i_can/)
 
-Data Science
-* [NumFOCUS: Anyone Can Do Astronomy with Python and Open Data](https://www.numfocus.org/blog/anyone-can-do-astronomy-with-python-and-open-data/) - "Python is a great language for science, and specifically for astronomy. The various packages such as NumPy, SciPy, Scikit-Image and AstroPy (to name but a few) are all a great testament to the suitability of Python for astronomy..."
 
 interesting
 * Python - Runestone Interactive Overview - [http://interactivepython.org/runestone/static/overview/overview.html](http://interactivepython.org/runestone/static/overview/overview.html) - Run python in your tutorials
