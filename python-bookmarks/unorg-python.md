@@ -2,10 +2,28 @@
 
 # UNORGANIZED
 
+
+!py
+* [Python Cloud IDE | Python Fiddle](http://pythonfiddle.com/) | [http://pythonfiddle.com/](http://pythonfiddle.com/)
+* [Currently learning python - are there any video courses that focus on naming conventions, clean code and generally good coding behaviour?](https://www.reddit.com/r/learnpython/comments/6ul223/currently_learning_python_are_there_any_video/) | [https://www.reddit.com/r/learnpython/comments/6ul223/currently_learning_python_are_there_any_video/](https://www.reddit.com/r/learnpython/comments/6ul223/currently_learning_python_are_there_any_video/)
+* [Python Book Recommendations](https://www.reddit.com/r/Python/comments/6ttyki/python_book_recommendations/) | [https://www.reddit.com/r/Python/comments/6ttyki/python_book_recommendations/](https://www.reddit.com/r/Python/comments/6ttyki/python_book_recommendations/)
+* [So I can script well...now what?](https://www.reddit.com/r/learnpython/comments/6tpm3z/so_i_can_script_wellnow_what/) | [https://www.reddit.com/r/learnpython/comments/6tpm3z/so_i_can_script_wellnow_what/](https://www.reddit.com/r/learnpython/comments/6tpm3z/so_i_can_script_wellnow_what/)
+
+!
+* [Welcome to Python 101! — Python 101 1.0 documentation](http://python101.pythonlibrary.org/index.html) | [http://python101.pythonlibrary.org/index.html](http://python101.pythonlibrary.org/index.html)
+
+!py
+* [PSA: If you have a library card, you probably have access to Lynda.com, which has tons of Python courses](https://www.reddit.com/r/learnpython/comments/6rrsdu/psa_if_you_have_a_library_card_you_probably_have/) | [https://www.reddit.com/r/learnpython/comments/6rrsdu/psa_if_you_have_a_library_card_you_probably_have/](https://www.reddit.com/r/learnpython/comments/6rrsdu/psa_if_you_have_a_library_card_you_probably_have/)
+
 !
 * [Python 3 Tutorial | SoloLearn: Learn to code for FREE!](https://www.sololearn.com/Course/Python/) | [https://www.sololearn.com/Course/Python/](https://www.sololearn.com/Course/Python/)
 * [ehmatthes/pcc: Resources for Python Crash Course, from No Starch Press.](https://github.com/ehmatthes/pcc) | [https://github.com/ehmatthes/pcc](https://github.com/ehmatthes/pcc)
 * [Comprehensions - Dive Into Python 3](http://www.diveintopython3.net/comprehensions.html)
+
+! py
+* [Which module is a good example of how python should be structured and documented?](https://www.reddit.com/r/learnpython/comments/6qltl7/which_module_is_a_good_example_of_how_python/) | [https://www.reddit.com/r/learnpython/comments/6qltl7/which_module_is_a_good_example_of_how_python/](https://www.reddit.com/r/learnpython/comments/6qltl7/which_module_is_a_good_example_of_how_python/)
+* [Looking to find a career in Python](https://www.reddit.com/r/learnpython/comments/6qr0wf/looking_to_find_a_career_in_python/) | [https://www.reddit.com/r/learnpython/comments/6qr0wf/looking_to_find_a_career_in_python/](https://www.reddit.com/r/learnpython/comments/6qr0wf/looking_to_find_a_career_in_python/)
+* [PyBites Code Challenge 30 - The Art of Refactoring: Improve Your Code](https://www.reddit.com/r/learnpython/comments/6qv0t3/pybites_code_challenge_30_the_art_of_refactoring/) | [https://www.reddit.com/r/learnpython/comments/6qv0t3/pybites_code_challenge_30_the_art_of_refactoring/](https://www.reddit.com/r/learnpython/comments/6qv0t3/pybites_code_challenge_30_the_art_of_refactoring/)
 
 !
 * [Common Gotchas — The Hitchhiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/writing/gotchas/)
@@ -26,6 +44,7 @@
 * [Python 3 Programming Tutorial: Math - YouTube](https://www.youtube.com/watch?v=BvgPM9-krOY&index=4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) - url: [https://www.youtube.com/watch?v=BvgPM9-krOY&index=4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M](https://www.youtube.com/watch?v=BvgPM9-krOY&index=4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 ! testing
+* [Played with Pytest for the first time today... Uhh fuck unittest](https://www.reddit.com/r/Python/comments/6s4a4p/played_with_pytest_for_the_first_time_today_uhh/) | [https://www.reddit.com/r/Python/comments/6s4a4p/played_with_pytest_for_the_first_time_today_uhh/](https://www.reddit.com/r/Python/comments/6s4a4p/played_with_pytest_for_the_first_time_today_uhh/)
 * [26.3. doctest — Test interactive Python examples — Python 3.6.1 documentation](https://docs.python.org/3/library/doctest.html)
 * [26.4. unittest — Unit testing framework — Python 3.6.1 documentation](https://docs.python.org/3/library/unittest.html)
 * [26.5. unittest.mock — mock object library — Python 3.6.1 documentation](https://docs.python.org/3/library/unittest.mock.html)
@@ -36,7 +55,15 @@ Beginner
 * [Python as a tool for teaching, learning, exploring, and thinking](https://www.reddit.com/r/Python/comments/67rhth/python_as_a_tool_for_teaching_learning_exploring/)
 * Best way to go about learning as much as I can about Python in 2 weeks? • r/learnpython - [https://www.reddit.com/r/learnpython/comments/60ejto/best_way_to_go_about_learning_as_much_as_i_can/](https://www.reddit.com/r/learnpython/comments/60ejto/best_way_to_go_about_learning_as_much_as_i_can/)
 
+Command Line
+* [[Python] How do I 'clear' text printed to the console?](https://www.reddit.com/r/learnprogramming/comments/6pp70k/python_how_do_i_clear_text_printed_to_the_console/) | [https://www.reddit.com/r/learnprogramming/comments/6pp70k/python_how_do_i_clear_text_printed_to_the_console/](https://www.reddit.com/r/learnprogramming/comments/6pp70k/python_how_do_i_clear_text_printed_to_the_console/)
+
+
 Data Science with Python
+!!! Python, data structures, github:
+* [A comprehensive program collection for studying Data Structures using Python](https://www.reddit.com/r/Python/comments/6nqkgc/a_comprehensive_program_collection_for_studying/) | [https://www.reddit.com/r/Python/comments/6nqkgc/a_comprehensive_program_collection_for_studying/](https://www.reddit.com/r/Python/comments/6nqkgc/a_comprehensive_program_collection_for_studying/)
+* [Data School: How to launch your data science career (with Python)](http://www.dataschool.io/launch-your-data-science-career-with-python/) | [http://www.dataschool.io/launch-your-data-science-career-with-python/](http://www.dataschool.io/launch-your-data-science-career-with-python/)
+* [Structure and Interpretation of Computer Programs or the Python alternative?](https://www.reddit.com/r/learnprogramming/comments/6kl703/structure_and_interpretation_of_computer_programs/) | [https://www.reddit.com/r/learnprogramming/comments/6kl703/structure_and_interpretation_of_computer_programs/](https://www.reddit.com/r/learnprogramming/comments/6kl703/structure_and_interpretation_of_computer_programs/)
 * [Python for Data Analysis - for Beginners](https://www.reddit.com/r/learnpython/comments/6em2o5/python_for_data_analysis_for_beginners/) | [https://www.reddit.com/r/learnpython/comments/6em2o5/python_for_data_analysis_for_beginners/](https://www.reddit.com/r/learnpython/comments/6em2o5/python_for_data_analysis_for_beginners/)
 * [List of free books on Data Science](https://www.reddit.com/r/learnpython/comments/6f9xmx/list_of_free_books_on_data_science/) | [https://www.reddit.com/r/learnpython/comments/6f9xmx/list_of_free_books_on_data_science/](https://www.reddit.com/r/learnpython/comments/6f9xmx/list_of_free_books_on_data_science/)
 * [[HELP] What every aspiring data analysts should be learning first, based from your experience? - datascience](https://www.reddit.com/r/datascience/comments/6g1ydv/help_what_every_aspiring_data_analysts_should_be/) | [https://www.reddit.com/r/datascience/comments/6g1ydv/help_what_every_aspiring_data_analysts_should_be/](https://www.reddit.com/r/datascience/comments/6g1ydv/help_what_every_aspiring_data_analysts_should_be/)
@@ -45,11 +72,13 @@ Data Science with Python
 Data: MIT / data
 * [Introduction to Computational Thinking and Data Science by John Guttag](https://itun.es/us/x4XNjb.k) | [https://itun.es/us/x4XNjb.k](https://itun.es/us/x4XNjb.k) - itunes link
 
-interesting
+Interesting
+* [A (really) small TODO manager, and some questions about making command line tools.](https://www.reddit.com/r/learnpython/comments/6p3gcg/a_really_small_todo_manager_and_some_questions/) | [https://www.reddit.com/r/learnpython/comments/6p3gcg/a_really_small_todo_manager_and_some_questions/](https://www.reddit.com/r/learnpython/comments/6p3gcg/a_really_small_todo_manager_and_some_questions/)
+* [Filemaid: Rule-based file- and folder-organization tool inspired by Belvedere and similar programs such as Hazel and DropIt](https://www.reddit.com/r/Python/comments/6lgjxg/filemaid_rulebased_file_and_folderorganization/) | [https://www.reddit.com/r/Python/comments/6lgjxg/filemaid_rulebased_file_and_folderorganization/](https://www.reddit.com/r/Python/comments/6lgjxg/filemaid_rulebased_file_and_folderorganization/)
+* [Personal Assistant Project](https://www.reddit.com/r/Python/comments/6njp78/personal_assistant_project/) | [https://www.reddit.com/r/Python/comments/6njp78/personal_assistant_project/](https://www.reddit.com/r/Python/comments/6njp78/personal_assistant_project/)
+* [Chris Warrick: Setting up a Python development environment](https://chriswarrick.com/blog/2017/07/03/setting-up-a-python-development-environment/) | [https://chriswarrick.com/blog/2017/07/03/setting-up-a-python-development-environment/](https://chriswarrick.com/blog/2017/07/03/setting-up-a-python-development-environment/)
 * Python - Runestone Interactive Overview - [http://interactivepython.org/runestone/static/overview/overview.html](http://interactivepython.org/runestone/static/overview/overview.html) - Run python in your tutorials
 
-Interesting
-* [Filemaid: Rule-based file- and folder-organization tool inspired by Belvedere and similar programs such as Hazel and DropIt](https://www.reddit.com/r/Python/comments/6lgjxg/filemaid_rulebased_file_and_folderorganization/) | [https://www.reddit.com/r/Python/comments/6lgjxg/filemaid_rulebased_file_and_folderorganization/](https://www.reddit.com/r/Python/comments/6lgjxg/filemaid_rulebased_file_and_folderorganization/)
 
 Intermediate
 * [The Python yield keyword explained | Python Tips](https://pythontips.com/2013/09/29/the-python-yield-keyword-explained/)
@@ -59,7 +88,14 @@ Music
 * [Critique my music theory helper (python 3, in 250 lines, without dependencies)](https://www.reddit.com/r/learnpython/comments/67wrr2/critique_my_music_theory_helper_python_3_in_250/)
 * [How to analyze scale notes from an audio file?](https://www.reddit.com/r/learnpython/comments/6bhyck/how_to_analyze_scale_notes_from_an_audio_file/) | [https://www.reddit.com/r/learnpython/comments/6bhyck/how_to_analyze_scale_notes_from_an_audio_file/](https://www.reddit.com/r/learnpython/comments/6bhyck/how_to_analyze_scale_notes_from_an_audio_file/)
 
-OOP
+OOP - Object Oriented Programming
+* [I finally understand classes thanks to this presentation.](https://www.reddit.com/r/learnpython/comments/6tkolm/i_finally_understand_classes_thanks_to_this/) | [https://www.reddit.com/r/learnpython/comments/6tkolm/i_finally_understand_classes_thanks_to_this/](https://www.reddit.com/r/learnpython/comments/6tkolm/i_finally_understand_classes_thanks_to_this/)
+* [Metaclasses, Decorators, Generators and Context Managers Explained w/ Example Code](https://www.reddit.com/r/Python/comments/6tii86/metaclasses_decorators_generators_and_context/) | [https://www.reddit.com/r/Python/comments/6tii86/metaclasses_decorators_generators_and_context/](https://www.reddit.com/r/Python/comments/6tii86/metaclasses_decorators_generators_and_context/)
+* [How to write actually object-oriented python - Per Fagrell](https://www.youtube.com/watch?v=VUvEDg30FyY) | [https://www.youtube.com/watch?v=VUvEDg30FyY](https://www.youtube.com/watch?v=VUvEDg30FyY)
+* [Designing a Python Class](https://www.youtube.com/watch?v=RZntqQgi0gM) | [https://www.youtube.com/watch?v=RZntqQgi0gM](https://www.youtube.com/watch?v=RZntqQgi0gM)
+* [Python OOP - Deck of Cards](https://www.youtube.com/watch?v=t8YkjDH86Y4) | [https://www.youtube.com/watch?v=t8YkjDH86Y4](https://www.youtube.com/watch?v=t8YkjDH86Y4)
+* [If I declare a new variable inside of a function, how can I let other functions use this variable?](https://www.reddit.com/r/learnpython/comments/6rnuw2/if_i_declare_a_new_variable_inside_of_a_function/) | [https://www.reddit.com/r/learnpython/comments/6rnuw2/if_i_declare_a_new_variable_inside_of_a_function/](https://www.reddit.com/r/learnpython/comments/6rnuw2/if_i_declare_a_new_variable_inside_of_a_function/)
+* [Program to demonstrate the basic use of Class, Object and Module](https://www.reddit.com/r/Python/comments/6ksr8a/program_to_demonstrate_the_basic_use_of_class/) | [https://www.reddit.com/r/Python/comments/6ksr8a/program_to_demonstrate_the_basic_use_of_class/](https://www.reddit.com/r/Python/comments/6ksr8a/program_to_demonstrate_the_basic_use_of_class/)
 * [Beyond confused with object oriented programming and classes, can someone explain or recommended a better source?](https://www.reddit.com/r/learnpython/comments/6nxfbh/beyond_confused_with_object_oriented_programming/) | [https://www.reddit.com/r/learnpython/comments/6nxfbh/beyond_confused_with_object_oriented_programming/](https://www.reddit.com/r/learnpython/comments/6nxfbh/beyond_confused_with_object_oriented_programming/)
 * [PyBites – Code Challenge 20 - Object Oriented Programming Fun](http://pybit.es/codechallenge20.html) | [http://pybit.es/codechallenge20.html](http://pybit.es/codechallenge20.html)
 * [PyBites – Everything is an Object, Python OOP primer](http://pybit.es/oop-primer.html) | [http://pybit.es/oop-primer.html](http://pybit.es/oop-primer.html)
