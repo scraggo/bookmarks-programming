@@ -20,7 +20,7 @@ TOC:
 
 career
 * [P1xt/p1xt-guides: Programming curricula](https://github.com/P1xt/p1xt-guides)
-* [What do you guys think of the P1xt \"Job Ready\" Guide on Github for web developers?](https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/) | [https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/](https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/)
+    * [What do you guys think of the P1xt \"Job Ready\" Guide on Github for web developers?](https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/) | [https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/](https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/)
 * [Step-by-step guide from beginner to worthy of a job](https://www.reddit.com/r/learnprogramming/comments/6tvjsw/stepbystep_guide_from_beginner_to_worthy_of_a_job/) | [https://www.reddit.com/r/learnprogramming/comments/6tvjsw/stepbystep_guide_from_beginner_to_worthy_of_a_job/](https://www.reddit.com/r/learnprogramming/comments/6tvjsw/stepbystep_guide_from_beginner_to_worthy_of_a_job/)
 
 career
