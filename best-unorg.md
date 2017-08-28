@@ -26,13 +26,9 @@ career
 career
 * [Best Coding Bootcamps in Chicago?](https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/) | [https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/](https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/)
 * [The 6 Most In-Demand Programming Jobs in the Chicago Area](http://culturefit.com/6-demand-programming-jobs-chicago-area/) | [http://culturefit.com/6-demand-programming-jobs-chicago-area/](http://culturefit.com/6-demand-programming-jobs-chicago-area/)
-* [Best sites to find a job in web development? Where did you find your job?](https://www.reddit.com/r/webdev/comments/6pr4rw/best_sites_to_find_a_job_in_web_development_where/) | [https://www.reddit.com/r/webdev/comments/6pr4rw/best_sites_to_find_a_job_in_web_development_where/](https://www.reddit.com/r/webdev/comments/6pr4rw/best_sites_to_find_a_job_in_web_development_where/)
 
 career - job guides
 * [Almost done on FreeCodeCamp's Front End Development and need advice on what road to take next on developer roadmap](https://www.reddit.com/r/learnprogramming/comments/6pha8m/almost_done_on_freecodecamps_front_end/) | [https://www.reddit.com/r/learnprogramming/comments/6pha8m/almost_done_on_freecodecamps_front_end/](https://www.reddit.com/r/learnprogramming/comments/6pha8m/almost_done_on_freecodecamps_front_end/)
-
-checkout
-* [Midnight Commander - Great tool for command line](https://www.reddit.com/r/webdev/comments/6unokw/midnight_commander_great_tool_for_command_line/) | [https://www.reddit.com/r/webdev/comments/6unokw/midnight_commander_great_tool_for_command_line/](https://www.reddit.com/r/webdev/comments/6unokw/midnight_commander_great_tool_for_command_line/)
 
 chicago
 * [I wrote about some examples of using map, filter, and reduce, as well as accessing JSON and using the DOM with vanilla JS](https://www.reddit.com/r/javascript/comments/6sytdf/i_wrote_about_some_examples_of_using_map_filter/) | [https://www.reddit.com/r/javascript/comments/6sytdf/i_wrote_about_some_examples_of_using_map_filter/](https://www.reddit.com/r/javascript/comments/6sytdf/i_wrote_about_some_examples_of_using_map_filter/)
@@ -59,7 +55,6 @@ cs
 * [Huge list of Computer Science courses with video tutorials, compiled from all over the internet.](https://www.reddit.com/r/learnprogramming/comments/6w5vgy/huge_list_of_computer_science_courses_with_video/) | [https://www.reddit.com/r/learnprogramming/comments/6w5vgy/huge_list_of_computer_science_courses_with_video/](https://www.reddit.com/r/learnprogramming/comments/6w5vgy/huge_list_of_computer_science_courses_with_video/)
 * [Question - Quora](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn) | [https://www.quora.com/What-are-10-things-a-new-programmer-should-learn](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn)
 * [Passive Audio - podcasts etc](https://www.reddit.com/r/learnprogramming/comments/6g4isj/passive_audio/) | [https://www.reddit.com/r/learnprogramming/comments/6g4isj/passive_audio/](https://www.reddit.com/r/learnprogramming/comments/6g4isj/passive_audio/)
-* [General regex question](https://www.reddit.com/r/learnprogramming/comments/6frogx/general_regex_question/) | [https://www.reddit.com/r/learnprogramming/comments/6frogx/general_regex_question/](https://www.reddit.com/r/learnprogramming/comments/6frogx/general_regex_question/)
 * [Want to teach programming](https://www.reddit.com/r/learnprogramming/comments/6ft90b/want_to_teach_programming/) | [https://www.reddit.com/r/learnprogramming/comments/6ft90b/want_to_teach_programming/](https://www.reddit.com/r/learnprogramming/comments/6ft90b/want_to_teach_programming/)
 * [Full-time web developer with no degree interested in getting a CS degree on the side!](https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/) | [https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/](https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/)
 * [Similar books/resources to \"The Self Taught Programmer?\"](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/) | [https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/)
@@ -75,13 +70,13 @@ cs General approach to programming - looks cool!
 * [Learn to Program, by Chris Pine](https://pine.fm/LearnToProgram) | [https://pine.fm/LearnToProgram](https://pine.fm/LearnToProgram)
 * [Classes - Learn to Program](https://pine.fm/LearnToProgram/chap_09.html) | [https://pine.fm/LearnToProgram/chap_09.html](https://pine.fm/LearnToProgram/chap_09.html)
 
-cs omscs
+cs - Online Master's in CS / Georgio Tech
 * [Program Information | OMSCS | Georgia Institute of Technology | Atlanta, GA](https://www.omscs.gatech.edu/program-information) | [https://www.omscs.gatech.edu/program-information](https://www.omscs.gatech.edu/program-information)
 
-cs OSU
+cs - Online Bachelor's in CS / OSU
 * [Tuition & Fees -- Computer Science -- Undergraduate Degrees Online | Oregon State Ecampus | OSU Degrees Online](http://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science/tuition.htm) | [http://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science/tuition.htm](http://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science/tuition.htm)
 
-cs should I do this?
+cs - IEEE Computer Society Certification and Credential Program
 * [IEEECS Certification Credentials • IEEE Computer Society](https://www.computer.org/web/education/certifications) | [https://www.computer.org/web/education/certifications](https://www.computer.org/web/education/certifications)
 
 fcc join
@@ -100,6 +95,7 @@ Good idea.
 * [Code for Good](https://www.reddit.com/r/Python/comments/6hvws0/code_for_good/) | [https://www.reddit.com/r/Python/comments/6hvws0/code_for_good/](https://www.reddit.com/r/Python/comments/6hvws0/code_for_good/)
 
 jobs
+* [Best sites to find a job in web development? Where did you find your job?](https://www.reddit.com/r/webdev/comments/6pr4rw/best_sites_to_find_a_job_in_web_development_where/) | [https://www.reddit.com/r/webdev/comments/6pr4rw/best_sites_to_find_a_job_in_web_development_where/](https://www.reddit.com/r/webdev/comments/6pr4rw/best_sites_to_find_a_job_in_web_development_where/)
 * [Cut price work by redditors, for redditors. Slave labour ](https://www.reddit.com/r/slavelabour/new/) | [https://www.reddit.com/r/slavelabour/new/](https://www.reddit.com/r/slavelabour/new/) - subscribed
 
 js
@@ -179,8 +175,6 @@ misc VSC
 
 music
 * [What are some programming projects that involve working with music?](https://www.reddit.com/r/learnprogramming/comments/6uks3p/what_are_some_programming_projects_that_involve/) | [https://www.reddit.com/r/learnprogramming/comments/6uks3p/what_are_some_programming_projects_that_involve/](https://www.reddit.com/r/learnprogramming/comments/6uks3p/what_are_some_programming_projects_that_involve/)
-
-music
 * [Synthesizers](https://www.reddit.com/r/learnprogramming/comments/6vozky/synthesizers/) | [https://www.reddit.com/r/learnprogramming/comments/6vozky/synthesizers/](https://www.reddit.com/r/learnprogramming/comments/6vozky/synthesizers/)
 
 project api
@@ -231,7 +225,7 @@ regex
 smalltalk
 * [Answer - Quora](https://www.quora.com/Why-should-I-learn-to-program-and-which-language-should-I-learn/answer/Richard-Kenneth-Eng) | [https://www.quora.com/Why-should-I-learn-to-program-and-which-language-should-I-learn/answer/Richard-Kenneth-Eng](https://www.quora.com/Why-should-I-learn-to-program-and-which-language-should-I-learn/answer/Richard-Kenneth-Eng)
 
-study
+terminal study
 * [Terminal/command prompt language](https://www.reddit.com/r/learnpython/comments/6u5ys2/terminalcommand_prompt_language/) | [https://www.reddit.com/r/learnpython/comments/6u5ys2/terminalcommand_prompt_language/](https://www.reddit.com/r/learnpython/comments/6u5ys2/terminalcommand_prompt_language/)
 
 web
@@ -282,9 +276,6 @@ web
 web - Look into this more...
 * [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/) | [https://pages.github.com/](https://pages.github.com/)
 
-web backend
-* [Elixir and Phoenix: The Future of Web APIs and Apps?](https://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/) | [https://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/](https://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/)
-
 web design
 * [Good website for learning Design Patterns](https://www.reddit.com/r/webdev/comments/6u0d5c/good_website_for_learning_design_patterns/) | [https://www.reddit.com/r/webdev/comments/6u0d5c/good_website_for_learning_design_patterns/](https://www.reddit.com/r/webdev/comments/6u0d5c/good_website_for_learning_design_patterns/)
 
@@ -294,27 +285,10 @@ web emmet
 web emmet vsc
 * [How do I get rid of the stock prediction in visual studio code? the first choice does nothing but the second one is html snippets which is the extension that I want.](https://www.reddit.com/r/webdev/comments/6rd48q/how_do_i_get_rid_of_the_stock_prediction_in/) | [https://www.reddit.com/r/webdev/comments/6rd48q/how_do_i_get_rid_of_the_stock_prediction_in/](https://www.reddit.com/r/webdev/comments/6rd48q/how_do_i_get_rid_of_the_stock_prediction_in/)
 
-web firebase
-* [firebase - Google Search](https://www.google.com/search?q=firebase&rlz=1CDGOYI_enUS647US647&oq=firebase&aqs=chrome..69i57j0j5j0.5688j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8) | [https://www.google.com/search?q=firebase&rlz=1CDGOYI_enUS647US647&oq=firebase&aqs=chrome..69i57j0j5j0.5688j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8](https://www.google.com/search?q=firebase&rlz=1CDGOYI_enUS647US647&oq=firebase&aqs=chrome..69i57j0j5j0.5688j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8)
-
 web jekyll
 * [Learn how to Deploy a Website | Course | Codeacademy](https://www.codecademy.com/learn/deploy-a-website) | [https://www.codecademy.com/learn/deploy-a-website](https://www.codecademy.com/learn/deploy-a-website)
 
-web mobile
-* [How do I develop cross-platform mobile apps with html, css and js?](https://www.reddit.com/r/learnprogramming/comments/6ugyws/how_do_i_develop_crossplatform_mobile_apps_with/) | [https://www.reddit.com/r/learnprogramming/comments/6ugyws/how_do_i_develop_crossplatform_mobile_apps_with/](https://www.reddit.com/r/learnprogramming/comments/6ugyws/how_do_i_develop_crossplatform_mobile_apps_with/)
-
-web mobile
-* [JavaScript Frameworks for Mobile Applications](https://www.reddit.com/r/javascript/comments/6v95b4/javascript_frameworks_for_mobile_applications/) | [https://www.reddit.com/r/javascript/comments/6v95b4/javascript_frameworks_for_mobile_applications/](https://www.reddit.com/r/javascript/comments/6v95b4/javascript_frameworks_for_mobile_applications/)
-
-web mobile
-* [I'm new to web design and could use a guide to mobile gestures. I think I'm just googling the wrong thing.](https://www.reddit.com/r/web_design/comments/6tnz7e/im_new_to_web_design_and_could_use_a_guide_to/) | [https://www.reddit.com/r/web_design/comments/6tnz7e/im_new_to_web_design_and_could_use_a_guide_to/](https://www.reddit.com/r/web_design/comments/6tnz7e/im_new_to_web_design_and_could_use_a_guide_to/)
-
-web rest
-* [I want to learn REST APIs, where do I go?](https://www.reddit.com/r/learnprogramming/comments/6rdqvn/i_want_to_learn_rest_apis_where_do_i_go/) | [https://www.reddit.com/r/learnprogramming/comments/6rdqvn/i_want_to_learn_rest_apis_where_do_i_go/](https://www.reddit.com/r/learnprogramming/comments/6rdqvn/i_want_to_learn_rest_apis_where_do_i_go/)
-
 web rest api
+* [I want to learn REST APIs, where do I go?](https://www.reddit.com/r/learnprogramming/comments/6rdqvn/i_want_to_learn_rest_apis_where_do_i_go/) | [https://www.reddit.com/r/learnprogramming/comments/6rdqvn/i_want_to_learn_rest_apis_where_do_i_go/](https://www.reddit.com/r/learnprogramming/comments/6rdqvn/i_want_to_learn_rest_apis_where_do_i_go/)
 * [I'm unfamiliar with RESTful API's/JSON but need to 'build' one in two days! Any useful crash courses?](https://www.reddit.com/r/learnprogramming/comments/6rpdga/im_unfamiliar_with_restful_apisjson_but_need_to/) | [https://www.reddit.com/r/learnprogramming/comments/6rpdga/im_unfamiliar_with_restful_apisjson_but_need_to/](https://www.reddit.com/r/learnprogramming/comments/6rpdga/im_unfamiliar_with_restful_apisjson_but_need_to/)
 
-web: better mobile menu
-* [How do I make information come up in the rectangular space below my nav bar when you click on the links?](https://www.reddit.com/r/webdev/comments/6mmn6i/how_do_i_make_information_come_up_in_the/) | [https://www.reddit.com/r/webdev/comments/6mmn6i/how_do_i_make_information_come_up_in_the/](https://www.reddit.com/r/webdev/comments/6mmn6i/how_do_i_make_information_come_up_in_the/)
-* [Dropdown alternatives for better (mobile) forms](https://www.reddit.com/r/web_design/comments/6lu3dm/dropdown_alternatives_for_better_mobile_forms/) | [https://www.reddit.com/r/web_design/comments/6lu3dm/dropdown_alternatives_for_better_mobile_forms/](https://www.reddit.com/r/web_design/comments/6lu3dm/dropdown_alternatives_for_better_mobile_forms/)
