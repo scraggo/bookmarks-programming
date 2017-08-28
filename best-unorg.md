@@ -23,12 +23,9 @@ career
     * [What do you guys think of the P1xt \"Job Ready\" Guide on Github for web developers?](https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/) | [https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/](https://www.reddit.com/r/learnprogramming/comments/6tv23l/what_do_you_guys_think_of_the_p1xt_job_ready/)
 * [Step-by-step guide from beginner to worthy of a job](https://www.reddit.com/r/learnprogramming/comments/6tvjsw/stepbystep_guide_from_beginner_to_worthy_of_a_job/) | [https://www.reddit.com/r/learnprogramming/comments/6tvjsw/stepbystep_guide_from_beginner_to_worthy_of_a_job/](https://www.reddit.com/r/learnprogramming/comments/6tvjsw/stepbystep_guide_from_beginner_to_worthy_of_a_job/)
 
-career
+career - Chicago
 * [Best Coding Bootcamps in Chicago?](https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/) | [https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/](https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/)
 * [The 6 Most In-Demand Programming Jobs in the Chicago Area](http://culturefit.com/6-demand-programming-jobs-chicago-area/) | [http://culturefit.com/6-demand-programming-jobs-chicago-area/](http://culturefit.com/6-demand-programming-jobs-chicago-area/)
-
-career - job guides
-* [Almost done on FreeCodeCamp's Front End Development and need advice on what road to take next on developer roadmap](https://www.reddit.com/r/learnprogramming/comments/6pha8m/almost_done_on_freecodecamps_front_end/) | [https://www.reddit.com/r/learnprogramming/comments/6pha8m/almost_done_on_freecodecamps_front_end/](https://www.reddit.com/r/learnprogramming/comments/6pha8m/almost_done_on_freecodecamps_front_end/)
 
 chicago
 * [I wrote about some examples of using map, filter, and reduce, as well as accessing JSON and using the DOM with vanilla JS](https://www.reddit.com/r/javascript/comments/6sytdf/i_wrote_about_some_examples_of_using_map_filter/) | [https://www.reddit.com/r/javascript/comments/6sytdf/i_wrote_about_some_examples_of_using_map_filter/](https://www.reddit.com/r/javascript/comments/6sytdf/i_wrote_about_some_examples_of_using_map_filter/)
@@ -164,7 +161,7 @@ misc
 misc - Great links inside:
 * [after Codeacademy](https://www.reddit.com/r/learnprogramming/comments/6htagt/codeacademy/) | [https://www.reddit.com/r/learnprogramming/comments/6htagt/codeacademy/](https://www.reddit.com/r/learnprogramming/comments/6htagt/codeacademy/)
 
-misc - I want!
+misc - free private repos
 * [private repository - Google Search](https://www.google.com/search?q=private+repository&rlz=1C5CHFA_enUS579US579&oq=private+repo&aqs=chrome.0.0j69i57j0l4.2559j0j7&sourceid=chrome&ie=UTF-8) | [https://www.google.com/search?q=private+repository&rlz=1C5CHFA_enUS579US579&oq=private+repo&aqs=chrome.0.0j69i57j0l4.2559j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=private+repository&rlz=1C5CHFA_enUS579US579&oq=private+repo&aqs=chrome.0.0j69i57j0l4.2559j0j7&sourceid=chrome&ie=UTF-8)
 
 misc dl books
