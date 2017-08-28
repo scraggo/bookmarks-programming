@@ -1,8 +1,13 @@
 # CS IN PROGRESS
 
-cs
-* [100 days of algorithms: GitHub with all the algorithms](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/) | [https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/)
+cs resource list
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) | [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
+    * SICP
+    * [Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+    * [Computer Science 61A, 001 - Spring 2011 : Free Movies : Download & Streaming : Internet Archive](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
+
+cs - algorithms
+* [100 days of algorithms: GitHub with all the algorithms](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/) | [https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/)
 * [Python functions - Exercises, Practice, Solution - w3resource](http://www.w3resource.com/python-exercises/python-functions-exercises.php) | [http://www.w3resource.com/python-exercises/python-functions-exercises.php](http://www.w3resource.com/python-exercises/python-functions-exercises.php)
 * [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.reddit.com/r/coding/comments/6qvssu/data_structures_for_coding_interviews_computer/) | [https://www.reddit.com/r/coding/comments/6qvssu/data_structures_for_coding_interviews_computer/](https://www.reddit.com/r/coding/comments/6qvssu/data_structures_for_coding_interviews_computer/)
 * [Learning Data Structures and Algorithms](https://www.reddit.com/r/cscareerquestions/comments/6uf1ys/learning_data_structures_and_algorithms/) | [https://www.reddit.com/r/cscareerquestions/comments/6uf1ys/learning_data_structures_and_algorithms/](https://www.reddit.com/r/cscareerquestions/comments/6uf1ys/learning_data_structures_and_algorithms/)
