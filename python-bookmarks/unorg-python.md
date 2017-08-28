@@ -2,8 +2,17 @@
 
 # UNORGANIZED
 
+! py books
+* [Introduction to Python: An open resource for students and teachers](http://introtopython.org/)
+* [Introduction to Python: An open resource for students and teachers](http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app) | [http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app](http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app)
+* [Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation](http://pymbook.readthedocs.io/en/py3/) | [http://pymbook.readthedocs.io/en/py3/](http://pymbook.readthedocs.io/en/py3/)
+* [Python Practice Book — Python Practice Book](http://anandology.com/python-practice-book/index.html) | [http://anandology.com/python-practice-book/index.html](http://anandology.com/python-practice-book/index.html)
 
-!py
+! py cs
+* [Learn algorithms and data structures (and prep for coding interviews) with interactive coding challenges in Python : learnpython](https://www.reddit.com/r/learnpython/comments/63sg43/learn_algorithms_and_data_structures_and_prep_for/) | [https://www.reddit.com/r/learnpython/comments/63sg43/learn_algorithms_and_data_structures_and_prep_for/](https://www.reddit.com/r/learnpython/comments/63sg43/learn_algorithms_and_data_structures_and_prep_for/)
+
+
+! py
 * [Python Cloud IDE | Python Fiddle](http://pythonfiddle.com/) | [http://pythonfiddle.com/](http://pythonfiddle.com/)
 * [Currently learning python - are there any video courses that focus on naming conventions, clean code and generally good coding behaviour?](https://www.reddit.com/r/learnpython/comments/6ul223/currently_learning_python_are_there_any_video/) | [https://www.reddit.com/r/learnpython/comments/6ul223/currently_learning_python_are_there_any_video/](https://www.reddit.com/r/learnpython/comments/6ul223/currently_learning_python_are_there_any_video/)
 * [Python Book Recommendations](https://www.reddit.com/r/Python/comments/6ttyki/python_book_recommendations/) | [https://www.reddit.com/r/Python/comments/6ttyki/python_book_recommendations/](https://www.reddit.com/r/Python/comments/6ttyki/python_book_recommendations/)
@@ -12,7 +21,7 @@
 !
 * [Welcome to Python 101! — Python 101 1.0 documentation](http://python101.pythonlibrary.org/index.html) | [http://python101.pythonlibrary.org/index.html](http://python101.pythonlibrary.org/index.html)
 
-!py
+! py
 * [PSA: If you have a library card, you probably have access to Lynda.com, which has tons of Python courses](https://www.reddit.com/r/learnpython/comments/6rrsdu/psa_if_you_have_a_library_card_you_probably_have/) | [https://www.reddit.com/r/learnpython/comments/6rrsdu/psa_if_you_have_a_library_card_you_probably_have/](https://www.reddit.com/r/learnpython/comments/6rrsdu/psa_if_you_have_a_library_card_you_probably_have/)
 
 !
