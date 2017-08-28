@@ -1,5 +1,14 @@
 # CS IN PROGRESS
 
+!
+* [Dashboard | HackerRank](https://www.hackerrank.com/dashboard)
+* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
+
+! courses
+* [Syllabus | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/syllabus/) - Python (some prereqs)
+* [Lectures | CS16](http://cs.brown.edu/courses/cs016/lectures.html) - Python
+* [www.cs.cornell.edu/courses/cs2110/2016fa/](http://www.cs.cornell.edu/courses/cs2110/2016fa/) - Java (intro)
+
 ! resource list
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) | [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
     * SICP - check out MIT and Berklee courses. (x)
@@ -10,16 +19,6 @@
 * [open-source-society/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science) | [https://github.com/open-source-society/computer-science](https://github.com/open-source-society/computer-science)
 * [When am I experienced enough to apply for internships?](https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/) | [https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/](https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/)
 * [free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
-
-! courses
-* [Syllabus | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/syllabus/) - Python (some prereqs)
-* [Lectures | CS16](http://cs.brown.edu/courses/cs016/lectures.html) - Python
-* [www.cs.cornell.edu/courses/cs2110/2016fa/](http://www.cs.cornell.edu/courses/cs2110/2016fa/) - Java (intro)
-
-!
-* [Dashboard | HackerRank](https://www.hackerrank.com/dashboard)
-* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
-
 
 algorithms
 * [100 days of algorithms: GitHub with all the algorithms](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/) | [https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/)
