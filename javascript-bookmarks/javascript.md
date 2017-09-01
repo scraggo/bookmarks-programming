@@ -26,6 +26,51 @@ x
 pdf
 * [JavaScript Enlightenment | by Cody Lindley | 1st Edition | ECMA-262, Edition 3](http://javascriptenlightenment.com/) | [http://javascriptenlightenment.com/](http://javascriptenlightenment.com/)
 
+## Organize me
+
+JAVASCRIPT BOOKS
+* [free javascript books - Google Search](https://www.google.com/search?q=free+javascript+books&oq=free+javascript+book&aqs=chrome.0.0j69i57j0l4.5760j0j7&sourceid=chrome&ie=UTF-8)
+* [JSbooks - free javascript books](http://jsbooks.revolunet.com/)
+* [DOM Enlightenment - Exploring the relationship between JavaScript and the modern HTML DOM](http://domenlightenment.com/) - yes!
+* [Book on Building Front-End Web Apps with Plain JavaScript | web-engineering.info](http://web-engineering.info/JsFrontendApp-Book) - local storage!
+* [Speaking JavaScript](http://speakingjs.com/es5/) - libraries, modules (weirdly written)
+* [Plain JavaScript - Functions and Helpers](https://plainjs.com/javascript/) - interesting study guide / helper functions
+* [Introduction | Human JavaScript](http://read.humanjavascript.com/) - this is weird
+* [What You Need to Know about JavaScript - Free eBook | PACKT Books](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-javascript) - sign up to download
+* [Web Engineering Tutorials - Google+](https://plus.google.com/104237216582874489152)
+* [Read Recipes with Angular.js | Leanpub](https://leanpub.com/recipes-with-angular-js/read)
+* [Free Angular JavaScript eBook | PACKT Books](https://www.packtpub.com/packt/free-ebook/angularjs-essentials)
+* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+
+### JS courses
+Coursera
+* [Interactivity with JavaScript | Coursera](https://www.coursera.org/learn/javascript)
+Udemy
+* [Online Courses - Anytime, Anywhere | Udemy](https://www.udemy.com/courses/search/?q=javascript&src=ukw&price=price-free)
+Google search: javascript course
+SoloLearn
+* [JavaScript Tutorial | SoloLearn: Learn to code for FREE!](https://www.sololearn.com/Course/JavaScript/)
+Treehouse
+* [JavaScript Courses on Treehouse](https://teamtreehouse.com/library/topic:javascript/q:javascript)
+* [JavaScript and the DOM Course](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+* [Introduction to Babel](https://teamtreehouse.com/library/introduction-to-babel)
+* [Treehouse Club: JavaScript Course](https://teamtreehouse.com/library/treehouse-club-javascript)
+* [Programming Step-by-Step: Object-Oriented JavaScript (Part 2)](https://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-2)
+* [Programming Step-by-Step: Object-Oriented JavaScript (Part 1)](https://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-1)
+Udacity
+* [Web Development | Udacity](https://www.udacity.com/course/web-development--cs253)
+* [JavaScript Design Patterns | Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
+Edx
+* [My edX Search | 32 search results for "javascript"](https://www.edx.org/course?search_query=javascript)
+* [Building Interactive Prototypes using JavaScript | edX](https://www.edx.org/course/building-interactive-prototypes-using-microsoft-dev279x)
+* [Programming for the Web with JavaScript | edX](https://www.edx.org/course/programming-web-javascript-pennx-sd4x#!) - starts august 27 '17
+Youtube
+* [Building products with javascript - Intro - YouTube](https://www.youtube.com/playlist?list=PL_gX69xPLi-ljVdNhspjZUlPmBNjRgD2X) - playlist
+    * https://www.reddit.com/r/learnjavascript/comments/69nryw/hey_rlearnjavascript_my_names_tim_and_i_publish/ - info
+* [Javascript the Hard Parts - Object Oriented Programming (05/09) - YouTube](https://www.youtube.com/watch?v=wREu44nEJgE)
+link in description (downloaded)
+
+* [Learn ECMAScript6 by doing it](http://es6katas.org/)
 
 # Unorganized
 
@@ -289,6 +334,7 @@ pdf
 * [https://www.quora.com/What-is-the-best-way-to-learn-JavaScript](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
 
 ! res list
+* [Codeacademy : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/6htagt/codeacademy/)
 * [Any resources for people who aren't complete beginners?](https://www.reddit.com/r/learnjavascript/comments/6hs68q/any_resources_for_people_who_arent_complete/) | [https://www.reddit.com/r/learnjavascript/comments/6hs68q/any_resources_for_people_who_arent_complete/](https://www.reddit.com/r/learnjavascript/comments/6hs68q/any_resources_for_people_who_arent_complete/)
 
 ! study

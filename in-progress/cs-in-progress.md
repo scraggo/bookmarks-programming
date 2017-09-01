@@ -1,11 +1,17 @@
 # CS IN PROGRESS
 
+LOCAL
+* Cormen_Algorithms_3rd.pdf - python-esque pseudo code
+
 !
 * [Dashboard | HackerRank](https://www.hackerrank.com/dashboard)
+* [Problems - LeetCode](https://leetcode.com/problemset/all/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
 
 ! courses
-* [Syllabus | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/syllabus/) - Python (some prereqs)
+* [Syllabus | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/syllabus/) - Python (some prereqs) - see Assignments!
+    - [Introduction to Algorithms (SMA 5503) | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) - I think this is the one
+    - [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 * [Lectures | CS16](http://cs.brown.edu/courses/cs016/lectures.html) - Python
 * [www.cs.cornell.edu/courses/cs2110/2016fa/](http://www.cs.cornell.edu/courses/cs2110/2016fa/) - Java (intro)
 
@@ -31,9 +37,6 @@ algorithms
 books
 * [Similar books/resources to \"The Self Taught Programmer?\"](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/) | [https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/)
 * [Question - Quora](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn) | [https://www.quora.com/What-are-10-things-a-new-programmer-should-learn](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn)
-- General approach to programming - looks cool!
-    * [Learn to Program, by Chris Pine](https://pine.fm/LearnToProgram) | [https://pine.fm/LearnToProgram](https://pine.fm/LearnToProgram)
-    * [Classes - Learn to Program](https://pine.fm/LearnToProgram/chap_09.html) | [https://pine.fm/LearnToProgram/chap_09.html](https://pine.fm/LearnToProgram/chap_09.html)
 
 degrees
 * [Full-time web developer with no degree interested in getting a CS degree on the side!](https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/) | [https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/](https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/)
@@ -56,4 +59,6 @@ teach
 x
 * [Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 * [Computer Science 61A, 001 - Spring 2011 : Free Movies : Download & Streaming : Internet Archive](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
-* [Problems - LeetCode](https://leetcode.com/problemset/all/)
+- General approach to programming - Ruby - not free
+    * [Learn to Program, by Chris Pine](https://pine.fm/LearnToProgram) | [https://pine.fm/LearnToProgram](https://pine.fm/LearnToProgram)
+    * [Classes - Learn to Program](https://pine.fm/LearnToProgram/chap_09.html) | [https://pine.fm/LearnToProgram/chap_09.html](https://pine.fm/LearnToProgram/chap_09.html)
