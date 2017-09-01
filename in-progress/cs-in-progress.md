@@ -16,27 +16,30 @@ LOCAL
 * [www.cs.cornell.edu/courses/cs2110/2016fa/](http://www.cs.cornell.edu/courses/cs2110/2016fa/) - Java (intro)
 
 ! resource list
+* Complete
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/) | [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
     * SICP - check out MIT and Berklee courses. (x)
     * ALGORITHMS AND DATA STRUCTURES
     * SkienaTheAlgorithmDesignManual.pdf
+* [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books) - AND MORE
+    * [free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) - #python
+* Courses
 * [prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [Huge list of Computer Science courses with video tutorials, compiled from all over the internet.](https://www.reddit.com/r/learnprogramming/comments/6w5vgy/huge_list_of_computer_science_courses_with_video/) | [https://www.reddit.com/r/learnprogramming/comments/6w5vgy/huge_list_of_computer_science_courses_with_video/](https://www.reddit.com/r/learnprogramming/comments/6w5vgy/huge_list_of_computer_science_courses_with_video/)
 * [open-source-society/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science) | [https://github.com/open-source-society/computer-science](https://github.com/open-source-society/computer-science)
+* Books
+* [Similar books/resources to \"The Self Taught Programmer?\"](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/) | [https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/)
+* [Question - Quora](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn) | [https://www.quora.com/What-are-10-things-a-new-programmer-should-learn](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn)
+* Else
 * [When am I experienced enough to apply for internships?](https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/) | [https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/](https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/)
-* [free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
 
 algorithms
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - Bruno R. Preiss, 2004 (HTML)
 * [100 days of algorithms: GitHub with all the algorithms](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/) | [https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/)
 * [Python functions - Exercises, Practice, Solution - w3resource](http://www.w3resource.com/python-exercises/python-functions-exercises.php) | [http://www.w3resource.com/python-exercises/python-functions-exercises.php](http://www.w3resource.com/python-exercises/python-functions-exercises.php)
 * [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.reddit.com/r/coding/comments/6qvssu/data_structures_for_coding_interviews_computer/) | [https://www.reddit.com/r/coding/comments/6qvssu/data_structures_for_coding_interviews_computer/](https://www.reddit.com/r/coding/comments/6qvssu/data_structures_for_coding_interviews_computer/)
 * [Programming paradigms ( OOP, FOP, DOP and many others )](https://www.reddit.com/r/learnpython/comments/6tpnyw/programming_paradigms_oop_fop_dop_and_many_others/) | [https://www.reddit.com/r/learnpython/comments/6tpnyw/programming_paradigms_oop_fop_dop_and_many_others/](https://www.reddit.com/r/learnpython/comments/6tpnyw/programming_paradigms_oop_fop_dop_and_many_others/)
 * [Comprehensive list of Data Structures using Python with some applications. OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html)
-
-books
-* [Similar books/resources to \"The Self Taught Programmer?\"](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/) | [https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/](https://www.reddit.com/r/learnprogramming/comments/6sle99/similar_booksresources_to_the_self_taught/)
-* [Question - Quora](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn) | [https://www.quora.com/What-are-10-things-a-new-programmer-should-learn](https://www.quora.com/What-are-10-things-a-new-programmer-should-learn)
 
 degrees
 * [Full-time web developer with no degree interested in getting a CS degree on the side!](https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/) | [https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/](https://www.reddit.com/r/learnprogramming/comments/6fm6k6/fulltime_web_developer_with_no_degree_interested/)
