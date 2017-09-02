@@ -54,7 +54,4 @@ YDKJS
 
 DONE
 ```
-x fordummies
-x dash
-x www.codecademy.com%2Fen%2Ftracks%2Fcoding-with-javascript-for-dummies&usg=AFQjCNH-4sr4zoPeq3u7GWHnKZXoL-cuXA&cad=rjt
 ```
