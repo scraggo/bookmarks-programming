@@ -24,13 +24,4 @@
   - http://culturefit.com/6-demand-programming-jobs-chicago-area/
 
 ## Portfolio
-
-- Random music generator with output MIDI
-- A chrome extension that lets you store bookmarks in markdown for easy adding of notes
-- I'm thinking of learning Laravel for publishing a book on music theory I'm working on (but, then again Node)
-- Interactive music teaching app(s) for learning advanced guitar
-- Songwriting assistant GUI (maybe)
-- Hangman, vanilla Javascript (have a working Python version) (in progress)
-- Python - backup files script (in progress)
-- FreeCodeCamp - Full Stack track
-- I want to make some sort of SPA with Angular 1.x and then in Aurelia 
+*see in-progress*
