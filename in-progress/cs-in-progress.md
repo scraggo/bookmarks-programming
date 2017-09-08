@@ -1,6 +1,6 @@
 # CS IN PROGRESS
 
-LOCAL
+BOOKS / PDF
 * Cormen_Algorithms_3rd.pdf - python-esque pseudo code
 
 !
@@ -9,6 +9,9 @@ LOCAL
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
 
 ! courses
+* MIT - Python 2016
+  * <https://www.youtube.com/watch?v=-DP1i2ZU9gk> MIT OOP pt 1
+  * <https://www.youtube.com/watch?v=FlGjISF3l78> pt 2
 * [Syllabus | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/syllabus/) - Python (some prereqs) - see Assignments!
     - [Introduction to Algorithms (SMA 5503) | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) - I think this is the one
     - [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
