@@ -15,6 +15,10 @@ PDF / Courses
 - Effective-Python-en.pdf (preview)
 - *more in:* C-Python
 
+## Topics
+- OOP: Corey Schafer
+- Cython (looking for resources on C)
+
 LINKS
 * [bookmarks-programming/books-courses-python.md at master · scraggo/bookmarks-programming](https://github.com/scraggo/bookmarks-programming/blob/master/python-bookmarks/books-courses-python.md)
 * [bookmarks-programming/topics-misc-python.md at master · scraggo/bookmarks-programming](https://github.com/scraggo/bookmarks-programming/blob/master/python-bookmarks/topics-misc-python.md)

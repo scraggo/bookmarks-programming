@@ -53,21 +53,7 @@ subnotes-python
 
 ## Courses
 - Treehouse
-- [X] Dash - General Assembly
-- JavaScript:
-  - FreeCodeCamp - full stack (MEAN)
-  - Wes Bos - JavaScript 30
-  - Watch and Code
-  - Eloquent JavaScript (ahead of me, but I’m getting more familiar)
-  - TNB - remake into useable JS
-  - for dummies, newer 2015: http://pdf.th7.cn/down/files/1508/Coding%20with%20JavaScript%20For%20Dummies.pdf
-  - course: https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies
-  - for dummies, older 2013: http://exordio.qfb.umich.mx/archivos%20PDF%20de%20trabajo%20UMSNH/LIBROS%2014/HTML5%20Programming%20with%20JavaScript%20For%20Dummies.pdf
-  - Angular
-  - Aurelia
 - Laravel
-- Python: OOP, MIT, Books
-  - Python books / MIT OCW 2016 / Corey Schafer
 - Git / GitHub (which tutorial is best? Laracasts?)
   - GitHub Desktop (until I figure out Git at the command line)
 - Started: EdX - learn C
@@ -79,3 +65,6 @@ subnotes-python
 - The Job Interview - a big topic to start researching.
 - Networking / Pair Programming - slack channel
 - The big picture - my own company?
+
+## Done
+- [X] Dash - General Assembly
