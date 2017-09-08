@@ -3,7 +3,7 @@
 PDF / Courses
 - Coder's Apprentice
 - Automate the Boring Stuff
-- How to Think Like a Computer Scientist — How to Think Like a Computer Scientist: Learning with Python 3
+- How to Think Like a Computer Scientist: Learning with Python 3
 - Fluent Python
 - programming_in_python_3.summerfield
 - Code Like a Pythonista_ Idiomatic Python
@@ -13,7 +13,7 @@ PDF / Courses
 - Python Crash Course
 - BuildingSkillsinPython.pdf
 - Effective-Python-en.pdf (preview)
-
+- *more in:* C-Python
 
 LINKS
 * [bookmarks-programming/books-courses-python.md at master · scraggo/bookmarks-programming](https://github.com/scraggo/bookmarks-programming/blob/master/python-bookmarks/books-courses-python.md)
