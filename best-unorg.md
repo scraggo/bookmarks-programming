@@ -17,6 +17,8 @@ TOC:
 * project
 * code academy
 
+!
+* [curated-programming-resources/resources.md at master · Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 
 career
 * [P1xt/p1xt-guides: Programming curricula](https://github.com/P1xt/p1xt-guides)

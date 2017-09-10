@@ -36,6 +36,31 @@ BOOKS / PDF
 * Else
 * [When am I experienced enough to apply for internships?](https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/) | [https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/](https://www.reddit.com/r/cscareerquestions/comments/6o3he4/when_am_i_experienced_enough_to_apply_for/)
 
+Coding challenge sites:
+```
+https://www.hackerrank.com/
+https://www.codeeval.com/
+http://acm.zju.edu.cn/onlinejudge/
+https://codility.com/programmers/challenges/
+https://projecteuler.net/
+https://www.codewars.com/
+http://www.spoj.com/ - sphere online judge
+```
+[LeetCode](https://leetcode.com/) | https://leetcode.com/problemset/algorithms/
+[Programming Interview Questions + Help Getting Job Offers | Interview Cake](https://www.interviewcake.com/)
+[Coding for Interviews](http://codingforinterviews.com/)
+[Pramp - Live Programming Practice & Coding Interview Questions](https://www.pramp.com/#/)
+CONTESTS
+[Topcoder | Deliver Faster through Crowdsourcing](https://www.topcoder.com/)
+[About | CodeChef](https://www.codechef.com/aboutus)
+[Codeforces](http://codeforces.com/)
+[Developer Hackathons & Programming Challenges | Talent Assessment & Innovation Management Software | HackerEarth](https://www.hackerearth.com/)
+```
+codility - paid
+https://www.careercup.com/ - paid
+https://medium.freecodecamp.org/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f
+```
+
 algorithms
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - Bruno R. Preiss, 2004 (HTML)
 * [100 days of algorithms: GitHub with all the algorithms](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/) | [https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/](https://www.reddit.com/r/Python/comments/6nvra5/100_days_of_algorithms_github_with_all_the/)
