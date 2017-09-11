@@ -8,7 +8,7 @@ Reading
 Courses
 - JSandDOM-treehouse
 - Wes Bos - JavaScript 30
-    - about 5 videos in
+    - 04 - Array Cardio Day 1
 - [Practical JavaScript | Watch and Code®](https://watchandcode.com/p/practical-javascript)
     - 7 lessons in
     - Watch and code, facebook group - https://www.facebook.com/groups/514043678767094/
