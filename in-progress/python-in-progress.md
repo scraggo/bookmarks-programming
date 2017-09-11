@@ -16,7 +16,9 @@ PDF / Courses
 - *more in:* C-Python
 
 ## Topics
-- OOP: Corey Schafer
+- OOP: 
+    - Transforming small code into OOP: guess number, tic tac toe
+    - Corey Schafer, etc (collect for blog)
 - Cython (looking for resources on C)
 
 LINKS

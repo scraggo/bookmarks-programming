@@ -12,18 +12,19 @@
 - Bookmarks project - combine scripts
   - A chrome extension that lets you store bookmarks in markdown for easy adding of notes
 - Frameworks: need more project ideas
-- Python - backup files script (in progress)
-- Hangman, vanilla Javascript (have a working Python version) (in progress)
+  - I want to make some sort of SPA with Angular 1.x and then in Aurelia 
+- Python - backup files script
+- Hangman, vanilla Javascript (have a working Python version)
 - FreeCodeCamp - Full Stack track
-- I want to make some sort of SPA with Angular 1.x and then in Aurelia 
 - **MUSIC**
 - MTFA in the most logical way.
   - Static?
   - Laravel?
   - Flask? Node?
 - Random music generator with output MIDI
-- Interactive music teaching app(s) for learning advanced guitar
+- Interactive music teaching app(s) for learning beginner through advanced guitar
 - Songwriting assistant GUI (maybe)
+
 ## Repos
 ```
 Aurelia-Github-Users
@@ -46,14 +47,13 @@ subnotes-python
 
 ## Topics
 - Learn OOP in Python
-- easy JS book (not EJS)
-- recursion
-- Job Interview
+- JS books (EJS, YDKJS, and easier)
 - Computer Science (looking for best books)
+  - recursion, data structures, algoritms
 
 ## Courses
 - Treehouse
-- Laravel
+- Laracasts
 - Git / GitHub (which tutorial is best? Laracasts?)
   - GitHub Desktop (until I figure out Git at the command line)
 - Started: EdX - learn C
@@ -66,5 +66,16 @@ subnotes-python
 - Networking / Pair Programming - slack channel
 - The big picture - my own company?
 
-## Done
+## Done Tutorials
+
+Challenges:
+- Exercism: 1 / 2
+
+Javascript: (see js in progress)
+
+HTML/CSS Basics:
+- Codeacademy: HTML, CSS, 
+- Udacity: intro to HTML, CSS
+- Shay Howe
+- w3 schools
 - [X] Dash - General Assembly

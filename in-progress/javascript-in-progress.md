@@ -1,17 +1,19 @@
 # JAVASCRIPT IN PROGRESS
 
-PDF / Courses
+Reading
 - Eloquent JavaScript
-- Wes Bos - JavaScript 30
-- [Practical JavaScript | Watch and Code®](https://watchandcode.com/p/practical-javascript)
-    - Watch and code, facebook group - https://www.facebook.com/groups/514043678767094/
-- read this: [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 - Modern JavaScript - cool mini jQuery functions?
+- [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+Courses
+- JSandDOM-treehouse
+- Wes Bos - JavaScript 30
+    - about 5 videos in
+- [Practical JavaScript | Watch and Code®](https://watchandcode.com/p/practical-javascript)
+    - 7 lessons in
+    - Watch and code, facebook group - https://www.facebook.com/groups/514043678767094/
 - FreeCodeCamp - full stack (MEAN)
-- TNB - remake into useable JS
-- for dummies, newer 2015: http://pdf.th7.cn/down/files/1508/Coding%20with%20JavaScript%20For%20Dummies.pdf
-- course: https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies
-- for dummies, older 2013: http://exordio.qfb.umich.mx/archivos%20PDF%20de%20trabajo%20UMSNH/LIBROS%2014/HTML5%20Programming%20with%20JavaScript%20For%20Dummies.pdf
+    - Intermediate Front End Development: 2/4 complete
 - Angular
 - Aurelia
 
@@ -60,5 +62,13 @@ YDKJS
 
 
 DONE
-```
-```
+- IntroES2015-Treehouse
+- OOP-JS-Treehouse
+- Treehouse, AngularJS: build a todo app
+- CodeAcademy, interactive website
+- For dummies
+- 
+- TNB - remake into useable JS
+- for dummies, newer 2015: http://pdf.th7.cn/down/files/1508/Coding%20with%20JavaScript%20For%20Dummies.pdf
+- course: https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies
+- for dummies, older 2013: http://exordio.qfb.umich.mx/archivos%20PDF%20de%20trabajo%20UMSNH/LIBROS%2014/HTML5%20Programming%20with%20JavaScript%20For%20Dummies.pdf
