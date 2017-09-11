@@ -1,5 +1,13 @@
 # BEST BOOKMARKS - TO ORGANIZE
 
+- career
+- cython
+- express
+- functional
+- js
+- py
+- web
+
 !
 * [My Experience with Markdown and Why I Love it](https://www.reddit.com/r/learnprogramming/comments/6yjslm/my_experience_with_markdown_and_why_i_love_it/) | [https://www.reddit.com/r/learnprogramming/comments/6yjslm/my_experience_with_markdown_and_why_i_love_it/](https://www.reddit.com/r/learnprogramming/comments/6yjslm/my_experience_with_markdown_and_why_i_love_it/)
 
