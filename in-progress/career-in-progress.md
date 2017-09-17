@@ -4,10 +4,19 @@
 - https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md
 - (from https://github.com/P1xt/p1xt-guides )
 - https://github.com/P1xt/p1xt-guides/blob/master/faq.md
-- My Progress: 9/11/17 - 33% through YDKJS
+- My Progress: 9/11/17 - 40% through YDKJS
 
 ## DIY BOOTCAMP
-**Put together a DIY boot camp thing? Find the best curriculum, find a teacher, network my ass off.**
+
+[Quora - list of req](https://www.quora.com/As-a-new-web-developer-with-an-idea-how-many-languages-do-I-need-to-learn-Is-one-or-two-languages-enough-to-create-what-I-have-in-mind-or-does-it-depend-on-what-I-want-to-do)
+- HTML, CSS, Javascript
+- one general-purpose programming language (C#, Ruby, Python, PHP, etc)
+- one relational database system (Postgres, MySQL, Oracle, MongoDB,etc)
+- one web server (nginx, Apache, etc)
+- one deployment operating system (Ubuntu, CentOS, FreeBSD, etc)
+- one version-control system (git. don't bother with the etc)
+
+---
 
 Front End:
 - JavaScript, HTML5, CSS3, Twitter Bootstrap, LESS, Ajax, 

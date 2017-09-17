@@ -2,6 +2,28 @@
 
 # UNORGANIZED
 
+py
+* [Super Advanced Python](https://www.reddit.com/r/Python/comments/6y0yvi/super_advanced_python/) | [https://www.reddit.com/r/Python/comments/6y0yvi/super_advanced_python/](https://www.reddit.com/r/Python/comments/6y0yvi/super_advanced_python/)
+
+py
+* [MIT's introduction to CS and programming starts tomorrow. it uses python as tool to teach cs concepts.](https://www.reddit.com/r/Python/comments/6wn4ns/mits_introduction_to_cs_and_programming_starts/) | [https://www.reddit.com/r/Python/comments/6wn4ns/mits_introduction_to_cs_and_programming_starts/](https://www.reddit.com/r/Python/comments/6wn4ns/mits_introduction_to_cs_and_programming_starts/)
+* [https://www.google.com/amp/s/amp.reddit.com/r/learnpython/comments/1tgcr0/how_do_i_deal_with_nonascii_characters_python_26/](https://www.google.com/amp/s/amp.reddit.com/r/learnpython/comments/1tgcr0/how_do_i_deal_with_nonascii_characters_python_26/) | [https://www.google.com/amp/s/amp.reddit.com/r/learnpython/comments/1tgcr0/how_do_i_deal_with_nonascii_characters_python_26/](https://www.google.com/amp/s/amp.reddit.com/r/learnpython/comments/1tgcr0/how_do_i_deal_with_nonascii_characters_python_26/)
+
+py data
+* [Python Programming Tutorials](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/) | [https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
+
+py oop
+* [Am I doing these classes right?](https://www.reddit.com/r/learnpython/comments/6xu88e/am_i_doing_these_classes_right/) | [https://www.reddit.com/r/learnpython/comments/6xu88e/am_i_doing_these_classes_right/](https://www.reddit.com/r/learnpython/comments/6xu88e/am_i_doing_these_classes_right/)
+
+python
+* [What is considered to be the definitive Python bible, so far as books go?](https://www.reddit.com/r/Python/comments/6y8i05/what_is_considered_to_be_the_definitive_python/) | [https://www.reddit.com/r/Python/comments/6y8i05/what_is_considered_to_be_the_definitive_python/](https://www.reddit.com/r/Python/comments/6y8i05/what_is_considered_to_be_the_definitive_python/)
+
+python
+* [11 tips from 11 months of learning Python](https://www.reddit.com/r/Python/comments/6xvukq/11_tips_from_11_months_of_learning_python/) | [https://www.reddit.com/r/Python/comments/6xvukq/11_tips_from_11_months_of_learning_python/](https://www.reddit.com/r/Python/comments/6xvukq/11_tips_from_11_months_of_learning_python/)
+
+python oop
+* [Best Practices: OOP in Python.](https://www.reddit.com/r/Python/comments/6xs6od/best_practices_oop_in_python/) | [https://www.reddit.com/r/Python/comments/6xs6od/best_practices_oop_in_python/](https://www.reddit.com/r/Python/comments/6xs6od/best_practices_oop_in_python/)
+
 ! py books
 * [Introduction to Python: An open resource for students and teachers](http://introtopython.org/)
 * [Introduction to Python: An open resource for students and teachers](http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app) | [http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app](http://introtopython.org/terminal_apps.html#Greeter-A-simple-terminal-app)

@@ -385,3 +385,18 @@ Web
 * [Browserify](http://browserify.org/) | [http://browserify.org/](http://browserify.org/)
 * [I found this HTML & CSS code generator thats been really helpful.](https://www.reddit.com/r/webdev/comments/6j1kgg/i_found_this_html_css_code_generator_thats_been/) | [https://www.reddit.com/r/webdev/comments/6j1kgg/i_found_this_html_css_code_generator_thats_been/](https://www.reddit.com/r/webdev/comments/6j1kgg/i_found_this_html_css_code_generator_thats_been/)
 * [I had a great idea for my portfolio! Or so I thought...](https://www.reddit.com/r/webdev/comments/6k430g/i_had_a_great_idea_for_my_portfolio_or_so_i/) | [https://www.reddit.com/r/webdev/comments/6k430g/i_had_a_great_idea_for_my_portfolio_or_so_i/](https://www.reddit.com/r/webdev/comments/6k430g/i_had_a_great_idea_for_my_portfolio_or_so_i/)
+
+web
+* [Google has updated it's Tech Dev Guide, and it looks really good](https://www.reddit.com/r/learnprogramming/comments/6wyu9u/google_has_updated_its_tech_dev_guide_and_it/) | [https://www.reddit.com/r/learnprogramming/comments/6wyu9u/google_has_updated_its_tech_dev_guide_and_it/](https://www.reddit.com/r/learnprogramming/comments/6wyu9u/google_has_updated_its_tech_dev_guide_and_it/)
+
+web
+* [Recommended: The Best Youtube Channels for Developers](https://www.reddit.com/r/webdev/comments/6xt87y/recommended_the_best_youtube_channels_for/) | [https://www.reddit.com/r/webdev/comments/6xt87y/recommended_the_best_youtube_channels_for/](https://www.reddit.com/r/webdev/comments/6xt87y/recommended_the_best_youtube_channels_for/)
+
+web
+* [I made a CSS-only tab control (driven by radio buttons) that I'm pretty pleased with. Thought I'd share it with you folks!](https://www.reddit.com/r/css/comments/6slhzn/i_made_a_cssonly_tab_control_driven_by_radio/) | [https://www.reddit.com/r/css/comments/6slhzn/i_made_a_cssonly_tab_control_driven_by_radio/](https://www.reddit.com/r/css/comments/6slhzn/i_made_a_cssonly_tab_control_driven_by_radio/)
+
+web
+* [Interneting Is Hard | Web Development Tutorials For Complete Beginners](https://internetingishard.com/) | [https://internetingishard.com/](https://internetingishard.com/)
+
+web - static
+* [What frameworks, tools and libraries would you use for building website with less than 20 pages? (not a web app, no user accounts, no ecommerce)](https://www.reddit.com/r/webdev/comments/6x1opg/what_frameworks_tools_and_libraries_would_you_use/) | [https://www.reddit.com/r/webdev/comments/6x1opg/what_frameworks_tools_and_libraries_would_you_use/](https://www.reddit.com/r/webdev/comments/6x1opg/what_frameworks_tools_and_libraries_would_you_use/)

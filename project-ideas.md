@@ -5,6 +5,7 @@
   * [https://github.com/karan/Projects#number](https://github.com/karan/Projects#number)
   * [https://github.com/karan/Projects](https://github.com/karan/Projects)
 * [Project List - google docs](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit) - Projects are ordered from easiest to hardest.
+* [Project List - 100 Ideas jpg](https://i.warosu.org/data/g/img/0411/72/1396640105730.jpg)
 * [Codewars: Train with Programming Challenges/Kata](https://www.codewars.com/) - Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.  
 * [15 Free Games to Level Up Your Coding Skills](https://skillcrush.com/2017/04/03/free-coding-games/)
 * [http://adventofcode.com/2016](http://adventofcode.com/2016)
