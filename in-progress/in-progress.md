@@ -19,7 +19,7 @@
   - A chrome extension that lets you store bookmarks in markdown for easy adding of notes
 - Frameworks: need more project ideas
   - I want to make some sort of SPA with Angular 1.x and then in Aurelia 
-- Python - backup files script
+- Python - tictactoe, subnotes, backup files script
 - Hangman, vanilla Javascript (have a working Python version)
 - FreeCodeCamp - Full Stack track
 - **MUSIC**
