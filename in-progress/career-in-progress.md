@@ -1,10 +1,19 @@
 # Career in progress
 
+## Overview
+- Projects
+- Exercises
+- Resume
+- Blog
+- The Job Interview - a big topic 
+- Networking / Pair Programming - slack channel
+- The big picture - my own company
+
 ## P1XT - Job Ready Guide
 - https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md
 - (from https://github.com/P1xt/p1xt-guides )
 - https://github.com/P1xt/p1xt-guides/blob/master/faq.md
-- My Progress: 9/11/17 - 40% through YDKJS
+- My Progress: See JS
 
 ## DIY BOOTCAMP
 
@@ -74,7 +83,6 @@ Using a custom domain name with GitHub Pages/Heroku
 - https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/?utm_content=buffer74fe2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 - http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/
 - Any resources to practice tech interviews? Bonus: sleep tips for nights before big day? | https://www.reddit.com/r/learnprogramming/comments/6ipu89/any_resources_to_practice_tech_interviews_bonus/
-
 
 ## Chicago
   - https://www.reddit.com/r/learnprogramming/comments/6qhlzi/best_coding_bootcamps_in_chicago/

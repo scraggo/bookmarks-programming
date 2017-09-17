@@ -1,8 +1,14 @@
 *TOC*
+- Topics
 - My Projects
 - Repos
-- Topics
 - Courses
+
+## Topics
+- Career (career-in-progress)
+- Computer Science - narrow down courses, choose a path.
+  - recursion, data structures, algoritms
+  - Learn OOP in Python
 
 ## My Projects
 - Blogging with Jekyll, scraggo.github.io
@@ -45,26 +51,16 @@ scraggo.github.io
 subnotes-python
 ```
 
-## Topics
-- Learn OOP in Python
-- JS books (EJS, YDKJS, and easier)
-- Computer Science (looking for best books)
-  - recursion, data structures, algoritms
-
-## Courses
+## Courses / Books
 - Treehouse
 - Laracasts
 - Git / GitHub (which tutorial is best? Laracasts?)
   - GitHub Desktop (until I figure out Git at the command line)
 - Started: EdX - learn C
+- JS books (EJS, YDKJS, and easier)
 
 ## Tools
 - What's the perfect IDE?
-
-## Career
-- The Job Interview - a big topic to start researching.
-- Networking / Pair Programming - slack channel
-- The big picture - my own company?
 
 ## Done Tutorials
 

@@ -1,12 +1,16 @@
 # JAVASCRIPT IN PROGRESS
 
+## Progress
+9/17/17 - 40% through YDKJS
+
 Reading
+- YDKJS
 - Eloquent JavaScript
 - Modern JavaScript - cool mini jQuery functions?
 - [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 Courses
-- JSandDOM-treehouse
+- JSandDOM-treehouse (almost complete)
 - Wes Bos - JavaScript 30
     - 04 - Array Cardio Day 1
 - [Practical JavaScript | Watch and Code®](https://watchandcode.com/p/practical-javascript)
@@ -67,7 +71,6 @@ DONE
 - Treehouse, AngularJS: build a todo app
 - CodeAcademy, interactive website
 - For dummies
-- 
 - TNB - remake into useable JS
 - for dummies, newer 2015: http://pdf.th7.cn/down/files/1508/Coding%20with%20JavaScript%20For%20Dummies.pdf
 - course: https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies
