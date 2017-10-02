@@ -67,9 +67,6 @@ subnotes-python
 - What's the perfect IDE?
 
 ## Resources
-! Resources to learn a language
-* [curated-programming-resources/resources.md at master · Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
-
 P1xt Paths
 - [P1xt/p1xt-guides: Programming curricula](https://github.com/P1xt/p1xt-guides)
 
@@ -82,3 +79,7 @@ P1xt Paths
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 
 - [dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
+
+Resources to learn a language
+* [curated-programming-resources/resources.md at master · Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+
