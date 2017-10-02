@@ -15,6 +15,7 @@ I've been learning Python and JavaScript for about a year and have worked with H
 
 Online
 
+- [Flexible Web Development Bootcamp · Thinkful](https://www.thinkful.com/bootcamp/web-development/flexible/) | [https://www.thinkful.com/bootcamp/web-development/flexible/](https://www.thinkful.com/bootcamp/web-development/flexible/)
 - [Learn - Sign In](https://learn.co/sign_in) - online bootcamp. $1000/month and should take between four and six months to complete.
 - [Launch School - Online Programming Bootcamp for Serious Developers](https://launchschool.com/) - 200/month "slow program". Lots of Ruby
 
