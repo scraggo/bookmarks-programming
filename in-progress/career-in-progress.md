@@ -7,13 +7,16 @@
 - Blog
 - The Job Interview - a big topic 
 - Networking / Pair Programming - slack channel
-- The big picture - my own company
+- The big picture
 
 ## P1XT - Job Ready Guide
 - https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md
 - (from https://github.com/P1xt/p1xt-guides )
 - https://github.com/P1xt/p1xt-guides/blob/master/faq.md
 - My Progress: See JS
+
+## BOOTCAMPS
+see bootcamps.md
 
 ## DIY BOOTCAMP
 

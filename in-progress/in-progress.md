@@ -1,25 +1,29 @@
-*TOC*
+*OVERVIEW*
 - Topics
 - My Projects
 - Repos
 - Courses
-
-## Topics
 - Career (career-in-progress)
 - Computer Science - narrow down courses, choose a path.
   - recursion, data structures, algoritms
   - Learn OOP in Python
 
+## Topics / Courses
+- SASS course (in progress)
+- Improve gulp workflow
+
 ## My Projects
 - Blogging with Jekyll, scraggo.github.io
-- SLACK:
-  -	Collaboration
+- Subnotes - began as a Python prototype, now a web version
+- Collaboration
+  -	Slack channel moderator
   -	Helping beginners
+  - Working on projects
 - Bookmarks project - combine scripts
   - A chrome extension that lets you store bookmarks in markdown for easy adding of notes
 - Frameworks: need more project ideas
   - I want to make some sort of SPA with Angular 1.x and then in Aurelia 
-- Python - tictactoe, subnotes, backup files script
+- Python - tictactoe, backup files script
 - Hangman, vanilla Javascript (have a working Python version)
 - FreeCodeCamp - Full Stack track
 - **MUSIC**
