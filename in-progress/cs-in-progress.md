@@ -9,6 +9,7 @@ BOOKS / PDF
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/)
 
 ! courses
+* CS50 - on week 1
 * MIT - Python 2016
   * <https://www.youtube.com/watch?v=-DP1i2ZU9gk> MIT OOP pt 1
   * <https://www.youtube.com/watch?v=FlGjISF3l78> pt 2

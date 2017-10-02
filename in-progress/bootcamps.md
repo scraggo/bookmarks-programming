@@ -9,7 +9,7 @@
 - Job placement
 
 ## My situation
-I am a 33 year old musician looking to change careers. I've been learning Python and JavaScript for about a year and have worked with HTML and CSS for many years. I've recently decided to follow a fullstack web development track. This would include React.js, Node, a database language (amongst other crucial programming tools). I have a portfolio of small front-end projects, but am interested in making a much more impressive portfolio. I am looking to pay a minimum up front and defer payment until I've gained employment.
+I've been learning Python and JavaScript for about a year and have worked with HTML and CSS for many years. I've recently decided to follow a fullstack web development track. This would include React.js, Node, a database language (amongst other crucial programming tools). I have a portfolio of small front-end projects, but am interested in making a much more impressive portfolio.
 
 ## Bootcamps
 

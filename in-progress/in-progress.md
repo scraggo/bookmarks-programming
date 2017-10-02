@@ -9,7 +9,6 @@
   - Learn OOP in Python
 
 ## Topics / Courses
-- SASS course (in progress)
 - Improve gulp workflow
 
 ## My Projects
@@ -66,16 +65,3 @@ subnotes-python
 ## Tools
 - What's the perfect IDE?
 
-## Done Tutorials
-
-Challenges:
-- Exercism: 1 / 2
-
-Javascript: (see js in progress)
-
-HTML/CSS Basics:
-- Codeacademy: HTML, CSS, 
-- Udacity: intro to HTML, CSS
-- Shay Howe
-- w3 schools
-- [X] Dash - General Assembly
