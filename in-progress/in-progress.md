@@ -13,7 +13,7 @@
 - CS50 week 2
 - Learn commandline, treehouse
 - Improve gulp workflow
-- Improve CSS basics
+- Improve CSS basics (flex, grid, etc)
 
 ## My Projects
 - Blogging with Jekyll, scraggo.github.io
