@@ -12,6 +12,8 @@ P1xt Paths
 
 - [dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
+- [A Path to Building a Full-Stack App with JavaScript](https://medium.com/@Bolu_Ajibawo/a-path-to-building-a-full-stack-app-with-javascript-973454e9c461)
+
 Resources to learn a language
 * [curated-programming-resources/resources.md at master · Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 

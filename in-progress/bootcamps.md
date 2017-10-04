@@ -2,6 +2,12 @@
 
 ### Google: online web bootcamp
 
+#todo
+! contact for info sessions
+x check pcloud for bootcamp.md
+Hack reactor, nd, general assembly. 
+https://www.switchup.org/locations/chicago-coding-bootcamp
+
 ## The Issues
 - Flex vs part time
   - will I be available full time, or try to work around job?
@@ -31,7 +37,6 @@ industry panel - present your project to them at end
 10000 save 1000 pay all at once
 if not put 2500 down
 divide by 6 months
-
 
 ## Bootcamps
 
