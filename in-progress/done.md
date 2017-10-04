@@ -1,3 +1,8 @@
+## IDE's I Use
+- VSC (primary)
+- Atom
+- Brackets
+
 ## Done Tutorials
 
 *see JavaScript*

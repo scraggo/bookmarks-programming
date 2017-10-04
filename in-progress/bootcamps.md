@@ -3,13 +3,35 @@
 ### Google: online web bootcamp
 
 ## The Issues
-- Schedule: will I be available full time, or try to work around job?
-- Cost: can I defer payment until I have a job?
+- Flex vs part time
+  - will I be available full time, or try to work around job?
+- Cost: payment plans or, can I defer payment until I have a job?
 - Custom curriculum: Learning what I want to learn
-- Job placement
+- Career coaching / Job placement
+- Speak to alumni or current students?
+  - Attend a sample class?
 
 ## My situation
 I've been learning Python and JavaScript for about a year and have worked with HTML and CSS for many years. I've recently decided to follow a fullstack web development track. This would include React.js, Node, a database language (amongst other crucial programming tools). I have a portfolio of small front-end projects, but am interested in making a much more impressive portfolio.
+
+## thinkful: wed 2pm
+part time. 5-6 months part time. 3 hours/wk personal mentor (these are instructors), you can ask career questions in this time.  Q&A sessions. Slack channels. 
+full time:  Q&A sessions. Slack channels same. Classroom with structure every day 930a-430p. emphasis on pair programming
+career help both. mock interviews. employer introductions! program instructors help with your code/staying on track
+6 month guarantee in chicago or your money back!!! 
+ISA payment plan - only for full time. 1000 down.
+part time: 1500/mo, skills fund 250. 290/mo
+full time cohorts: dec 4 (apply oct 23) - 4 week prep course
+
+## nw coding bootcamp. call wed before noon 312-416-9979 ext 1228 Richard Burton
+industry panel - present your project to them at end
+35-40 hours of work outside of class
+339 E Chicago Ave. wabo hall
+90 days after graduating continued support
+10000 save 1000 pay all at once
+if not put 2500 down
+divide by 6 months
+
 
 ## Bootcamps
 
