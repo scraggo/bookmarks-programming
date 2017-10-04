@@ -9,8 +9,11 @@
   - Learn OOP in Python
 - Best Resources
 
-## Topics / Courses
+## Topics / Courses (in priority order)
+- CS50 week 2
+- Learn commandline, treehouse
 - Improve gulp workflow
+- Improve CSS basics
 
 ## My Projects
 - Blogging with Jekyll, scraggo.github.io
