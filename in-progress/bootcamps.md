@@ -1,12 +1,15 @@
 ### [Compare Bootcamps - 2015 image](http://www.chicagobusiness.com/Assets/legacy/images/random2/20150309bootcamp.jpg)
 
-### Google: online web bootcamp
 
 #todo
+```
+Prep courses
+Apply by ___? Get scholarship.
 ! contact for info sessions
-x check pcloud for bootcamp.md
 Hack reactor, nd, general assembly. 
 https://www.switchup.org/locations/chicago-coding-bootcamp
+Google: online web bootcamp
+```
 
 ## The Issues
 - Flex vs part time
@@ -41,21 +44,19 @@ divide by 6 months
 ## Bootcamps
 
 Online
-
+- [Hack Reactor](https://www.hackreactor.com/) - $17780, react backbone angular. 80% placement rate. Not in chicago, but both part and full time programs online.
 - [Flexible Web Development Bootcamp · Thinkful](https://www.thinkful.com/bootcamp/web-development/flexible/) | [https://www.thinkful.com/bootcamp/web-development/flexible/](https://www.thinkful.com/bootcamp/web-development/flexible/)
 - [Learn - Sign In](https://learn.co/sign_in) - online bootcamp. $1000/month and should take between four and six months to complete.
 - [Launch School - Online Programming Bootcamp for Serious Developers](https://launchschool.com/) - 200/month "slow program". Lots of Ruby
 
 In Person / online
-
-- [Northwestern Coding Boot Camp | Become a Web Developer in 24 Weeks](https://bootcamp.northwestern.edu/coding/) - tues/thurs/sat evenings (not good if employed), curriculum looks good, $9500. Could do the 3 month full time option as well. Career placement services.
-- [Code Fellows | Code 401: Advanced Software Development in Full-Stack JavaScript](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/) - good curriculum, $12000 (have to be good enough to be accepted). 95% job placement
-- [Hack Reactor](https://www.hackreactor.com/) - $17780, react backbone angular. 80% placement rate
-- [Fullstack Academy | Top Coding Bootcamp in New York and Chicago](https://www.fullstackacademy.com/) - looks cool $17,610.
+- [Fullstack Academy | Top Coding Bootcamp in New York and Chicago](https://www.fullstackacademy.com/) - looks cool $17,610. 14,610 Chicago Full Tuition (for immersive). In chicago - flex immersive meets on campus two evenings a week and immersive weekends. 
   - [Starter League - Fullstack Academy](https://www.fullstackacademy.com/starter-league)
+- [Northwestern Coding Boot Camp | Become a Web Developer in 24 Weeks](https://bootcamp.northwestern.edu/coding/) - tues/thurs/sat evenings (not good if employed), curriculum looks good, $9500. Could do the 3 month full time option as well. Career placement services.
 
 Meh
-
+- [App Academy | Curriculum | Week 1—5](https://www.appacademy.io/immersive/curriculum) - Lots of ruby
+- [Code Fellows | Code 401: Advanced Software Development in Full-Stack JavaScript](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/) - good curriculum, $12000 (have to be good enough to be accepted). 95% job placement (online program?)
 - [General Assembly](https://generalassemb.ly/) - 13,500 online or on campus. ruby/rails
 - [Actualize](http://anyonecanlearntocode.com/) - 13,900. Vue / Rails.
 - [Coding Temple | Programming Bootcamp](http://codingtemple.com/) - part or full time, JS with Angular
@@ -63,3 +64,8 @@ Meh
 - [Devry Bootcamp](http://bootcamp.devry.edu/programs/web-development/) - $9750. Not quite my curriculum. Coding Bootcamp - JavaScript - 24 Weeks
   - [Web Development Bootcamp - Full-Stack | Devry Bootcamp](http://bootcamp.devry.edu/programs/web-development/program-details/)
 - [Dev Bootcamp](https://devbootcamp.com/locations/chicago) - closed
+
+Done
+```
+x check pcloud for bootcamp.md
+```

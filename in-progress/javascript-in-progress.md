@@ -1,7 +1,7 @@
 # JAVASCRIPT IN PROGRESS
 
 ## Progress
-10/01/17 - 55% through YDKJS
+10/09/17 - 58% through YDKJS
 
 Reading
 - YDKJS

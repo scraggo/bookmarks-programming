@@ -10,7 +10,9 @@
 
 ## Topics / Courses (in priority order)
 - CS50 week 2
-- Learn commandline, treehouse
+- Learn git, treehouse
+- Hack Reactor Prep
+- Fullstack Academy Prep
 - Improve gulp workflow
 - Improve CSS basics (flex, grid, etc)
 

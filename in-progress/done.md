@@ -7,6 +7,9 @@
 
 *see JavaScript*
 
+COMMAND LINE
+- Treehouse (10/09/2017)
+
 CSS
 - SASS course, codeacademy (10/02/2017)
 
