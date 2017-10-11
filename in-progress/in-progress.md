@@ -41,22 +41,22 @@
 
 ## Repos
 ```
-Aurelia-Github-Users
-Aurelia-InstagramClone
-aurelia-sample-blog
-Aurelia-TodoTutorial
-Chrome-Bookmarks-Parser
-flight-sorting-angularjs
-free-programming-books
-Hangman-Web
-Javascript-Exercises
-MidiWriterJS
-p1xt-study-group-notes
-Python-Small-Projects
-Random-Music-Generators
-RestaurantApp
-scraggo.github.io
-subnotes-python
+Aurelia-Github-Users/
+Aurelia-InstagramClone/
+Aurelia-TodoTutorial/
+Chrome-Bookmarks-Parser/
+Hangman-Web/
+MidiWriterJS/
+Random-Music-Generators/
+RestaurantApp/
+ScragMark/
+aurelia-sample-blog/
+flight-sorting-angularjs/
+free-programming-books/
+p1xt-study-group-notes/
+scraggo.github.io/
+small-projects/
+subnotes/
 ```
 
 ## Courses / Books
