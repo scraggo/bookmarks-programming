@@ -9,9 +9,9 @@
   - Learn OOP in Python
 
 ## Topics / Courses (in priority order)
+- Hack Reactor Prep / Scholarship video
 - CS50 week 2
 - Learn git, treehouse
-- Hack Reactor Prep
 - Fullstack Academy Prep
 - Improve gulp workflow
 - Improve CSS basics (flex, grid, etc)
