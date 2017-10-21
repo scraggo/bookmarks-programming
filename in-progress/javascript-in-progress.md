@@ -66,6 +66,7 @@ YDKJS
 
 
 DONE
+- Hack Reactor Prep 10-21-2017
 - IntroES2015-Treehouse
 - OOP-JS-Treehouse
 - Treehouse, AngularJS: build a todo app

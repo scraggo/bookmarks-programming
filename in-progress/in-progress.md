@@ -9,7 +9,7 @@
   - Learn OOP in Python
 
 ## Topics / Courses (in priority order)
-- Hack Reactor Prep / Scholarship video
+- Bootcamp Applications: Hack Reactor +Scholarship / Fullstack Academy
 - CS50 week 2
 - Learn git, treehouse
 - Fullstack Academy Prep
