@@ -5,16 +5,18 @@
 - Courses
 - Career (career-in-progress)
 - Computer Science - narrow down courses, choose a path.
-  - recursion, data structures, algoritms
-  - Learn OOP in Python
+  - data structures, algorithms (recursion)
+  - functional programming
 
 ## Topics / Courses (in priority order)
-- Bootcamp Applications: Hack Reactor +Scholarship / Fullstack Academy
-- CS50 week 2
+- CS50 week 4
 - Learn git, treehouse
-- Fullstack Academy Prep
+- Bootcamp Applications: Hack Reactor +Scholarship / Fullstack Academy
+  - Waiting on Scholarship
 - Improve gulp workflow
 - Improve CSS basics (flex, grid, etc)
+- FreeCodeCamp - Full Stack track
+- p1xt guide
 
 ## My Projects
 - Blogging with Jekyll, scraggo.github.io
@@ -29,13 +31,12 @@
   - I want to make some sort of SPA with Angular 1.x and then in Aurelia 
 - Python - tictactoe, backup files script
 - Hangman, vanilla Javascript (have a working Python version)
-- FreeCodeCamp - Full Stack track
 - **MUSIC**
+- Random music generator with output MIDI
 - MTFA in the most logical way.
   - Static?
   - Laravel?
   - Flask? Node?
-- Random music generator with output MIDI
 - Interactive music teaching app(s) for learning beginner through advanced guitar
 - Songwriting assistant GUI (maybe)
 
@@ -64,7 +65,5 @@ subnotes/
 - Laracasts
 - Git / GitHub (which tutorial is best? Laracasts?)
   - GitHub Desktop (until I figure out Git at the command line)
-- Started: EdX - learn C
+- EdX: CS50
 - JS books (EJS, YDKJS, and easier)
-
-## Tools

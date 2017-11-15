@@ -1,7 +1,14 @@
 ## IDE's I Use
 - VSC (primary)
 - Atom
-- Brackets
+- Brackets (no)
+
+## Text / Notes Apps
+- TextMate
+- TextWrangler
+- NValt
+- Simplenote
+
 
 ## Done Tutorials
 
@@ -15,6 +22,9 @@ CSS
 
 Challenges:
 - Exercism: 1 / 2
+
+Python
+- Learn OOP in Python
 
 Javascript: (see js in progress)
 
